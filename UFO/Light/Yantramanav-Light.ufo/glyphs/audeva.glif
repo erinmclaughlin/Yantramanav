@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="audeva" format="1">
+  <advance width="1920"/>
+  <unicode hex="0914"/>
+  <outline>
+    <component base="aivowelsigndeva" xOffset="1920"/>
+    <component base="aadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

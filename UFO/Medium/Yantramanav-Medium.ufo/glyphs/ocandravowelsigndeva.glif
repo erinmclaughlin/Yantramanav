@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocandravowelsigndeva" format="1">
+  <advance width="580"/>
+  <unicode hex="0949"/>
+  <outline>
+    <component base="ecandravowelsigndeva" xOffset="681" yOffset="1"/>
+    <component base="aavowelsigndeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>30</integer>
+    </dict>
+  </lib>
+</glyph>

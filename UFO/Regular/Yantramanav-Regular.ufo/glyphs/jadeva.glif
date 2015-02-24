@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jadeva" format="1">
+  <advance width="1354"/>
+  <unicode hex="091C"/>
+  <outline>
+    <contour>
+      <point x="-30" y="1138" type="line"/>
+      <point x="-30" y="1279" type="line"/>
+      <point x="1384" y="1279" type="line"/>
+      <point x="1384" y="1138" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="789" type="line"/>
+      <point x="557" y="776"/>
+      <point x="725" y="594"/>
+      <point x="725" y="469" type="qcurve" smooth="yes"/>
+      <point x="725" y="311"/>
+      <point x="530" y="110"/>
+      <point x="344" y="110" type="qcurve" smooth="yes"/>
+      <point x="269" y="110"/>
+      <point x="139" y="145"/>
+      <point x="61" y="181" type="qcurve"/>
+      <point x="94" y="322" type="line"/>
+      <point x="167" y="283"/>
+      <point x="266" y="258"/>
+      <point x="322" y="259" type="qcurve" smooth="yes"/>
+      <point x="427" y="261"/>
+      <point x="547" y="368"/>
+      <point x="547" y="475" type="qcurve" smooth="yes"/>
+      <point x="547" y="576"/>
+      <point x="394" y="717"/>
+      <point x="259" y="717" type="qcurve" smooth="yes"/>
+      <point x="185" y="717" type="line"/>
+      <point x="185" y="858" type="line"/>
+      <point x="1020" y="858" type="line"/>
+      <point x="1020" y="717" type="line"/>
+      <point x="439" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="956" y="1198" type="line"/>
+      <point x="1133" y="1198" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="956" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="990.0" y="1291.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>305</integer>
+          <key>y</key>
+          <integer>717</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>859</integer>
+          <key>y</key>
+          <integer>859</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1274</integer>
+          <key>y</key>
+          <integer>-10</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1014</integer>
+          <key>y</key>
+          <integer>1081</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1172</integer>
+          <key>y</key>
+          <integer>1250</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1354</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1354</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

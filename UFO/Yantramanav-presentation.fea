@@ -1,0 +1,113 @@
+# ---------------- Above-base substitutions ---------------
+
+feature abvs {
+            
+            lookup AbvsSubs {                             
+                
+
+                sub iideva anusvaradeva by iianusvaradeva;
+                sub ecandradeva anusvaradeva by ecandraanusvaradeva;                  
+                sub rephdeva candrabindudeva by rephanusvaradeva;
+                sub rephdeva anusvaradeva by rephanusvaradeva;
+                sub ecandravowelsigndeva anusvaradeva by candrabindudeva;                
+                                
+            } AbvsSubs;
+            
+            lookup AbvsAnusvara2 {
+                
+                sub @abvb_anus2 anusvaradeva' by anusvaradeva2;
+
+            } AbvsAnusvara2;
+            
+} abvs;
+
+# -------------- Below-base substitutions -------------------
+
+feature blws {
+    
+            lookup NuktAlt {
+          
+                sub rhadeva' @blws_nuktvowels by rha2deva;
+                sub dddhadeva' @blws_nuktvowels by dddha2deva;
+          
+            } NuktAlt;
+
+            lookup VowelLiga { 
+          
+                sub hadeva uvowelsigndeva by haudeva;
+                sub haradeva uvowelsigndeva by haraudeva;
+                sub dadeva uvowelsigndeva by daudeva;
+                sub radeva uvowelsigndeva by raudeva;
+                sub rradeva uvowelsigndeva by ranuktaudeva; 
+                
+                sub hadeva uuvowelsigndeva by hauudeva;
+                sub haradeva uuvowelsigndeva by harauudeva;
+                sub dadeva uuvowelsigndeva by dauudeva;
+                sub radeva uuvowelsigndeva by rauudeva;
+                sub rradeva uuvowelsigndeva by ranuktauudeva; 
+
+                sub dadeva rvocalicvowelsigndeva by darvocalicdeva; 
+                sub hadeva rvocalicvowelsigndeva by harvocalicdeva;
+                sub hadeva rrvocalicvowelsigndeva by harrvocalicdeva;
+           
+            } VowelLiga;
+
+            lookup VattuLowVowels { #testing new option 
+                # ttaradeva  uvowelsigndeva' by vattuudeva
+                sub @blws_vattu_c_1 @blws_dflt_v' by @blws_low_v;
+
+            } VattuLowVowels;
+            
+            lookup VowelsLow {    
+                #  ttattadeva  uvowelsigndeva' by uvowelsignlowdeva
+                sub @blws_low_c @blws_dflt_v' by @blws_low_v; 
+
+            } VowelsLow;
+
+} blws;
+
+# --------------- Post-base substitution  --------------
+
+feature psts {
+
+            lookup IiVowelWidths { 
+
+#                sub @iic_02 @ii_00' by @ii_02;
+                sub @iic_03 iivowelsigndeva' by iivowelsign3deva;
+                sub ngadeva iivowelsigndeva' by iivowelsign4deva;
+                sub ngaradeva iivowelsigndeva' by iivowelsign4deva;
+
+            } IiVowelWidths;
+ 
+
+} psts;
+
+# --------------- Halant Form substitution ----------
+
+feature haln { 
+
+            lookup FinalVattuHalant {
+   
+                sub ngaradeva viramadeva by ngaraprehalfdeva;
+                sub ttaradeva viramadeva by ttaraprehalfdeva;
+                sub ttharadeva viramadeva by ttharaprehalfdeva; 
+                sub ddaradeva viramadeva by ddaraprehalfdeva; 
+                sub ddharadeva viramadeva by ddharaprehalfdeva; 
+                sub ddhanuktaradeva viramadeva by ddhanuktaraprehalfdeva; 
+                sub ddanuktaradeva viramadeva by ddhanuktaraprehalfdeva; 
+                sub daradeva viramadeva by daraprehalfdeva;
+                
+                sub ngadeva viramadeva by ngaprehalfdeva;
+                sub ttadeva viramadeva by ttaprehalfdeva;
+                sub tthadeva viramadeva by tthaprehalfdeva; 
+                sub ddadeva viramadeva by ddaprehalfdeva; 
+                sub ddhadeva viramadeva by ddhaprehalfdeva; 
+                sub rhadeva viramadeva by ddhanuktaprehalfdeva; 
+                sub dddhadeva viramadeva by ddhanuktaprehalfdeva; 
+                sub dadeva viramadeva by daprehalfdeva;   
+                
+                sub radeva viramadeva by rahalantdeva;  
+
+            } FinalVattuHalant;
+            
+} haln;

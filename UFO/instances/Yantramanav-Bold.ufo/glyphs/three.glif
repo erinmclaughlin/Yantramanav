@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="1058"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="354" y="767" type="line"/>
+      <point x="501" y="767" type="line"/>
+      <point x="595" y="767"/>
+      <point x="686" y="865"/>
+      <point x="686" y="953" type="qcurve"/>
+      <point x="686" y="1031"/>
+      <point x="597" y="1126"/>
+      <point x="510" y="1126" type="qcurve"/>
+      <point x="437" y="1126"/>
+      <point x="335" y="1040"/>
+      <point x="335" y="971" type="qcurve"/>
+      <point x="81" y="971" type="line"/>
+      <point x="79" y="976" type="line"/>
+      <point x="74" y="1130"/>
+      <point x="320" y="1329"/>
+      <point x="503" y="1329" type="qcurve"/>
+      <point x="706" y="1329"/>
+      <point x="949" y="1135"/>
+      <point x="949" y="956" type="qcurve"/>
+      <point x="949" y="869"/>
+      <point x="842" y="715"/>
+      <point x="748" y="673" type="qcurve"/>
+      <point x="857" y="634"/>
+      <point x="969" y="474"/>
+      <point x="969" y="366" type="qcurve"/>
+      <point x="969" y="187"/>
+      <point x="707" y="-19"/>
+      <point x="503" y="-19" type="qcurve"/>
+      <point x="320" y="-19"/>
+      <point x="57" y="175"/>
+      <point x="62" y="352" type="qcurve"/>
+      <point x="64" y="358" type="line"/>
+      <point x="319" y="358" type="line"/>
+      <point x="319" y="282"/>
+      <point x="427" y="184"/>
+      <point x="510" y="184" type="qcurve"/>
+      <point x="601" y="184"/>
+      <point x="707" y="285"/>
+      <point x="707" y="369" type="qcurve"/>
+      <point x="707" y="474"/>
+      <point x="602" y="570"/>
+      <point x="501" y="570" type="qcurve"/>
+      <point x="354" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

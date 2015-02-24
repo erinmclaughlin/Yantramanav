@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva" format="1">
+  <advance width="865"/>
+  <unicode hex="0930"/>
+  <outline>
+    <contour>
+      <point x="769" y="89" type="line"/>
+      <point x="613" y="-23" type="line"/>
+      <point x="-6" y="719" type="line"/>
+      <point x="143" y="835" type="line"/>
+      <point x="328" y="658" type="line"/>
+      <point x="328" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="673" type="line"/>
+      <point x="370" y="673"/>
+      <point x="454" y="769"/>
+      <point x="454" y="880" type="qcurve" smooth="yes"/>
+      <point x="454" y="1180" type="line"/>
+      <point x="669" y="1180" type="line"/>
+      <point x="669" y="865" type="line"/>
+      <point x="669" y="674"/>
+      <point x="485" y="464"/>
+      <point x="280" y="464" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="-30" y="1119" type="line"/>
+      <point x="-30" y="1283" type="line"/>
+      <point x="895" y="1283" type="line"/>
+      <point x="895" y="1119" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="22" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="486" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>517</integer>
+          <key>y</key>
+          <integer>1218</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

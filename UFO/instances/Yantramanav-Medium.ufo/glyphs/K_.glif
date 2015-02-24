@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1190"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="511" y="576" type="line"/>
+      <point x="372" y="576" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="1310" type="line"/>
+      <point x="372" y="1310" type="line"/>
+      <point x="372" y="744" type="line"/>
+      <point x="486" y="744" type="line"/>
+      <point x="929" y="1310" type="line"/>
+      <point x="1166" y="1310" type="line"/>
+      <point x="1170" y="1306" type="line"/>
+      <point x="681" y="683" type="line"/>
+      <point x="1205" y="4" type="line"/>
+      <point x="1202" y="0" type="line"/>
+      <point x="945" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1170</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1170</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

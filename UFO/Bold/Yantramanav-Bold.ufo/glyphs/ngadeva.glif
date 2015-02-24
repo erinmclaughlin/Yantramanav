@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ngadeva" format="1">
+  <advance width="1299"/>
+  <unicode hex="0919"/>
+  <outline>
+    <contour>
+      <point x="1018" y="1096" type="line"/>
+      <point x="1018" y="1288" type="line"/>
+      <point x="1329" y="1288" type="line"/>
+      <point x="1329" y="1096" type="line"/>
+    </contour>
+    <contour>
+      <point x="1227" y="571" type="line"/>
+      <point x="988" y="571" type="line"/>
+      <point x="988" y="766" type="line"/>
+      <point x="1227" y="766" type="line"/>
+    </contour>
+    <component base="ddadeva"/>
+    <contour>
+      <point x="466" y="8" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="643" y="1288" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>782</integer>
+          <key>y</key>
+          <integer>1183</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>683</integer>
+          <key>y</key>
+          <integer>1386</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jhaprehalfdevaNEP" format="1">
+  <advance width="1286"/>
+  <outline>
+    <contour>
+      <point x="981" y="1076" type="line"/>
+      <point x="981" y="1293" type="line"/>
+      <point x="1341" y="1293" type="line"/>
+      <point x="1341" y="1076" type="line"/>
+    </contour>
+    <contour>
+      <point x="987" y="839" type="line"/>
+      <point x="1018" y="863"/>
+      <point x="1138" y="898"/>
+      <point x="1217" y="898" type="qcurve" smooth="yes"/>
+      <point x="1329" y="898"/>
+      <point x="1517" y="819"/>
+      <point x="1594" y="724" type="qcurve"/>
+      <point x="1517" y="486" type="line"/>
+      <point x="1419" y="588"/>
+      <point x="1266" y="647"/>
+      <point x="1221" y="647" type="qcurve" smooth="yes"/>
+      <point x="1150" y="647"/>
+      <point x="1036" y="581"/>
+      <point x="987" y="518" type="qcurve"/>
+    </contour>
+    <component base="bhadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jhaprehalfdevaNEP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1286</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jhaprehalfdevaNEP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1286</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jhadevaNEP" format="1">
+  <advance width="1555"/>
+  <outline>
+    <contour>
+      <point x="975" y="1188" type="line"/>
+      <point x="975" y="1276" type="line"/>
+      <point x="1585" y="1276" type="line"/>
+      <point x="1585" y="1188" type="line"/>
+    </contour>
+    <contour>
+      <point x="829" y="716" type="line"/>
+      <point x="879" y="752"/>
+      <point x="1018" y="798"/>
+      <point x="1106" y="798" type="qcurve" smooth="yes"/>
+      <point x="1247" y="798"/>
+      <point x="1436" y="619"/>
+      <point x="1436" y="473" type="qcurve" smooth="yes"/>
+      <point x="1436" y="377"/>
+      <point x="1362" y="195"/>
+      <point x="1314" y="134" type="qcurve"/>
+      <point x="1213" y="154" type="line"/>
+      <point x="1269" y="225"/>
+      <point x="1332" y="393"/>
+      <point x="1332" y="475" type="qcurve" smooth="yes"/>
+      <point x="1332" y="582"/>
+      <point x="1199" y="711"/>
+      <point x="1101" y="711" type="qcurve" smooth="yes"/>
+      <point x="1024" y="711"/>
+      <point x="890" y="656"/>
+      <point x="829" y="605" type="qcurve"/>
+    </contour>
+    <component base="bhadeva"/>
+    <contour>
+      <point x="776" y="12" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="768" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>749</integer>
+          <key>y</key>
+          <integer>1123</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

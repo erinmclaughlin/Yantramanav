@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udeva" format="1">
+  <advance width="968"/>
+  <unicode hex="0909"/>
+  <outline>
+    <contour>
+      <point x="-30" y="1119" type="line"/>
+      <point x="-30" y="1283" type="line"/>
+      <point x="998" y="1283" type="line"/>
+      <point x="998" y="1119" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="600" type="line"/>
+      <point x="222" y="773" type="line"/>
+      <point x="248" y="773" type="line"/>
+      <point x="421" y="773"/>
+      <point x="543" y="880"/>
+      <point x="543" y="965" type="qcurve" smooth="yes"/>
+      <point x="543" y="1031"/>
+      <point x="450" y="1120"/>
+      <point x="362" y="1120" type="qcurve" smooth="yes"/>
+      <point x="167" y="1120" type="line"/>
+      <point x="147" y="1260" type="line"/>
+      <point x="372" y="1260" type="line"/>
+      <point x="542" y="1260"/>
+      <point x="747" y="1098"/>
+      <point x="747" y="958" type="qcurve" smooth="yes"/>
+      <point x="747" y="799"/>
+      <point x="507" y="600"/>
+      <point x="264" y="600" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="407" y="780" type="line"/>
+      <point x="585" y="787"/>
+      <point x="837" y="569"/>
+      <point x="837" y="414" type="qcurve" smooth="yes"/>
+      <point x="837" y="239"/>
+      <point x="614" y="50"/>
+      <point x="426" y="50" type="qcurve" smooth="yes"/>
+      <point x="340" y="50"/>
+      <point x="172" y="86"/>
+      <point x="74" y="129" type="qcurve"/>
+      <point x="102" y="301" type="line"/>
+      <point x="185" y="260"/>
+      <point x="315" y="226"/>
+      <point x="389" y="226" type="qcurve" smooth="yes"/>
+      <point x="503" y="226"/>
+      <point x="629" y="329"/>
+      <point x="629" y="423" type="qcurve" smooth="yes"/>
+      <point x="629" y="501"/>
+      <point x="495" y="621"/>
+      <point x="371" y="621" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="442" y="1290" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1258</integer>
+          <key>y</key>
+          <integer>-11</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1431</integer>
+          <key>y</key>
+          <integer>1036</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

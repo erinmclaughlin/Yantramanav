@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jhadevaNEP" format="1">
+  <advance width="1516"/>
+  <outline>
+    <contour>
+      <point x="998" y="1225" type="line"/>
+      <point x="998" y="1274" type="line"/>
+      <point x="1546" y="1274" type="line"/>
+      <point x="1546" y="1225" type="line"/>
+    </contour>
+    <contour>
+      <point x="797" y="662" type="line"/>
+      <point x="857" y="705"/>
+      <point x="996" y="751"/>
+      <point x="1081" y="751" type="qcurve" smooth="yes"/>
+      <point x="1204" y="751"/>
+      <point x="1385" y="585"/>
+      <point x="1385" y="442" type="qcurve" smooth="yes"/>
+      <point x="1385" y="345"/>
+      <point x="1310" y="161"/>
+      <point x="1268" y="106" type="qcurve"/>
+      <point x="1215" y="119" type="line"/>
+      <point x="1266" y="178"/>
+      <point x="1336" y="362"/>
+      <point x="1336" y="446" type="qcurve" smooth="yes"/>
+      <point x="1336" y="565"/>
+      <point x="1184" y="702"/>
+      <point x="1081" y="702" type="qcurve" smooth="yes"/>
+      <point x="1000" y="702"/>
+      <point x="864" y="656"/>
+      <point x="797" y="609" type="qcurve"/>
+    </contour>
+    <component base="bhadeva"/>
+    <contour>
+      <point x="772" y="12" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="764" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>749</integer>
+          <key>y</key>
+          <integer>1123</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jhadevaNEP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1516</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>jhadevaNEP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1516</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

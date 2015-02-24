@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dhadeva" format="1">
+  <advance width="1277"/>
+  <unicode hex="0927"/>
+  <outline>
+    <contour>
+      <point x="879" y="1198" type="line"/>
+      <point x="1056" y="1198" type="line"/>
+      <point x="1056" y="0" type="line"/>
+      <point x="879" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="189" type="qcurve" smooth="yes"/>
+      <point x="366" y="189"/>
+      <point x="145" y="382"/>
+      <point x="145" y="533" type="qcurve" smooth="yes"/>
+      <point x="145" y="671"/>
+      <point x="377" y="849"/>
+      <point x="592" y="849" type="qcurve" smooth="yes"/>
+      <point x="659" y="849" type="line"/>
+      <point x="670" y="708" type="line"/>
+      <point x="587" y="708" type="line" smooth="yes"/>
+      <point x="450" y="708"/>
+      <point x="322" y="608"/>
+      <point x="322" y="521" type="qcurve" smooth="yes"/>
+      <point x="322" y="437"/>
+      <point x="454" y="332"/>
+      <point x="564" y="332" type="qcurve" smooth="yes"/>
+      <point x="662" y="332"/>
+      <point x="853" y="402"/>
+      <point x="920" y="462" type="qcurve"/>
+      <point x="914" y="282" type="line"/>
+      <point x="855" y="244"/>
+      <point x="677" y="189"/>
+    </contour>
+    <contour>
+      <point x="1307" y="1138" type="line"/>
+      <point x="777" y="1138" type="line"/>
+      <point x="777" y="1279" type="line"/>
+      <point x="1307" y="1279" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="1020" type="qcurve" smooth="yes"/>
+      <point x="292" y="951"/>
+      <point x="427" y="848"/>
+      <point x="515" y="848" type="qcurve" smooth="yes"/>
+      <point x="601" y="848" type="line"/>
+      <point x="601" y="714" type="line"/>
+      <point x="507" y="714" type="line" smooth="yes"/>
+      <point x="376" y="714"/>
+      <point x="116" y="896"/>
+      <point x="116" y="1041" type="qcurve" smooth="yes"/>
+      <point x="116" y="1146"/>
+      <point x="275" y="1292"/>
+      <point x="412" y="1292" type="qcurve" smooth="yes"/>
+      <point x="462" y="1292"/>
+      <point x="554" y="1273"/>
+      <point x="591" y="1255" type="qcurve"/>
+      <point x="571" y="1132" type="line"/>
+      <point x="532" y="1147"/>
+      <point x="480" y="1155"/>
+      <point x="436" y="1155" type="qcurve" smooth="yes"/>
+      <point x="368" y="1155"/>
+      <point x="292" y="1082"/>
+    </contour>
+    <contour>
+      <point x="915" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>602</integer>
+          <key>y</key>
+          <integer>1316</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>899</integer>
+          <key>y</key>
+          <integer>1251</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dhadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1277</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dhadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1277</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

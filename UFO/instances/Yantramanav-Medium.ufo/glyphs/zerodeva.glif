@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerodeva" format="1">
+  <advance width="1108"/>
+  <unicode hex="0966"/>
+  <outline>
+    <contour>
+      <point x="1010" y="651" type="qcurve" smooth="yes"/>
+      <point x="1010" y="464"/>
+      <point x="759" y="214"/>
+      <point x="557" y="214" type="qcurve" smooth="yes"/>
+      <point x="355" y="214"/>
+      <point x="95" y="461"/>
+      <point x="95" y="653" type="qcurve" smooth="yes"/>
+      <point x="95" y="846"/>
+      <point x="347" y="1100"/>
+      <point x="544" y="1100" type="qcurve" smooth="yes"/>
+      <point x="755" y="1100"/>
+      <point x="1010" y="847"/>
+    </contour>
+    <contour>
+      <point x="795" y="658" type="qcurve" smooth="yes"/>
+      <point x="795" y="779"/>
+      <point x="657" y="932"/>
+      <point x="552" y="932" type="qcurve" smooth="yes"/>
+      <point x="443" y="932"/>
+      <point x="310" y="778"/>
+      <point x="310" y="653" type="qcurve" smooth="yes"/>
+      <point x="310" y="531"/>
+      <point x="453" y="382"/>
+      <point x="550" y="382" type="qcurve" smooth="yes"/>
+      <point x="660" y="382"/>
+      <point x="795" y="531"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>58</integer>
+          <key>y</key>
+          <integer>1116</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>569</integer>
+          <key>y</key>
+          <integer>1114</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zerodeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1027</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zerodeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1027</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

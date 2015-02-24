@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="phanuktaraprehalfdeva" format="1">
+  <advance width="1136"/>
+  <outline>
+    <component base="pharaprehalfdeva"/>
+    <component base="nuktadeva" xOffset="915" yOffset="337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

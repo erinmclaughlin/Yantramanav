@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninedeva" format="1">
+  <advance width="887"/>
+  <unicode hex="096F"/>
+  <outline>
+    <contour>
+      <point x="360" y="616" type="qcurve"/>
+      <point x="305" y="696" type="line"/>
+      <point x="479" y="696"/>
+      <point x="661" y="836"/>
+      <point x="664" y="954" type="qcurve" smooth="yes"/>
+      <point x="666" y="1055"/>
+      <point x="533" y="1185"/>
+      <point x="435" y="1185" type="qcurve" smooth="yes"/>
+      <point x="339" y="1185"/>
+      <point x="209" y="1052"/>
+      <point x="209" y="933" type="qcurve" smooth="yes"/>
+      <point x="209" y="875"/>
+      <point x="260" y="767"/>
+      <point x="319" y="706" type="qcurve" smooth="yes"/>
+      <point x="627" y="388" type="line"/>
+      <point x="692" y="322"/>
+      <point x="742" y="197"/>
+      <point x="742" y="130" type="qcurve" smooth="yes"/>
+      <point x="742" y="55" type="line"/>
+      <point x="640" y="55" type="line"/>
+      <point x="640" y="117" type="line"/>
+      <point x="640" y="187"/>
+      <point x="594" y="289"/>
+      <point x="544" y="339" type="qcurve" smooth="yes"/>
+      <point x="265" y="621" type="line"/>
+      <point x="188" y="699"/>
+      <point x="107" y="856"/>
+      <point x="107" y="942" type="qcurve" smooth="yes"/>
+      <point x="107" y="1090"/>
+      <point x="291" y="1274"/>
+      <point x="428" y="1274" type="qcurve" smooth="yes"/>
+      <point x="578" y="1274"/>
+      <point x="763" y="1091"/>
+      <point x="763" y="950" type="qcurve" smooth="yes"/>
+      <point x="763" y="808"/>
+      <point x="554" y="616"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

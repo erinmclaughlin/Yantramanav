@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodeva" format="1">
+  <advance width="942"/>
+  <unicode hex="0968"/>
+  <outline>
+    <contour>
+      <point x="497" y="547" type="line"/>
+      <point x="850" y="101" type="line"/>
+      <point x="641" y="-15" type="line"/>
+      <point x="310" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="342" type="qcurve" smooth="yes"/>
+      <point x="194" y="342"/>
+      <point x="89" y="424"/>
+      <point x="89" y="517" type="qcurve" smooth="yes"/>
+      <point x="89" y="603"/>
+      <point x="203" y="737"/>
+      <point x="281" y="737" type="qcurve" smooth="yes"/>
+      <point x="344" y="737"/>
+      <point x="442" y="669"/>
+      <point x="487" y="598" type="qcurve"/>
+      <point x="258" y="588" type="line"/>
+      <point x="389" y="596"/>
+      <point x="599" y="757"/>
+      <point x="599" y="876" type="qcurve" smooth="yes"/>
+      <point x="599" y="962"/>
+      <point x="469" y="1072"/>
+      <point x="375" y="1072" type="qcurve" smooth="yes"/>
+      <point x="307" y="1072"/>
+      <point x="182" y="1042"/>
+      <point x="116" y="1016" type="qcurve"/>
+      <point x="90" y="1219" type="line"/>
+      <point x="145" y="1244"/>
+      <point x="298" y="1278"/>
+      <point x="375" y="1278" type="qcurve" smooth="yes"/>
+      <point x="601" y="1278"/>
+      <point x="858" y="1043"/>
+      <point x="858" y="872" type="qcurve" smooth="yes"/>
+      <point x="858" y="654"/>
+      <point x="485" y="342"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>twodeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>841</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>twodeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>841</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

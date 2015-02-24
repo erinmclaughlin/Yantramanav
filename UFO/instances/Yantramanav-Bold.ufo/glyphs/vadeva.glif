@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vadeva" format="1">
+  <advance width="1156"/>
+  <unicode hex="0935"/>
+  <outline>
+    <contour>
+      <point x="1186" y="1096" type="line"/>
+      <point x="-30" y="1096" type="line"/>
+      <point x="-30" y="1288" type="line"/>
+      <point x="1186" y="1288" type="line"/>
+    </contour>
+    <contour>
+      <point x="729" y="231" type="line"/>
+      <point x="692" y="205"/>
+      <point x="556" y="169"/>
+      <point x="480" y="169" type="qcurve" smooth="yes"/>
+      <point x="294" y="169"/>
+      <point x="38" y="391"/>
+      <point x="38" y="575" type="qcurve" smooth="yes"/>
+      <point x="38" y="747"/>
+      <point x="272" y="945"/>
+      <point x="451" y="945" type="qcurve" smooth="yes"/>
+      <point x="548" y="945"/>
+      <point x="707" y="907"/>
+      <point x="767" y="870" type="qcurve"/>
+      <point x="767" y="654" type="line"/>
+      <point x="713" y="696"/>
+      <point x="581" y="743"/>
+      <point x="492" y="743" type="qcurve" smooth="yes"/>
+      <point x="407" y="743"/>
+      <point x="301" y="644"/>
+      <point x="301" y="556" type="qcurve" smooth="yes"/>
+      <point x="301" y="465"/>
+      <point x="412" y="374"/>
+      <point x="498" y="374" type="qcurve" smooth="yes"/>
+      <point x="566" y="374"/>
+      <point x="692" y="426"/>
+      <point x="729" y="469" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="698" y="1134" type="line"/>
+      <point x="961" y="1134" type="line"/>
+      <point x="961" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="703" y="1288" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>787</integer>
+          <key>y</key>
+          <integer>1221</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>229</integer>
+          <key>y</key>
+          <integer>602</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>vadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1031</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>vadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1031</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="awdevaKSH" format="1">
+  <advance width="2078"/>
+  <unicode hex="0975"/>
+  <outline>
+    <contour>
+      <point x="1696" y="1213" type="line"/>
+      <point x="1696" y="1480" type="line"/>
+      <point x="1696" y="1526"/>
+      <point x="1651" y="1573"/>
+      <point x="1619" y="1573" type="qcurve" smooth="yes"/>
+      <point x="1585" y="1573"/>
+      <point x="1496" y="1547"/>
+      <point x="1441" y="1547" type="qcurve" smooth="yes"/>
+      <point x="1368" y="1547"/>
+      <point x="1246" y="1601"/>
+      <point x="1192" y="1649" type="qcurve"/>
+      <point x="1253" y="1794" type="line"/>
+      <point x="1309" y="1752"/>
+      <point x="1406" y="1721"/>
+      <point x="1444" y="1721" type="qcurve" smooth="yes"/>
+      <point x="1494" y="1721"/>
+      <point x="1624" y="1765"/>
+      <point x="1676" y="1765" type="qcurve" smooth="yes"/>
+      <point x="1763" y="1765"/>
+      <point x="1882" y="1642"/>
+      <point x="1882" y="1515" type="qcurve" smooth="yes"/>
+      <point x="1882" y="1213" type="line"/>
+    </contour>
+    <contour>
+      <point x="1615" y="1186" type="line"/>
+      <point x="1549" y="1290" type="line"/>
+      <point x="1526" y="1326"/>
+      <point x="1481" y="1359"/>
+      <point x="1450" y="1359" type="qcurve" smooth="yes"/>
+      <point x="1412" y="1359"/>
+      <point x="1319" y="1332"/>
+      <point x="1261" y="1332" type="qcurve" smooth="yes"/>
+      <point x="1202" y="1332"/>
+      <point x="1089" y="1378"/>
+      <point x="1043" y="1412" type="qcurve"/>
+      <point x="1095" y="1563" type="line"/>
+      <point x="1135" y="1532"/>
+      <point x="1221" y="1501"/>
+      <point x="1265" y="1501" type="qcurve" smooth="yes"/>
+      <point x="1308" y="1501"/>
+      <point x="1440" y="1539"/>
+      <point x="1492" y="1539" type="qcurve" smooth="yes"/>
+      <point x="1574" y="1539"/>
+      <point x="1695" y="1435"/>
+      <point x="1747" y="1340" type="qcurve" smooth="yes"/>
+      <point x="1832" y="1186" type="line"/>
+    </contour>
+    <component base="aadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>1903</integer>
+          <key>y</key>
+          <integer>1136</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>awdevaKSH</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1893</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>awdevaKSH</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1893</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

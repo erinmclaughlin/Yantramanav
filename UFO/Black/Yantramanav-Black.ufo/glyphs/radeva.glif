@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva" format="1">
+  <advance width="901"/>
+  <unicode hex="0930"/>
+  <outline>
+    <contour>
+      <point x="786" y="109" type="line"/>
+      <point x="570" y="-46" type="line"/>
+      <point x="-56" y="698" type="line"/>
+      <point x="152" y="861" type="line"/>
+      <point x="327" y="706" type="line"/>
+      <point x="327" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="709" type="line"/>
+      <point x="364" y="709"/>
+      <point x="427" y="776"/>
+      <point x="427" y="859" type="qcurve" smooth="yes"/>
+      <point x="427" y="1122" type="line"/>
+      <point x="731" y="1122" type="line"/>
+      <point x="731" y="864" type="line" smooth="yes"/>
+      <point x="731" y="654"/>
+      <point x="532" y="425"/>
+      <point x="300" y="425" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="-30" y="1076" type="line"/>
+      <point x="-30" y="1293" type="line"/>
+      <point x="931" y="1293" type="line"/>
+      <point x="931" y="1076" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="45" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="473" y="1287" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>517</integer>
+          <key>y</key>
+          <integer>1218</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>901</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>901</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

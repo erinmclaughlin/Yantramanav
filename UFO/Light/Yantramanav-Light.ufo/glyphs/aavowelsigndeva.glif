@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aavowelsigndeva" format="1">
+  <advance width="528"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="184" y="1231" type="line"/>
+      <point x="288" y="1231" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="1188" type="line"/>
+      <point x="-30" y="1188" type="line"/>
+      <point x="-30" y="1276" type="line"/>
+      <point x="558" y="1276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

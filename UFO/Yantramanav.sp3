@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/erinmclaughlin/Desktop/_Google ROBOTO/Roboto/UFO/instances"/>
+    <data name="previewtext" value="/aadeva/nadeva Ho/kadeva"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="-1000.000000" name="weight" shortname="wt">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Yantramanav" filename="Black/Yantramanav-Black.ufo" sortorder="0" stylename="Black">
+        <location>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Yantramanav" filename="Regular/Yantramanav-Regular.ufo" sortorder="3" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </master>
+    <master familyname="Yantramanav" filename="Thin/Yantramanav-Thin.ufo" sortorder="5" stylename="Thin">
+        <location>
+            <dimension name="weight" xvalue="-1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Yantramanav" filename="instances/Yantramanav-Bold.ufo" sortorder="1" stylename="Bold">
+        <location>
+            <dimension name="weight" xvalue="675.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Yantramanav" filename="instances/Yantramanav-Medium.ufo" sortorder="2" styleMapStyleName="regular" stylename="Medium">
+        <location>
+            <dimension name="weight" xvalue="300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Yantramanav" filename="instances/Yantramanav-Light.ufo" sortorder="4" styleMapStyleName="regular" stylename="Light">
+        <location>
+            <dimension name="weight" xvalue="-575.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>

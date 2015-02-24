@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rephanusvaradeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="11" y="1371" type="line"/>
+      <point x="-165" y="1371" type="line"/>
+      <point x="-165" y="1536" type="line"/>
+      <point x="11" y="1536" type="line"/>
+    </contour>
+    <component base="rephdeva"/>
+    <contour>
+      <point x="-371" y="1291" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

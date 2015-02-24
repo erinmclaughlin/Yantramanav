@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dandadeva" format="1">
+  <advance width="853"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="319" y="-160" type="line"/>
+      <point x="319" y="1387" type="line"/>
+      <point x="534" y="1387" type="line"/>
+      <point x="534" y="-160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

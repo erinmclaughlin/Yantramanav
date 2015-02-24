@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightdeva" format="1">
+  <advance width="955"/>
+  <unicode hex="096E"/>
+  <outline>
+    <contour>
+      <point x="643" y="1280" type="line"/>
+      <point x="840" y="1132" type="line"/>
+      <point x="480" y="784" type="line"/>
+      <point x="406" y="712"/>
+      <point x="338" y="585"/>
+      <point x="338" y="522" type="qcurve" smooth="yes"/>
+      <point x="338" y="431"/>
+      <point x="465" y="335"/>
+      <point x="553" y="336" type="qcurve" smooth="yes"/>
+      <point x="648" y="337"/>
+      <point x="748" y="359"/>
+      <point x="838" y="388" type="qcurve"/>
+      <point x="871" y="187" type="line"/>
+      <point x="796" y="160"/>
+      <point x="638" y="128"/>
+      <point x="537" y="128" type="qcurve" smooth="yes"/>
+      <point x="331" y="128"/>
+      <point x="62" y="350"/>
+      <point x="62" y="533" type="qcurve" smooth="yes"/>
+      <point x="62" y="629"/>
+      <point x="167" y="836"/>
+      <point x="270" y="932" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eightdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>854</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eightdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>854</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

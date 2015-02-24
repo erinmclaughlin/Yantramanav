@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uuedevaKSH" format="1">
+  <advance width="1391"/>
+  <unicode hex="0977"/>
+  <outline>
+    <component base="adeva"/>
+    <component base="uuevowelsigndevaKSH" xOffset="971"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

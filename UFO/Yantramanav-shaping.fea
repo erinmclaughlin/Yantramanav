@@ -1,0 +1,464 @@
+# ------------ Nukta forms -----------------
+
+feature nukt {
+    
+            lookup Nukta {
+          
+                sub kadeva nuktadeva by qadeva;
+                sub khadeva nuktadeva by khhadeva;
+                sub gadeva nuktadeva by ghhadeva;           
+                sub jadeva nuktadeva by zadeva;
+                sub ddadeva nuktadeva by dddhadeva;
+                sub ddhadeva nuktadeva by rhadeva;                               
+                sub nadeva nuktadeva by nnnadeva;                                
+                sub phadeva nuktadeva by fadeva;                 
+                sub yadeva nuktadeva by yyadeva;
+                sub radeva nuktadeva by rradeva;
+                sub lladeva nuktadeva by llladeva; 
+          
+            } Nukta;
+
+} nukt;
+
+# ---------- Akhand letters -------------
+
+feature akhn {
+
+    script DFLT;
+        
+            lookup Akhand {
+          
+                sub kadeva viramadeva ssadeva by kassadeva;
+                sub jadeva viramadeva nyadeva by janyadeva;
+          
+            } Akhand;
+        
+            lookup EyelashRa {      
+                sub radeva' viramadeva' uni200D by raprehalfdeva;
+                sub rradeva' viramadeva' uni200D by ranuktaprehalfdeva;     
+            } EyelashRa;
+
+    script dev2;
+            lookup Akhand;
+            lookup EyelashRa;  
+    
+    script deva;
+            lookup Akhand;
+
+} akhn;
+
+# -------------- Reph -------------------
+
+feature rphf {
+    
+            lookup Reph {
+             
+                sub radeva viramadeva by rephdeva;
+          
+            } Reph;
+            
+} rphf;
+
+# ------------- Rakar ---------------------
+
+feature rkrf {
+    
+    script DFLT;
+    
+            lookup Rakar {
+            
+                sub kadeva viramadeva radeva by karadeva;
+                sub khadeva viramadeva radeva by kharadeva;
+                sub gadeva viramadeva radeva by garadeva;
+                sub ghadeva viramadeva radeva by gharadeva;
+                sub ngadeva viramadeva radeva by ngaradeva;
+                sub cadeva viramadeva radeva by caradeva;
+                sub chadeva viramadeva radeva by charadeva;
+                sub jadeva viramadeva radeva by jaradeva;
+                sub jhadeva viramadeva radeva by jharadeva;
+                sub nyadeva viramadeva radeva by nyaradeva;
+                sub ttadeva viramadeva radeva by ttaradeva;
+                sub tthadeva viramadeva radeva by ttharadeva;
+                sub ddadeva viramadeva radeva by ddaradeva;
+                sub ddhadeva viramadeva radeva by ddharadeva;
+                sub nnadeva viramadeva radeva by nnaradeva;
+                sub tadeva viramadeva radeva by taradeva;
+                sub thadeva viramadeva radeva by tharadeva;
+                sub dadeva viramadeva radeva by daradeva;
+                sub dhadeva viramadeva radeva by dharadeva;
+                sub nadeva viramadeva radeva by naradeva;
+                sub padeva viramadeva radeva by paradeva;
+                sub phadeva viramadeva radeva by pharadeva;
+                sub badeva viramadeva radeva by baradeva;
+                sub bhadeva viramadeva radeva by bharadeva;
+                sub madeva viramadeva radeva by maradeva;
+                sub yadeva viramadeva radeva by yaradeva;
+#                sub radeva viramadeva radeva by raradeva; #reph
+                sub ladeva viramadeva radeva by laradeva;
+                sub lladeva viramadeva radeva by llaradeva;
+                sub vadeva viramadeva radeva by varadeva;
+                sub shadeva viramadeva radeva by sharadeva;
+                sub ssadeva viramadeva radeva by ssaradeva;
+                sub sadeva viramadeva radeva by saradeva;
+                sub hadeva viramadeva radeva by haradeva;
+                sub kassadeva viramadeva radeva by kassaradeva;
+                sub janyadeva viramadeva radeva by janyaradeva;
+                sub qadeva viramadeva radeva by kanuktaradeva;
+                sub khhadeva viramadeva radeva by khanuktaradeva;
+                sub ghhadeva viramadeva radeva by ganuktaradeva;
+                sub zadeva viramadeva radeva by januktaradeva;
+                sub dddhadeva viramadeva radeva by ddanuktaradeva;
+                sub rhadeva viramadeva radeva by ddhanuktaradeva;
+                sub nnnadeva viramadeva radeva by nanuktaradeva;
+                sub fadeva viramadeva radeva by phanuktaradeva;
+                sub yyadeva viramadeva radeva by yanuktaradeva;
+                sub rradeva viramadeva radeva by ranuktaradeva;
+                sub llladeva viramadeva radeva by llanuktaradeva; 
+                sub ladevaMAR viramadeva radeva by laradevaMAR;
+                sub shadevaMAR viramadeva radeva by sharadeva;
+                sub jhadevaNEP viramadeva radeva by jharadevaNEP;                    
+         
+            } Rakar;
+
+    script dev2;
+            lookup Rakar;
+        
+} rkrf;
+
+# ------------- Below-Base Form (Vattu) ------------------
+
+feature blwf {
+
+    script DFLT;
+            
+            lookup Vattu_dev2 {
+            
+                sub viramadeva radeva by vattudeva;
+            
+            } Vattu_dev2;
+        
+    script dev2;
+            lookup Vattu_dev2;
+            
+    script deva;
+            lookup Vattu_deva {
+           
+                sub radeva viramadeva by vattudeva;
+           
+            } Vattu_deva;
+          
+} blwf;
+
+# ---------- Half-forms -----------------
+
+feature half {
+    
+    script DFLT;
+    
+            lookup Halfforms {
+           
+                sub kadeva viramadeva by kaprehalfdeva;
+                sub khadeva viramadeva by khaprehalfdeva;
+                sub gadeva viramadeva by gaprehalfdeva;
+                sub ghadeva viramadeva by ghaprehalfdeva;
+                sub ngadeva viramadeva by ngaprehalfdeva;
+                sub cadeva viramadeva by caprehalfdeva;
+                sub chadeva viramadeva by chaprehalfdeva;                
+                sub jadeva viramadeva by japrehalfdeva;
+                sub jhadeva viramadeva by jhaprehalfdeva;
+                sub nyadeva viramadeva by nyaprehalfdeva;
+                sub ttadeva viramadeva by ttaprehalfdeva;
+                sub tthadeva viramadeva by tthaprehalfdeva;
+                sub ddadeva viramadeva by ddaprehalfdeva;
+                sub ddhadeva viramadeva by ddhaprehalfdeva;
+                sub nnadeva viramadeva by nnaprehalfdeva;
+                sub tadeva viramadeva by taprehalfdeva;
+                sub thadeva viramadeva by thaprehalfdeva;
+                sub dadeva viramadeva by daprehalfdeva;               
+                sub dhadeva viramadeva by dhaprehalfdeva;                                 
+                sub nadeva viramadeva by naprehalfdeva;                 
+                sub padeva viramadeva by paprehalfdeva;                 
+                sub phadeva viramadeva by phaprehalfdeva;                 
+                sub badeva viramadeva by baprehalfdeva;                 
+                sub bhadeva viramadeva by bhaprehalfdeva;
+                sub madeva viramadeva by maprehalfdeva;
+                sub yadeva viramadeva by yaprehalfdeva;
+                sub radeva viramadeva by raprehalfdeva;
+                sub rradeva viramadeva by raprehalfdeva;
+                sub ladeva viramadeva by laprehalfdeva;
+                sub lladeva viramadeva by llaprehalfdeva;
+                sub vadeva viramadeva by vaprehalfdeva;
+                sub shadeva viramadeva by shaprehalfdeva;
+                sub ssadeva viramadeva by ssaprehalfdeva;
+                sub sadeva viramadeva by saprehalfdeva;
+                sub hadeva viramadeva by haprehalfdeva;
+                sub qadeva viramadeva by kanuktaprehalfdeva;
+                sub khhadeva viramadeva by khanuktaprehalfdeva;
+                sub ghhadeva viramadeva by ganuktaprehalfdeva;
+                sub zadeva viramadeva by januktaprehalfdeva;
+                sub dddhadeva viramadeva by ddanuktaprehalfdeva;
+                sub rhadeva viramadeva by ddhanuktaprehalfdeva;
+                sub nnnadeva viramadeva by nanuktaprehalfdeva;
+                sub fadeva viramadeva by phanuktaprehalfdeva;
+                sub yyadeva viramadeva by yanuktaprehalfdeva;
+                sub llladeva viramadeva by llanuktaprehalfdeva;
+                sub shadevaMAR viramadeva by shaprehalfdevaMAR;
+                sub ladevaMAR viramadeva by laprehalfdeva;
+                sub jhadevaNEP viramadeva by jhaprehalfdevaNEP;               
+                sub kassadeva viramadeva by kassaprehalfdeva;
+                sub janyadeva viramadeva by janyaprehalfdeva;                     
+           
+            } Halfforms;
+ 
+            lookup HalfRakar {
+            
+                sub karadeva viramadeva by karaprehalfdeva;
+                sub kharadeva viramadeva by kharaprehalfdeva;
+                sub garadeva viramadeva by garaprehalfdeva;
+                sub gharadeva viramadeva by gharaprehalfdeva;
+                sub ngaradeva viramadeva by ngaraprehalfdeva;
+                sub caradeva viramadeva by caraprehalfdeva;
+                sub charadeva viramadeva by charaprehalfdeva;                
+                sub jaradeva viramadeva by jaraprehalfdeva;
+                sub jharadeva viramadeva by jharaprehalfdeva;
+                sub nyaradeva viramadeva by nyaraprehalfdeva;
+                sub ttaradeva viramadeva by ttaraprehalfdeva;
+                sub ttharadeva viramadeva by ttharaprehalfdeva;
+                sub ddaradeva viramadeva by ddaraprehalfdeva;
+                sub ddharadeva viramadeva by ddharaprehalfdeva;
+                sub nnaradeva viramadeva by nnaraprehalfdeva;
+                sub taradeva viramadeva by taraprehalfdeva;
+                sub tharadeva viramadeva by tharaprehalfdeva;
+                sub daradeva viramadeva by daraprehalfdeva;               
+                sub dharadeva viramadeva by dharaprehalfdeva;                                 
+                sub naradeva viramadeva by naraprehalfdeva;                 
+                sub paradeva viramadeva by paraprehalfdeva;                 
+                sub pharadeva viramadeva by pharaprehalfdeva;                 
+                sub baradeva viramadeva by baraprehalfdeva;                 
+                sub bharadeva viramadeva by bharaprehalfdeva;
+                sub maradeva viramadeva by maraprehalfdeva;
+                sub yaradeva viramadeva by yaraprehalfdeva;
+#                sub raradeva viramadeva by raraprehalfdeva; # reph
+                sub laradeva viramadeva by laraprehalfdeva;
+                sub llaradeva viramadeva by llaraprehalfdeva;
+                sub varadeva viramadeva by varaprehalfdeva;
+                sub sharadeva viramadeva by sharaprehalfdeva;
+                sub ssaradeva viramadeva by ssaraprehalfdeva;
+                sub saradeva viramadeva by saraprehalfdeva;
+                sub haradeva viramadeva by haraprehalfdeva;
+                sub kanuktaradeva viramadeva by kanuktaraprehalfdeva;
+                sub khanuktaradeva viramadeva by khanuktaraprehalfdeva;
+                sub ganuktaradeva viramadeva by ganuktaraprehalfdeva;
+                sub januktaradeva viramadeva by januktaraprehalfdeva;
+                sub ddanuktaradeva viramadeva by ddanuktaraprehalfdeva;
+                sub ddhanuktaradeva viramadeva by ddhanuktaraprehalfdeva;
+                sub nanuktaradeva viramadeva by nanuktaraprehalfdeva;
+                sub phanuktaradeva viramadeva by phanuktaraprehalfdeva;
+                sub yanuktaradeva viramadeva by yanuktaraprehalfdeva;
+                sub llanuktaradeva viramadeva by llanuktaraprehalfdeva;
+                sub jharadevaNEP viramadeva by jharaprehalfdevaNEP; 
+                sub kassaradeva viramadeva by kassaraprehalfdeva;
+                sub janyaradeva viramadeva by janyaraprehalfdeva;  
+                        
+           
+            } HalfRakar; 
+
+    script dev2;
+            lookup Halfforms;
+            lookup HalfRakar;
+                
+    script deva;
+            lookup Halfforms; 
+    
+} half;
+
+# --------------- Vattu variants ----------------  
+
+feature vatu {
+
+    script deva;
+            
+            lookup Vattuforms { 
+          
+                sub kadeva vattudeva by karadeva;
+                sub khadeva vattudeva by kharadeva;
+                sub gadeva vattudeva by garadeva;
+                sub ghadeva vattudeva by gharadeva;
+                sub ngadeva vattudeva by ngaradeva;
+                sub cadeva vattudeva by caradeva;
+                sub chadeva vattudeva by charadeva;
+                sub jadeva vattudeva by jaradeva;
+                sub jhadeva vattudeva by jharadeva;
+                sub nyadeva vattudeva by nyaradeva;
+                sub ttadeva vattudeva by ttaradeva;
+                sub tthadeva vattudeva by ttharadeva;
+                sub ddadeva vattudeva by ddaradeva;
+                sub ddhadeva vattudeva by ddharadeva;
+                sub nnadeva vattudeva by nnaradeva;
+                sub tadeva vattudeva by taradeva;
+                sub thadeva vattudeva by tharadeva;
+                sub dadeva vattudeva by daradeva;
+                sub dhadeva vattudeva by dharadeva;
+                sub nadeva vattudeva by naradeva;
+                sub padeva vattudeva by paradeva;
+                sub phadeva vattudeva by pharadeva;
+                sub badeva vattudeva by baradeva;
+                sub bhadeva vattudeva by bharadeva;
+                sub madeva vattudeva by maradeva;
+                sub yadeva vattudeva by yaradeva;
+#                sub radeva vattudeva by raradeva;  #reph
+                sub ladeva vattudeva by laradeva;
+                sub lladeva vattudeva by llaradeva;
+                sub vadeva vattudeva by varadeva;
+                sub shadeva vattudeva by sharadeva;
+                sub ssadeva vattudeva by ssaradeva;
+                sub sadeva vattudeva by saradeva;
+                sub hadeva vattudeva by haradeva;
+                sub kassadeva vattudeva by kassaradeva;
+                sub janyadeva vattudeva by janyaradeva;
+                sub qadeva vattudeva by kanuktaradeva;
+                sub khhadeva vattudeva by khanuktaradeva;
+                sub ghhadeva vattudeva by ganuktaradeva;
+                sub zadeva vattudeva by januktaradeva;
+                sub dddhadeva vattudeva by ddanuktaradeva;
+                sub rhadeva vattudeva by ddhanuktaradeva;
+                sub nnnadeva vattudeva by nanuktaradeva;
+                sub fadeva vattudeva by phanuktaradeva;
+                sub yyadeva vattudeva by yanuktaradeva;
+                sub rradeva vattudeva by ranuktaradeva;
+                sub llladeva vattudeva by llanuktaradeva;     
+                sub shadevaMAR vattudeva by sharadeva;
+                sub ladevaMAR vattudeva by laradevaMAR;
+                sub jhadevaNEP vattudeva by jharadevaNEP;
+           
+            } Vattuforms;
+            
+            lookup VattuHalf {
+            
+                sub karadeva vattudeva by karaprehalfdeva;
+                sub kharadeva vattudeva by kharaprehalfdeva;
+                sub garadeva vattudeva by garaprehalfdeva;
+                sub gharadeva vattudeva by gharaprehalfdeva;
+                sub ngaradeva vattudeva by ngaraprehalfdeva;
+                sub caradeva vattudeva by caraprehalfdeva;
+                sub charadeva vattudeva by charaprehalfdeva;
+                sub jaradeva vattudeva by jaraprehalfdeva;
+                sub jharadeva vattudeva by jharaprehalfdeva;
+                sub nyaradeva vattudeva by nyaraprehalfdeva;
+                sub ttaradeva vattudeva by ttaraprehalfdeva;
+                sub ttharadeva vattudeva by ttharaprehalfdeva;
+                sub ddaradeva vattudeva by ddaraprehalfdeva;
+                sub ddharadeva vattudeva by ddharaprehalfdeva;
+                sub nnaradeva vattudeva by nnaraprehalfdeva;
+                sub taradeva vattudeva by taraprehalfdeva;
+                sub tharadeva vattudeva by tharaprehalfdeva;
+                sub daradeva vattudeva by daraprehalfdeva;
+                sub dharadeva vattudeva by dharaprehalfdeva; 
+                sub naradeva vattudeva by naraprehalfdeva; 
+                sub paradeva vattudeva by paraprehalfdeva; 
+                sub pharadeva vattudeva by pharaprehalfdeva; 
+                sub baradeva vattudeva by baraprehalfdeva; 
+                sub bharadeva vattudeva by bharaprehalfdeva; 
+                sub maradeva vattudeva by maraprehalfdeva; 
+                sub yaradeva vattudeva by yaraprehalfdeva; 
+#                sub raradeva vattudeva by raraprehalfdeva;  # reph
+                sub laradeva vattudeva by laraprehalfdeva; 
+                sub llaradeva vattudeva by llaraprehalfdeva; 
+                sub varadeva vattudeva by varaprehalfdeva; 
+                sub sharadeva vattudeva by sharaprehalfdeva; 
+                sub ssaradeva vattudeva by ssaraprehalfdeva; 
+                sub saradeva vattudeva by saraprehalfdeva; 
+                sub haradeva vattudeva by haraprehalfdeva; 
+                sub kassaradeva vattudeva by kassaraprehalfdeva; 
+                sub janyaradeva vattudeva by janyaraprehalfdeva; 
+                sub kanuktaradeva vattudeva by kanuktaraprehalfdeva; 
+                sub khanuktaradeva vattudeva by khanuktaraprehalfdeva; 
+                sub ganuktaradeva vattudeva by ganuktaraprehalfdeva; 
+                sub januktaradeva vattudeva by januktaraprehalfdeva;
+                sub ddanuktaradeva vattudeva by ddanuktaraprehalfdeva;                
+                sub ddhanuktaradeva vattudeva by ddhanuktaraprehalfdeva; 
+                sub nanuktaradeva vattudeva by nanuktaraprehalfdeva; 
+                sub phanuktaradeva vattudeva by phanuktaraprehalfdeva; 
+                sub yanuktaradeva vattudeva by yanuktaraprehalfdeva; 
+                sub llanuktaradeva vattudeva by llanuktaraprehalfdeva;
+                sub laradevaMAR vattudeva by laraprehalfdeva;
+                sub jharadevaNEP vattudeva by jharaprehalfdevaNEP;
+          
+            } VattuHalf;
+
+} vatu;             
+
+# ----------------- Conjuncts -------------------
+
+feature cjct {
+
+            lookup Conj3 {
+          
+                sub daprehalfdeva dhaprehalfdeva yadeva by dadhayadeva; 
+          
+            } Conj3;
+            
+            lookup Conj2 {
+           
+                sub daprehalfdeva gadeva by dagadeva;
+                sub daprehalfdeva ghadeva by daghadeva;
+                sub daprehalfdeva dadeva by dadadeva;
+                sub daprehalfdeva dhadeva by dadhadeva;                
+                sub daprehalfdeva badeva by dabadeva;                
+                sub daprehalfdeva bhadeva by dabhadeva;
+                sub daprehalfdeva madeva by damadeva;  
+                sub daprehalfdeva yadeva by dayadeva;
+                sub daprehalfdeva vadeva by davadeva;                                                                              
+                sub ngaprehalfdeva yadeva by ngayadeva;
+                sub ttaprehalfdeva ttadeva by ttattadeva;
+                sub ttaprehalfdeva tthadeva by ttatthadeva;
+                sub ttaprehalfdeva yadeva by ttayadeva;
+                sub tthaprehalfdeva tthadeva by tthatthadeva;
+                sub tthaprehalfdeva yadeva by tthayadeva;    
+                sub ddaprehalfdeva ddadeva by ddaddadeva;
+                sub ddaprehalfdeva ddhadeva by ddaddhadeva;
+                sub ddaprehalfdeva yadeva by ddayadeva;
+                sub ddhaprehalfdeva ddhadeva by ddhaddhadeva;
+                sub ddhaprehalfdeva yadeva by ddhayadeva;     
+           
+              } Conj2;  
+                 
+} cjct;
+
+# -------------- Pre-Base substitutions -------------
+
+feature pres {
+
+  #          lookup Eyelash {
+  # If ZWJ has been filtered out (Core Text):                
+  #              sub raprehalfdeva yadeva by omdeva;
+  #              sub raprehalfdeva hadeva by omdeva;
+  # Else:                
+  #             sub raprehalfdeva U200C yadeva by omdeva;
+  #              sub raprehalfdeva U200C hadeva by omdeva;
+  #              
+  #          } Eyelash;
+
+            lookup PreHalfConj {
+           
+                sub daprehalfdeva yaprehalfdeva by dayaprehalfdeva;
+                sub taprehalfdeva taprehalfdeva by tataprehalfdeva;                          
+           
+            } PreHalfConj;
+    
+            lookup PresConj {
+                                                           
+                sub kaprehalfdeva tadeva by katadeva;
+                sub chaprehalfdeva yadeva by chayadeva;
+                sub taprehalfdeva tadeva by tatadeva;
+                sub ssaprehalfdeva ttadeva by ssattadeva; 
+                sub ssaprehalfdeva tthadeva by ssatthadeva;
+                sub haprehalfdeva nnadeva by hannadeva;
+                sub haprehalfdeva nadeva by hanadeva;                
+                sub haprehalfdeva madeva by hamadeva;                  
+                sub haprehalfdeva yadeva by hayadeva;  
+                sub haprehalfdeva ladeva by haladeva;
+                sub haprehalfdeva vadeva by havadeva;                                    
+                     
+          
+            } PresConj;            

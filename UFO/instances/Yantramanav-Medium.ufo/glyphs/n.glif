@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="1044"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="311" y="974" type="line"/>
+      <point x="323" y="831" type="line"/>
+      <point x="371" y="907"/>
+      <point x="516" y="992"/>
+      <point x="608" y="992" type="qcurve"/>
+      <point x="761" y="992"/>
+      <point x="930" y="807"/>
+      <point x="930" y="612" type="qcurve"/>
+      <point x="930" y="0" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="715" y="609" type="line"/>
+      <point x="715" y="724"/>
+      <point x="623" y="821"/>
+      <point x="529" y="821" type="qcurve"/>
+      <point x="463" y="821"/>
+      <point x="361" y="760"/>
+      <point x="329" y="707" type="qcurve"/>
+      <point x="329" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="974" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

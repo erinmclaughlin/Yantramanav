@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="1">
+  <advance width="1040"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="978" y="461" type="line"/>
+      <point x="978" y="244"/>
+      <point x="779" y="-19"/>
+      <point x="600" y="-19" type="qcurve"/>
+      <point x="524" y="-19"/>
+      <point x="406" y="37"/>
+      <point x="363" y="91" type="qcurve"/>
+      <point x="363" y="-374" type="line"/>
+      <point x="100" y="-374" type="line"/>
+      <point x="100" y="974" type="line"/>
+      <point x="337" y="974" type="line"/>
+      <point x="353" y="861" type="line"/>
+      <point x="396" y="924"/>
+      <point x="518" y="992"/>
+      <point x="598" y="992" type="qcurve"/>
+      <point x="779" y="992"/>
+      <point x="978" y="710"/>
+      <point x="978" y="480" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="716" y="480" type="line"/>
+      <point x="716" y="616"/>
+      <point x="625" y="787"/>
+      <point x="531" y="787" type="qcurve"/>
+      <point x="471" y="787"/>
+      <point x="388" y="739"/>
+      <point x="363" y="695" type="qcurve"/>
+      <point x="363" y="267" type="line"/>
+      <point x="388" y="227"/>
+      <point x="471" y="184"/>
+      <point x="532" y="184" type="qcurve"/>
+      <point x="628" y="184"/>
+      <point x="716" y="333"/>
+      <point x="716" y="461" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

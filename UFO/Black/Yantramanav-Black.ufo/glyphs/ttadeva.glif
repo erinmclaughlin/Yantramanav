@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ttadeva" format="1">
+  <advance width="1092"/>
+  <unicode hex="091F"/>
+  <outline>
+    <contour>
+      <point x="1122" y="1076" type="line"/>
+      <point x="-30" y="1076" type="line"/>
+      <point x="-30" y="1293" type="line"/>
+      <point x="1122" y="1293" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="25"/>
+      <point x="68" y="270"/>
+      <point x="70" y="485" type="qcurve" smooth="yes"/>
+      <point x="72" y="688"/>
+      <point x="340" y="902"/>
+      <point x="572" y="902" type="qcurve" smooth="yes"/>
+      <point x="698" y="902" type="line"/>
+      <point x="605" y="856" type="line"/>
+      <point x="605" y="1095" type="line"/>
+      <point x="909" y="1095" type="line"/>
+      <point x="909" y="663" type="line"/>
+      <point x="624" y="663" type="line" smooth="yes"/>
+      <point x="511" y="663"/>
+      <point x="390" y="557"/>
+      <point x="390" y="472" type="qcurve" smooth="yes"/>
+      <point x="390" y="380"/>
+      <point x="536" y="281"/>
+      <point x="655" y="279" type="qcurve" smooth="yes"/>
+      <point x="730" y="278"/>
+      <point x="862" y="301"/>
+      <point x="926" y="318" type="qcurve"/>
+      <point x="959" y="71" type="line"/>
+      <point x="896" y="49"/>
+      <point x="748" y="25"/>
+      <point x="652" y="25" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="460" y="19" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="544" y="1287" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>754</integer>
+          <key>y</key>
+          <integer>1248</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ttadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1092</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ttadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1092</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

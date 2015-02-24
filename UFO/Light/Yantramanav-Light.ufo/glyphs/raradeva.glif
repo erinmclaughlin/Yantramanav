@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="raradeva" format="1">
+  <advance width="819"/>
+  <outline>
+    <component base="radeva" xOffset="7"/>
+    <component base="vattudeva" xOffset="633"/>
+    <contour>
+      <point x="357" y="-359" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="500" y="1279" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>517</integer>
+          <key>y</key>
+          <integer>1260</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>130</integer>
+    </dict>
+  </lib>
+</glyph>

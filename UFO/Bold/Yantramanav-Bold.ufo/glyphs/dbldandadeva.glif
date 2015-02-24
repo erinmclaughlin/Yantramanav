@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dbldandadeva" format="1">
+  <advance width="1352"/>
+  <unicode hex="0965"/>
+  <outline>
+    <component base="dandadeva" xOffset="430"/>
+    <component base="dandadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="1">
+  <advance width="933"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="438" y="381" type="line"/>
+      <point x="460" y="293" type="line"/>
+      <point x="465" y="293" type="line"/>
+      <point x="681" y="974" type="line"/>
+      <point x="917" y="974" type="line"/>
+      <point x="513" y="-148" type="line"/>
+      <point x="474" y="-250"/>
+      <point x="335" y="-393"/>
+      <point x="207" y="-393" type="qcurve"/>
+      <point x="179" y="-393"/>
+      <point x="118" y="-383"/>
+      <point x="89" y="-376" type="qcurve"/>
+      <point x="113" y="-213" type="line"/>
+      <point x="113" y="-214"/>
+      <point x="169" y="-218"/>
+      <point x="179" y="-218" type="qcurve"/>
+      <point x="240" y="-218"/>
+      <point x="311" y="-135"/>
+      <point x="333" y="-80" type="qcurve"/>
+      <point x="369" y="11" type="line"/>
+      <point x="15" y="974" type="line"/>
+      <point x="250" y="974" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>y</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>927</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>y</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>927</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

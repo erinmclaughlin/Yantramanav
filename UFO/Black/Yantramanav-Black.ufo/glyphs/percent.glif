@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="1">
+  <advance width="1369"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="82" y="1056" type="line" smooth="yes"/>
+      <point x="82" y="1173"/>
+      <point x="233" y="1327"/>
+      <point x="373" y="1327" type="qcurve" smooth="yes"/>
+      <point x="514" y="1327"/>
+      <point x="665" y="1173"/>
+      <point x="665" y="1056" type="qcurve" smooth="yes"/>
+      <point x="665" y="987" type="line" smooth="yes"/>
+      <point x="665" y="870"/>
+      <point x="514" y="718"/>
+      <point x="374" y="718" type="qcurve" smooth="yes"/>
+      <point x="234" y="718"/>
+      <point x="82" y="871"/>
+      <point x="82" y="987" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="276" y="987" type="line" smooth="yes"/>
+      <point x="276" y="942"/>
+      <point x="327" y="882"/>
+      <point x="374" y="882" type="qcurve" smooth="yes"/>
+      <point x="420" y="882"/>
+      <point x="470" y="942"/>
+      <point x="470" y="987" type="qcurve" smooth="yes"/>
+      <point x="470" y="1056" type="line" smooth="yes"/>
+      <point x="470" y="1101"/>
+      <point x="419" y="1164"/>
+      <point x="373" y="1164" type="qcurve" smooth="yes"/>
+      <point x="327" y="1164"/>
+      <point x="276" y="1101"/>
+      <point x="276" y="1056" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="704" y="319" type="line" smooth="yes"/>
+      <point x="704" y="435"/>
+      <point x="857" y="589"/>
+      <point x="996" y="589" type="qcurve" smooth="yes"/>
+      <point x="1138" y="589"/>
+      <point x="1288" y="436"/>
+      <point x="1288" y="319" type="qcurve" smooth="yes"/>
+      <point x="1288" y="250" type="line" smooth="yes"/>
+      <point x="1288" y="132"/>
+      <point x="1138" y="-20"/>
+      <point x="998" y="-20" type="qcurve" smooth="yes"/>
+      <point x="858" y="-20"/>
+      <point x="704" y="133"/>
+      <point x="704" y="250" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="899" y="250" type="line" smooth="yes"/>
+      <point x="899" y="207"/>
+      <point x="957" y="144"/>
+      <point x="998" y="144" type="qcurve" smooth="yes"/>
+      <point x="1054" y="144"/>
+      <point x="1094" y="200"/>
+      <point x="1094" y="250" type="qcurve" smooth="yes"/>
+      <point x="1094" y="319" type="line" smooth="yes"/>
+      <point x="1094" y="363"/>
+      <point x="1042" y="426"/>
+      <point x="996" y="426" type="qcurve" smooth="yes"/>
+      <point x="950" y="426"/>
+      <point x="899" y="363"/>
+      <point x="899" y="319" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="422" y="96" type="line"/>
+      <point x="281" y="167" type="line"/>
+      <point x="921" y="1191" type="line"/>
+      <point x="1062" y="1120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>percent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1369</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>percent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1369</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adeva" format="1">
+  <advance width="1391"/>
+  <unicode hex="0905"/>
+  <outline>
+    <contour>
+      <point x="225" y="672" type="qcurve"/>
+      <point x="225" y="760" type="line"/>
+      <point x="437" y="762"/>
+      <point x="590" y="911"/>
+      <point x="590" y="1006" type="qcurve" smooth="yes"/>
+      <point x="590" y="1088"/>
+      <point x="473" y="1195"/>
+      <point x="371" y="1195" type="qcurve" smooth="yes"/>
+      <point x="314" y="1195"/>
+      <point x="218" y="1172"/>
+      <point x="157" y="1138" type="qcurve"/>
+      <point x="143" y="1227" type="line"/>
+      <point x="200" y="1258"/>
+      <point x="313" y="1284"/>
+      <point x="371" y="1284" type="qcurve" smooth="yes"/>
+      <point x="512" y="1284"/>
+      <point x="694" y="1131"/>
+      <point x="694" y="1003" type="qcurve" smooth="yes"/>
+      <point x="694" y="863"/>
+      <point x="465" y="674"/>
+    </contour>
+    <contour>
+      <point x="369" y="771" type="line"/>
+      <point x="527" y="768"/>
+      <point x="724" y="569"/>
+      <point x="724" y="433" type="qcurve" smooth="yes"/>
+      <point x="724" y="284"/>
+      <point x="531" y="111"/>
+      <point x="380" y="111" type="qcurve" smooth="yes"/>
+      <point x="306" y="111"/>
+      <point x="157" y="146"/>
+      <point x="83" y="175" type="qcurve"/>
+      <point x="98" y="265" type="line"/>
+      <point x="168" y="233"/>
+      <point x="299" y="199"/>
+      <point x="368" y="199" type="qcurve" smooth="yes"/>
+      <point x="483" y="199"/>
+      <point x="622" y="333"/>
+      <point x="622" y="440" type="qcurve" smooth="yes"/>
+      <point x="622" y="533"/>
+      <point x="486" y="694"/>
+      <point x="352" y="694" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="1047" y="1231" type="line"/>
+      <point x="1150" y="1231" type="line"/>
+      <point x="1150" y="0" type="line"/>
+      <point x="1047" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1421" y="1188" type="line"/>
+      <point x="811" y="1188" type="line"/>
+      <point x="811" y="1276" type="line"/>
+      <point x="1421" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="619" y="657" type="line"/>
+      <point x="1098" y="657" type="line"/>
+      <point x="1098" y="569" type="line"/>
+      <point x="632" y="569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>adeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1370</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>adeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1370</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

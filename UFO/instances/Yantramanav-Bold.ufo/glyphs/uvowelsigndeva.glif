@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uvowelsigndeva" format="1">
+  <unicode hex="0941"/>
+  <outline>
+    <contour>
+      <point x="-618" y="-25" type="line"/>
+      <point x="-570" y="6"/>
+      <point x="-424" y="46"/>
+      <point x="-347" y="46" type="qcurve" smooth="yes"/>
+      <point x="-172" y="46"/>
+      <point x="17" y="-132"/>
+      <point x="17" y="-259" type="qcurve" smooth="yes"/>
+      <point x="17" y="-392"/>
+      <point x="-189" y="-560"/>
+      <point x="-362" y="-560" type="qcurve" smooth="yes"/>
+      <point x="-491" y="-560"/>
+      <point x="-767" y="-456"/>
+      <point x="-903" y="-340" type="qcurve"/>
+      <point x="-826" y="-155" type="line"/>
+      <point x="-683" y="-279"/>
+      <point x="-467" y="-362"/>
+      <point x="-388" y="-362" type="qcurve" smooth="yes"/>
+      <point x="-302" y="-362"/>
+      <point x="-214" y="-301"/>
+      <point x="-214" y="-247" type="qcurve" smooth="yes"/>
+      <point x="-214" y="-197"/>
+      <point x="-289" y="-140"/>
+      <point x="-361" y="-140" type="qcurve" smooth="yes"/>
+      <point x="-414" y="-140"/>
+      <point x="-509" y="-165"/>
+      <point x="-559" y="-193" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="-441" y="0" type="move" name="_btm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uvowelsigndeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uvowelsigndeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

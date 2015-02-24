@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="1">
+  <advance width="967"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="518" y="149" type="qcurve"/>
+      <point x="598" y="149"/>
+      <point x="710" y="245"/>
+      <point x="710" y="319" type="qcurve"/>
+      <point x="905" y="319" type="line"/>
+      <point x="907" y="314" type="line"/>
+      <point x="911" y="178"/>
+      <point x="679" y="-19"/>
+      <point x="518" y="-19" type="qcurve"/>
+      <point x="303" y="-19"/>
+      <point x="73" y="257"/>
+      <point x="73" y="470" type="qcurve"/>
+      <point x="73" y="503" type="line"/>
+      <point x="73" y="714"/>
+      <point x="303" y="992"/>
+      <point x="517" y="992" type="qcurve"/>
+      <point x="693" y="992"/>
+      <point x="911" y="789"/>
+      <point x="907" y="632" type="qcurve"/>
+      <point x="905" y="627" type="line"/>
+      <point x="710" y="627" type="line"/>
+      <point x="710" y="710"/>
+      <point x="603" y="824"/>
+      <point x="517" y="824" type="qcurve"/>
+      <point x="393" y="824"/>
+      <point x="289" y="641"/>
+      <point x="289" y="503" type="qcurve"/>
+      <point x="289" y="470" type="line"/>
+      <point x="289" y="330"/>
+      <point x="393" y="149"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>c</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>935</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>c</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>935</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

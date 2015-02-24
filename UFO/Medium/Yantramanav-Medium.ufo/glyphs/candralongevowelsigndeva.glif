@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candralongevowelsigndeva" format="1">
+  <advance width="0"/>
+  <unicode hex="0955"/>
+  <outline>
+    <component base="ecandravowelsigndeva" yScale="0.888837277889" xOffset="7" yOffset="362"/>
+    <component base="anudattadeva" yScale="0.952157837897" xOffset="-7" yOffset="1596"/>
+    <contour>
+      <point x="-371" y="1279" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

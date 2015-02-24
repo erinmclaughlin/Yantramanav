@@ -1,0 +1,36 @@
+# Khula Regular Groups
+
+# ---- i vowel consonants ----
+
+@ic_01 = [radeva rradeva raradeva ranuktaradeva ddadevaMAW];
+@ic_02 = [kadeva qadeva karadeva kanuktaradeva ngadeva ngaradeva ttadeva ttaradeva ddadeva dddhadeva ddaradeva ddanuktaradeva ddhadeva ddharadeva rhadeva ddhanuktaradeva dadeva daradeva tadeva taradeva nadeva naradeva nnnadeva nanuktaradeva padeva paradeva phadeva pharadeva ssadeva ssaradeva hadeva haradeva ttattadeva ttatthadeva tthatthadeva ddaddhadeva ddaddadeva ddhaddhadeva dagadeva dabadeva dabhadeva davadeva dadadeva];
+@ic_03 = [gadeva garadeva ghhadeva gabardeva ganuktaradeva thadeva tharadeva katadeva hanadeva havadeva hannadeva haladeva tatadeva bhadeva bharadeva jhadevaNEP jharadevaNEP tthadeva ttharadeva madeva maradeva yadeva yaradeva yyadeva yanuktaradeva jjyadeva badeva baradeva babardeva vadeva varadeva ssattadeva ssatthadeva];
+@ic_04 = [daghadeva dadhadeva shadevaMAR ghadeva gharadeva cadeva caradeva dhadeva dharadeva janyadeva janyaradeva zhadeva jadeva jaradeva januktaradeva jabardeva zadeva dayadeva];
+@ic_05 = [kassadeva kassaradeva chadeva charadeva nyadeva nyaradeva nnadeva nnaradeva shadeva sharadeva damadeva sadeva saradeva];
+@ic_06 = [khadeva khhadeva kharadeva khanuktaradeva hamadeva hayadeva jhadeva jharadeva lladeva llaradeva llladeva llanuktaradeva ladeva laradeva ladevaMAR laradevaMAR];
+#@ic_07 = [];
+#@ic_08 = [];
+@ic_09 = [dadhayadeva tthayadeva ddayadeva ddhayadeva ttayadeva];
+@ic_10 = [chayadeva ngayadeva];
+
+# ---- i vowel half forms ----
+
+@ih_05_yaha = [raprehalfdeva ranuktaprehalfdeva raraprehalfdeva ranuktaraprehalfdeva];
+@ih_06 = [taprehalfdeva paprehalfdeva ssaprehalfdeva taraprehalfdeva paraprehalfdeva ssaraprehalfdeva];
+@ih_07 = [yaprehalfdeva yanuktaprehalfdeva yaraprehalfdeva yanuktaraprehalfdeva rahalantdeva vaprehalfdeva varaprehalfdeva baprehalfdeva baraprehalfdeva tataprehalfdeva gaprehalfdeva ganuktaprehalfdeva garaprehalfdeva ganuktaraprehalfdeva naprehalfdeva naraprehalfdeva nanuktaprehalfdeva nanuktaraprehalfdeva maprehalfdeva maraprehalfdeva];
+@ih_08 = [ghaprehalfdeva gharaprehalfdeva caprehalfdeva caraprehalfdeva nnaprehalfdeva nnaraprehalfdeva dharaprehalfdeva dhaprehalfdeva bhaprehalfdeva bharaprehalfdeva shaprehalfdeva sharaprehalfdeva shaprehalfdevaMAR saprehalfdeva saraprehalfdeva kassaprehalfdeva janyaprehalfdeva dayaprehalfdeva kassaraprehalfdeva janyaraprehalfdeva japrehalfdeva januktaprehalfdeva jaraprehalfdeva januktaraprehalfdeva haprehalfdeva thaprehalfdeva tharaprehalfdeva];
+@ih_09 = [kaprehalfdeva kanuktaprehalfdeva karaprehalfdeva kanuktaraprehalfdeva nyaprehalfdeva ttaprehalfdeva tthaprehalfdeva ddaprehalfdeva ddhaprehalfdeva ddanuktaprehalfdeva ddhanuktaprehalfdeva nyaraprehalfdeva ttaraprehalfdeva ttharaprehalfdeva ddaraprehalfdeva ddharaprehalfdeva ddanuktaraprehalfdeva ddhanuktaraprehalfdeva daprehalfdeva daraprehalfdeva khaprehalfdeva khanuktaraprehalfdeva khanuktaprehalfdeva kharaprehalfdeva haraprehalfdeva jhaprehalfdeva jharaprehalfdeva laprehalfdeva laraprehalfdeva ngaprehalfdeva ngaraprehalfdeva phaprehalfdeva phanuktaprehalfdeva pharaprehalfdeva phanuktaraprehalfdeva];
+@ih_10 = [chaprehalfdeva jhaprehalfdevaNEP charaprehalfdeva jharaprehalfdevaNEP];
+@ih_11 = [llaprehalfdeva llanuktaprehalfdeva llaraprehalfdeva llanuktaraprehalfdeva];
+
+# ---- ii vowel signs ----
+
+@ii_00 = [iivowelsigndeva iivowelsignanusvaradeva iivowelsignrephdeva iivowelsignrephanusvaradeva iivowelcandrabindudeva];
+#@ii_02 = [iivowelsign2deva iivowelsignanusvara2deva iivowelsignreph2deva iivowelsignrephanusvara2deva iivowelcandrabindu2deva];
+@ii_03 = [iivowelsign3deva iivowelsignanusvara3deva iivowelsignreph3deva iivowelsignrephanusvara3deva iivowelcandrabindu3deva];
+@ii_04 = [iivowelsign4deva iivowelsignanusvara4deva iivowelsignreph4deva iivowelsignrephanusvara4deva iivowelcandrabindu4deva];
+
+# --- ii vowel consonants ---
+
+@iic_02 = [radeva rradeva raradeva ranuktaradeva ssattadeva ssatthadeva];
+@iic_03 = [kadeva qadeva karadeva kanuktaradeva phadeva fadeva pharadeva phanuktaradeva katadeva jhadevaNEP jharadevaNEP];

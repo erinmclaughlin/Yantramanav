@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vattulowdeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-250" y="99" type="line"/>
+      <point x="124" y="-89" type="line"/>
+      <point x="14" y="-247" type="line"/>
+      <point x="-348" y="-68" type="line"/>
+      <point x="-294" y="-68" type="line"/>
+      <point x="-652" y="-255" type="line"/>
+      <point x="-771" y="-94" type="line"/>
+      <point x="-405" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="-370" y="12" type="move" name="_btm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ivowelsign03deva" format="1">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="155" y="1224" type="line"/>
+      <point x="155" y="1329" type="line"/>
+      <point x="155" y="1507"/>
+      <point x="439" y="1737"/>
+      <point x="732" y="1736" type="qcurve" smooth="yes"/>
+      <point x="882" y="1736"/>
+      <point x="1243" y="1656"/>
+      <point x="1386" y="1588" type="qcurve"/>
+      <point x="1348" y="1434" type="line"/>
+      <point x="1199" y="1493"/>
+      <point x="883" y="1556"/>
+      <point x="744" y="1556" type="qcurve" smooth="yes"/>
+      <point x="553" y="1556"/>
+      <point x="370" y="1419"/>
+      <point x="370" y="1314" type="qcurve" smooth="yes"/>
+      <point x="370" y="1224" type="line"/>
+    </contour>
+    <component base="aavowelsigndeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>202</integer>
+          <key>y</key>
+          <integer>1133</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>565</integer>
+          <key>y</key>
+          <integer>1275</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>277</integer>
+          <key>y</key>
+          <integer>1303</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>354</integer>
+          <key>y</key>
+          <integer>1320</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

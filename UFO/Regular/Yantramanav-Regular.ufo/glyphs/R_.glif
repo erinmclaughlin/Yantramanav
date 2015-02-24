@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="1221"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="339" y="568" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="162" y="1310" type="line"/>
+      <point x="636" y="1310" type="line" smooth="yes"/>
+      <point x="851" y="1310"/>
+      <point x="1078" y="1119"/>
+      <point x="1078" y="937" type="qcurve" smooth="yes"/>
+      <point x="1078" y="836"/>
+      <point x="973" y="687"/>
+      <point x="872" y="643" type="qcurve"/>
+      <point x="980" y="608"/>
+      <point x="1075" y="450"/>
+      <point x="1075" y="334" type="qcurve" smooth="yes"/>
+      <point x="1075" y="211" type="line" smooth="yes"/>
+      <point x="1075" y="149"/>
+      <point x="1102" y="52"/>
+      <point x="1135" y="22" type="qcurve"/>
+      <point x="1135" y="0" type="line"/>
+      <point x="952" y="0" type="line"/>
+      <point x="917" y="31"/>
+      <point x="897" y="149"/>
+      <point x="897" y="212" type="qcurve" smooth="yes"/>
+      <point x="897" y="332" type="line" smooth="yes"/>
+      <point x="897" y="438"/>
+      <point x="773" y="568"/>
+      <point x="669" y="568" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="339" y="707" type="line"/>
+      <point x="618" y="707" type="line" smooth="yes"/>
+      <point x="769" y="707"/>
+      <point x="901" y="822"/>
+      <point x="901" y="939" type="qcurve" smooth="yes"/>
+      <point x="901" y="1049"/>
+      <point x="772" y="1171"/>
+      <point x="636" y="1171" type="qcurve" smooth="yes"/>
+      <point x="339" y="1171" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1221</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>R</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1221</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

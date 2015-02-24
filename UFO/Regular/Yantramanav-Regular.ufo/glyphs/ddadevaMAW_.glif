@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddadevaMAW" format="1">
+  <advance width="1078"/>
+  <unicode hex="0978"/>
+  <outline>
+    <contour>
+      <point x="-30" y="1138" type="line"/>
+      <point x="-30" y="1279" type="line"/>
+      <point x="1108" y="1279" type="line"/>
+      <point x="1108" y="1138" type="line"/>
+    </contour>
+    <contour>
+      <point x="378" y="723" type="line"/>
+      <point x="430" y="742"/>
+      <point x="532" y="755"/>
+      <point x="598" y="755" type="qcurve" smooth="yes"/>
+      <point x="782" y="755"/>
+      <point x="974" y="557"/>
+      <point x="974" y="413" type="qcurve" smooth="yes"/>
+      <point x="974" y="331"/>
+      <point x="905" y="141"/>
+      <point x="847" y="70" type="qcurve"/>
+      <point x="682" y="100" type="line"/>
+      <point x="746" y="189"/>
+      <point x="799" y="334"/>
+      <point x="799" y="413" type="qcurve" smooth="yes"/>
+      <point x="799" y="493"/>
+      <point x="688" y="605"/>
+      <point x="593" y="605" type="qcurve" smooth="yes"/>
+      <point x="530" y="605"/>
+      <point x="441" y="586"/>
+      <point x="378" y="557" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="422" y="1175" type="line"/>
+      <point x="422" y="489" type="line" smooth="yes"/>
+      <point x="422" y="430"/>
+      <point x="365" y="369"/>
+      <point x="315" y="369" type="qcurve" smooth="yes"/>
+      <point x="229" y="369"/>
+      <point x="83" y="508"/>
+      <point x="83" y="593" type="qcurve" smooth="yes"/>
+      <point x="83" y="632"/>
+      <point x="144" y="686"/>
+      <point x="200" y="697" type="qcurve" smooth="yes"/>
+      <point x="265" y="710" type="line"/>
+      <point x="245" y="603" type="line"/>
+      <point x="245" y="1175" type="line"/>
+    </contour>
+    <contour>
+      <point x="444.0" y="54.0" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="225.0" y="1291.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>245</integer>
+          <key>y</key>
+          <integer>1262</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ddadevaMAW</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1078</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ddadevaMAW</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1078</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

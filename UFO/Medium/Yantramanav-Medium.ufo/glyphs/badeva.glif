@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="badeva" format="1">
+  <advance width="1133"/>
+  <unicode hex="092C"/>
+  <outline>
+    <contour>
+      <point x="678" y="371" type="line"/>
+      <point x="583" y="292" type="line"/>
+      <point x="294" y="819" type="line"/>
+      <point x="388" y="894" type="line"/>
+    </contour>
+    <component base="vadeva"/>
+    <contour>
+      <point x="755" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>787</integer>
+          <key>y</key>
+          <integer>1238</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

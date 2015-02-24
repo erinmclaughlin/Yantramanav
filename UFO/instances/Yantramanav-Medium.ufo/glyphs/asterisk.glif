@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="805"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="294" y="877" type="line"/>
+      <point x="24" y="958" type="line"/>
+      <point x="72" y="1105" type="line"/>
+      <point x="339" y="1001" type="line"/>
+      <point x="327" y="1310" type="line"/>
+      <point x="483" y="1310" type="line"/>
+      <point x="469" y="995" type="line"/>
+      <point x="732" y="1098" type="line"/>
+      <point x="778" y="949" type="line"/>
+      <point x="505" y="869" type="line"/>
+      <point x="682" y="627" type="line"/>
+      <point x="556" y="535" type="line"/>
+      <point x="396" y="795" type="line"/>
+      <point x="238" y="542" type="line"/>
+      <point x="111" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>770</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>770</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

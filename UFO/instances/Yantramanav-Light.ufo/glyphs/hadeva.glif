@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hadeva" format="1">
+  <advance width="1044"/>
+  <unicode hex="0939"/>
+  <outline>
+    <contour>
+      <point x="401" y="946" type="qcurve" smooth="yes"/>
+      <point x="725" y="946" type="line"/>
+      <point x="700" y="912" type="line"/>
+      <point x="700" y="1217" type="line"/>
+      <point x="804" y="1217" type="line"/>
+      <point x="804" y="858" type="line"/>
+      <point x="411" y="858" type="line"/>
+      <point x="306" y="858"/>
+      <point x="212" y="776"/>
+      <point x="212" y="710" type="qcurve" smooth="yes"/>
+      <point x="212" y="645"/>
+      <point x="285" y="554"/>
+      <point x="374" y="514" type="qcurve"/>
+      <point x="305" y="451" type="line"/>
+      <point x="213" y="497"/>
+      <point x="109" y="632"/>
+      <point x="109" y="720" type="qcurve" smooth="yes"/>
+      <point x="109" y="819"/>
+      <point x="262" y="946"/>
+    </contour>
+    <contour>
+      <point x="883" y="305" type="qcurve" smooth="yes"/>
+      <point x="883" y="257"/>
+      <point x="872" y="202"/>
+      <point x="858" y="158" type="qcurve"/>
+      <point x="761" y="168" type="line"/>
+      <point x="772" y="209"/>
+      <point x="781" y="257"/>
+      <point x="781" y="300" type="qcurve" smooth="yes"/>
+      <point x="781" y="375"/>
+      <point x="659" y="497"/>
+      <point x="533" y="498" type="qcurve" smooth="yes"/>
+      <point x="415" y="498"/>
+      <point x="258" y="347"/>
+      <point x="258" y="228" type="qcurve" smooth="yes"/>
+      <point x="258" y="77"/>
+      <point x="510" y="-104"/>
+      <point x="786" y="-104" type="qcurve"/>
+      <point x="775" y="-192" type="line"/>
+      <point x="465" y="-192"/>
+      <point x="154" y="48"/>
+      <point x="154" y="238" type="qcurve" smooth="yes"/>
+      <point x="154" y="385"/>
+      <point x="363" y="588"/>
+      <point x="527" y="588" type="qcurve" smooth="yes"/>
+      <point x="693" y="588"/>
+      <point x="883" y="415"/>
+    </contour>
+    <contour>
+      <point x="1074" y="1188" type="line"/>
+      <point x="-30" y="1188" type="line"/>
+      <point x="-30" y="1276" type="line"/>
+      <point x="1074" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="694" y="1271" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>776</integer>
+          <key>y</key>
+          <integer>1238</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1018</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1018</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

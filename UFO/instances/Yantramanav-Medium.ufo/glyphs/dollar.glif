@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="1047"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="743" y="334" type="qcurve"/>
+      <point x="743" y="421"/>
+      <point x="649" y="520"/>
+      <point x="525" y="569" type="qcurve"/>
+      <point x="319" y="646"/>
+      <point x="132" y="813"/>
+      <point x="132" y="974" type="qcurve"/>
+      <point x="132" y="1124"/>
+      <point x="332" y="1314"/>
+      <point x="499" y="1327" type="qcurve"/>
+      <point x="499" y="1509" type="line"/>
+      <point x="609" y="1509" type="line"/>
+      <point x="609" y="1325" type="line"/>
+      <point x="771" y="1307"/>
+      <point x="958" y="1094"/>
+      <point x="955" y="923" type="qcurve"/>
+      <point x="953" y="918" type="line"/>
+      <point x="744" y="918" type="line"/>
+      <point x="744" y="1034"/>
+      <point x="636" y="1164"/>
+      <point x="541" y="1164" type="qcurve"/>
+      <point x="445" y="1164"/>
+      <point x="348" y="1055"/>
+      <point x="348" y="974" type="qcurve"/>
+      <point x="348" y="892"/>
+      <point x="436" y="793"/>
+      <point x="565" y="745" type="qcurve"/>
+      <point x="767" y="664"/>
+      <point x="957" y="495"/>
+      <point x="957" y="336" type="qcurve"/>
+      <point x="957" y="184"/>
+      <point x="763" y="-2"/>
+      <point x="601" y="-16" type="qcurve"/>
+      <point x="601" y="-193" type="line"/>
+      <point x="490" y="-193" type="line"/>
+      <point x="490" y="-16" type="line"/>
+      <point x="317" y="-3"/>
+      <point x="88" y="197"/>
+      <point x="91" y="397" type="qcurve"/>
+      <point x="94" y="402" type="line"/>
+      <point x="301" y="402" type="line"/>
+      <point x="301" y="267"/>
+      <point x="440" y="147"/>
+      <point x="544" y="147" type="qcurve"/>
+      <point x="637" y="147"/>
+      <point x="743" y="254"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dollar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>170</integer>
+    </dict>
+  </lib>
+</glyph>

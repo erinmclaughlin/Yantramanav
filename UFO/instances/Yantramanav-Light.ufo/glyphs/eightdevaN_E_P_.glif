@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightdevaNEP" format="1">
+  <advance width="950"/>
+  <outline>
+    <contour>
+      <point x="38" y="1112" type="line"/>
+      <point x="38" y="1201" type="line"/>
+      <point x="924" y="1201" type="line"/>
+      <point x="924" y="1112" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="672" type="qcurve" smooth="yes"/>
+      <point x="156" y="815"/>
+      <point x="313" y="1097"/>
+      <point x="428" y="1172" type="qcurve"/>
+      <point x="516" y="1135" type="line"/>
+      <point x="392" y="1044"/>
+      <point x="259" y="786"/>
+      <point x="259" y="668" type="qcurve" smooth="yes"/>
+      <point x="259" y="560"/>
+      <point x="380" y="451"/>
+      <point x="473" y="451" type="qcurve" smooth="yes"/>
+      <point x="524" y="451"/>
+      <point x="574" y="452"/>
+      <point x="621" y="451" type="qcurve" smooth="yes"/>
+      <point x="758" y="450"/>
+      <point x="909" y="325"/>
+      <point x="909" y="229" type="qcurve" smooth="yes"/>
+      <point x="909" y="175"/>
+      <point x="880" y="83"/>
+      <point x="856" y="34" type="qcurve"/>
+      <point x="762" y="50" type="line"/>
+      <point x="788" y="101"/>
+      <point x="811" y="179"/>
+      <point x="811" y="224" type="qcurve" smooth="yes"/>
+      <point x="811" y="285"/>
+      <point x="712" y="362"/>
+      <point x="627" y="362" type="qcurve" smooth="yes"/>
+      <point x="570" y="362"/>
+      <point x="527" y="362"/>
+      <point x="463" y="362" type="qcurve" smooth="yes"/>
+      <point x="336" y="362"/>
+      <point x="156" y="517"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eightdevaNEP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>929</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eightdevaNEP</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>929</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

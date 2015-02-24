@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uudeva" format="1">
+  <advance width="1451"/>
+  <unicode hex="090A"/>
+  <outline>
+    <contour>
+      <point x="704" y="1096" type="line"/>
+      <point x="704" y="1288" type="line"/>
+      <point x="1481" y="1288" type="line"/>
+      <point x="1481" y="1096" type="line"/>
+    </contour>
+    <contour>
+      <point x="613" y="730" type="line"/>
+      <point x="659" y="769"/>
+      <point x="856" y="835"/>
+      <point x="966" y="835" type="qcurve" smooth="yes"/>
+      <point x="1135" y="835"/>
+      <point x="1367" y="622"/>
+      <point x="1367" y="449" type="qcurve" smooth="yes"/>
+      <point x="1367" y="360"/>
+      <point x="1307" y="182"/>
+      <point x="1241" y="99" type="qcurve"/>
+      <point x="991" y="148" type="line"/>
+      <point x="1042" y="219"/>
+      <point x="1105" y="371"/>
+      <point x="1105" y="449" type="qcurve" smooth="yes"/>
+      <point x="1105" y="527"/>
+      <point x="1013" y="620"/>
+      <point x="941" y="620" type="qcurve" smooth="yes"/>
+      <point x="885" y="620"/>
+      <point x="771" y="565"/>
+      <point x="720" y="516" type="qcurve"/>
+    </contour>
+    <component base="udeva"/>
+    <contour>
+      <point x="482" y="1288" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninedeva" format="1">
+  <advance width="939"/>
+  <unicode hex="096F"/>
+  <outline>
+    <contour>
+      <point x="437" y="579" type="qcurve"/>
+      <point x="338" y="728" type="line"/>
+      <point x="479" y="728"/>
+      <point x="630" y="846"/>
+      <point x="633" y="943" type="qcurve" smooth="yes"/>
+      <point x="635" y="1020"/>
+      <point x="532" y="1115"/>
+      <point x="458" y="1115" type="qcurve" smooth="yes"/>
+      <point x="385" y="1115"/>
+      <point x="288" y="1012"/>
+      <point x="288" y="927" type="qcurve" smooth="yes"/>
+      <point x="288" y="874"/>
+      <point x="329" y="795"/>
+      <point x="379" y="742" type="qcurve" smooth="yes"/>
+      <point x="692" y="416" type="line"/>
+      <point x="763" y="343"/>
+      <point x="825" y="207"/>
+      <point x="825" y="130" type="qcurve" smooth="yes"/>
+      <point x="825" y="32" type="line"/>
+      <point x="612" y="32" type="line"/>
+      <point x="612" y="117" type="line"/>
+      <point x="612" y="184"/>
+      <point x="563" y="274"/>
+      <point x="513" y="325" type="qcurve" smooth="yes"/>
+      <point x="244" y="598" type="line"/>
+      <point x="159" y="684"/>
+      <point x="77" y="852"/>
+      <point x="77" y="938" type="qcurve" smooth="yes"/>
+      <point x="77" y="1085"/>
+      <point x="278" y="1286"/>
+      <point x="441" y="1286" type="qcurve" smooth="yes"/>
+      <point x="624" y="1286"/>
+      <point x="839" y="1082"/>
+      <point x="839" y="935" type="qcurve" smooth="yes"/>
+      <point x="839" y="788"/>
+      <point x="625" y="579"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ninedeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>861</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ninedeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>861</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acandradeva" format="1">
+  <advance width="1391"/>
+  <unicode hex="0972"/>
+  <outline>
+    <component base="adeva"/>
+    <component base="ecandravowelsigndeva" xOffset="1644"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>130</integer>
+    </dict>
+  </lib>
+</glyph>

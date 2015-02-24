@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udeva" format="1">
+  <advance width="953"/>
+  <unicode hex="0909"/>
+  <outline>
+    <contour>
+      <point x="-30" y="1138" type="line"/>
+      <point x="-30" y="1279" type="line"/>
+      <point x="983" y="1279" type="line"/>
+      <point x="983" y="1138" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="617" type="line"/>
+      <point x="227" y="764" type="line"/>
+      <point x="247" y="764" type="line" smooth="yes"/>
+      <point x="421" y="764"/>
+      <point x="556" y="880"/>
+      <point x="556" y="972" type="qcurve" smooth="yes"/>
+      <point x="556" y="1042"/>
+      <point x="456" y="1139"/>
+      <point x="364" y="1139" type="qcurve" smooth="yes"/>
+      <point x="170" y="1139" type="line"/>
+      <point x="151" y="1260" type="line"/>
+      <point x="364" y="1260" type="line" smooth="yes"/>
+      <point x="518" y="1260"/>
+      <point x="717" y="1104"/>
+      <point x="717" y="969" type="qcurve" smooth="yes"/>
+      <point x="717" y="806"/>
+      <point x="488" y="617"/>
+      <point x="268" y="617" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="392" y="769" type="line"/>
+      <point x="566" y="779"/>
+      <point x="810" y="568"/>
+      <point x="810" y="419" type="qcurve" smooth="yes"/>
+      <point x="810" y="247"/>
+      <point x="593" y="63"/>
+      <point x="411" y="63" type="qcurve" smooth="yes"/>
+      <point x="339" y="63"/>
+      <point x="179" y="96"/>
+      <point x="80" y="135" type="qcurve"/>
+      <point x="105" y="279" type="line"/>
+      <point x="189" y="242"/>
+      <point x="312" y="209"/>
+      <point x="389" y="209" type="qcurve" smooth="yes"/>
+      <point x="508" y="209"/>
+      <point x="643" y="320"/>
+      <point x="643" y="427" type="qcurve" smooth="yes"/>
+      <point x="643" y="511"/>
+      <point x="494" y="639"/>
+      <point x="366" y="639" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="451.0" y="1291.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1258</integer>
+          <key>y</key>
+          <integer>-11</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1431</integer>
+          <key>y</key>
+          <integer>1036</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>udeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>953</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>udeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>953</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

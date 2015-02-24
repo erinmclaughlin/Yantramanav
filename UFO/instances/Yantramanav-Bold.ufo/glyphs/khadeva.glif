@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khadeva" format="1">
+  <advance width="1777"/>
+  <unicode hex="0916"/>
+  <outline>
+    <contour>
+      <point x="1330" y="296" type="line"/>
+      <point x="1288" y="277"/>
+      <point x="1205" y="264"/>
+      <point x="1140" y="264" type="qcurve" smooth="yes"/>
+      <point x="991" y="264"/>
+      <point x="761" y="462"/>
+      <point x="761" y="626" type="qcurve" smooth="yes"/>
+      <point x="761" y="781"/>
+      <point x="966" y="963"/>
+      <point x="1113" y="963" type="qcurve" smooth="yes"/>
+      <point x="1191" y="963"/>
+      <point x="1287" y="945"/>
+      <point x="1337" y="927" type="qcurve"/>
+      <point x="1337" y="717" type="line"/>
+      <point x="1288" y="747"/>
+      <point x="1212" y="765"/>
+      <point x="1160" y="765" type="qcurve" smooth="yes"/>
+      <point x="1098" y="765"/>
+      <point x="1010" y="685"/>
+      <point x="1010" y="618" type="qcurve" smooth="yes"/>
+      <point x="1010" y="542"/>
+      <point x="1109" y="467"/>
+      <point x="1162" y="467" type="qcurve" smooth="yes"/>
+      <point x="1216" y="467"/>
+      <point x="1291" y="494"/>
+      <point x="1330" y="526" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="845" y="1096" type="line"/>
+      <point x="845" y="1288" type="line"/>
+      <point x="1807" y="1288" type="line"/>
+      <point x="1807" y="1096" type="line"/>
+    </contour>
+    <contour>
+      <point x="1319" y="1134" type="line"/>
+      <point x="1582" y="1134" type="line"/>
+      <point x="1582" y="0" type="line"/>
+      <point x="1319" y="0" type="line"/>
+    </contour>
+    <component base="radeva"/>
+    <contour>
+      <point x="1327" y="1288" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1254</integer>
+          <key>y</key>
+          <integer>1216</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>khadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1634</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>khadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1634</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>
