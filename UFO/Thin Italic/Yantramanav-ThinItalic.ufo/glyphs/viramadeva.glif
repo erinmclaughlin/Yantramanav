@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="viramadeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="094D"/>
   <outline>
     <contour>
-      <point x="-290" y="-84" type="line"/>
-      <point x="63" y="-266" type="line"/>
-      <point x="45" y="-305" type="line"/>
-      <point x="-310" y="-122" type="line"/>
+      <point x="-299" y="-84" type="line"/>
+      <point x="17" y="-266" type="line"/>
+      <point x="-7" y="-305" type="line"/>
+      <point x="-326" y="-122" type="line"/>
     </contour>
     <contour>
-      <point x="-322.0" y="-18.0" type="move" name="_btm"/>
+      <point x="-320" y="-18" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -58,7 +58,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-290</integer>
+                  <real>-337.44358518318813</real>
                   <key>y</key>
                   <integer>-84</integer>
                 </dict>
@@ -68,7 +68,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>63</integer>
+                  <real>15.556414816811866</real>
                   <key>y</key>
                   <integer>-266</integer>
                 </dict>
@@ -78,7 +78,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>45</integer>
+                  <real>-2.4435851831881337</real>
                   <key>y</key>
                   <integer>-305</integer>
                 </dict>
@@ -88,7 +88,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-310</integer>
+                  <real>-357.44358518318813</real>
                   <key>y</key>
                   <integer>-122</integer>
                 </dict>
@@ -104,7 +104,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

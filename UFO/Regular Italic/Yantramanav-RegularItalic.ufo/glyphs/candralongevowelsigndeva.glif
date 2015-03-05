@@ -3,10 +3,10 @@
   <advance width="0.0"/>
   <unicode hex="0955"/>
   <outline>
-    <component base="ecandravowelsigndeva" yScale="0.888837277889" xOffset="302" yOffset="348"/>
-    <component base="anudattadeva" xOffset="284" yOffset="1593"/>
+    <component base="ecandravowelsigndeva" yScale="0.888837277889" xOffset="257" yOffset="348"/>
+    <component base="anudattadeva" xOffset="239" yOffset="1593"/>
     <contour>
-      <point x="-99" y="1279" type="move" name="_top"/>
+      <point x="-149" y="1279" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

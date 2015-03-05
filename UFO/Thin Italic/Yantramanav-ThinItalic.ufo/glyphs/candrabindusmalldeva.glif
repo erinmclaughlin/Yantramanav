@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="candrabindusmalldeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <outline>
     <contour>
-      <point x="-68" y="1584" type="line"/>
-      <point x="-142" y="1584" type="line"/>
-      <point x="-142" y="1696" type="line"/>
-      <point x="-68" y="1696" type="line"/>
+      <point x="201" y="1584" type="line"/>
+      <point x="128" y="1584" type="line"/>
+      <point x="147" y="1696" type="line"/>
+      <point x="220" y="1696" type="line"/>
     </contour>
     <contour>
-      <point x="-103" y="1469" type="qcurve" smooth="yes"/>
-      <point x="-42" y="1469"/>
-      <point x="47" y="1519"/>
-      <point x="86" y="1578" type="qcurve"/>
-      <point x="106" y="1540" type="line"/>
-      <point x="66" y="1479"/>
-      <point x="-33" y="1424"/>
-      <point x="-100" y="1424" type="qcurve" smooth="yes"/>
-      <point x="-161" y="1424"/>
-      <point x="-269" y="1479"/>
-      <point x="-320" y="1546" type="qcurve"/>
-      <point x="-301" y="1586" type="line"/>
-      <point x="-245" y="1515"/>
-      <point x="-151" y="1469"/>
+      <point x="147" y="1469" type="qcurve" smooth="yes"/>
+      <point x="207" y="1469"/>
+      <point x="303" y="1519"/>
+      <point x="352" y="1578" type="qcurve"/>
+      <point x="365" y="1540" type="line"/>
+      <point x="315" y="1479"/>
+      <point x="209" y="1424"/>
+      <point x="143" y="1424" type="qcurve" smooth="yes"/>
+      <point x="83" y="1424"/>
+      <point x="-15" y="1479"/>
+      <point x="-53" y="1546" type="qcurve"/>
+      <point x="-28" y="1586" type="line"/>
+      <point x="15" y="1515"/>
+      <point x="99" y="1469"/>
     </contour>
     <contour>
-      <point x="-371.0" y="1291.0" type="move" name="_top"/>
+      <point x="-147" y="1291" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -69,7 +69,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -91,7 +91,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

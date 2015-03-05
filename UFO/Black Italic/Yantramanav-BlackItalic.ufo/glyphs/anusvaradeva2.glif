@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anusvaradeva2" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <outline>
-    <component base="anusvaradeva" xOffset="210"/>
+    <component base="anusvaradeva" xOffset="453"/>
     <contour>
-      <point x="-371" y="1291" type="move" name="_top"/>
+      <point x="-147" y="1291" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -68,7 +68,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

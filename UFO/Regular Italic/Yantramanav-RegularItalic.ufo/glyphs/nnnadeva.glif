@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnnadeva" format="1">
-  <advance width="1118.0"/>
+  <advance width="1101"/>
   <unicode hex="0929"/>
   <outline>
-    <component base="nadeva" xOffset="-18"/>
-    <component base="nuktadeva" xOffset="1057"/>
+    <component base="nadeva" xOffset="-16"/>
+    <component base="nuktadeva" xOffset="1059"/>
     <contour>
-      <point x="1042" y="1279" type="move" name="top"/>
+      <point x="975" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1118.0</real>
+          <integer>1101</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -70,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1118.0</real>
+          <integer>1101</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

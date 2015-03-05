@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="baprehalfdeva" format="1">
-  <advance width="677.0"/>
+  <advance width="667"/>
   <outline>
     <contour>
-      <point x="749" y="371" type="line"/>
-      <point x="643" y="292" type="line"/>
-      <point x="466" y="819" type="line"/>
-      <point x="570" y="894" type="line"/>
+      <point x="723" y="371" type="line"/>
+      <point x="622" y="292" type="line"/>
+      <point x="427" y="819" type="line"/>
+      <point x="526" y="894" type="line"/>
     </contour>
-    <component base="vaprehalfdeva" xOffset="45"/>
+    <component base="vaprehalfdeva" xOffset="34"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>677.0</real>
+          <integer>667</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -56,7 +56,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>677.0</real>
+          <integer>667</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

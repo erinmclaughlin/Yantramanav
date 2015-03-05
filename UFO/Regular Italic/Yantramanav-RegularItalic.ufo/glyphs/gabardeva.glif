@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gabardeva" format="1">
-  <advance width="1208.0"/>
+  <advance width="1190"/>
   <unicode hex="097B"/>
   <outline>
     <contour>
-      <point x="968" y="-91" type="line"/>
+      <point x="956" y="-91" type="line"/>
       <point x="190" y="-91" type="line"/>
-      <point x="218" y="44" type="line"/>
-      <point x="996" y="44" type="line"/>
+      <point x="214" y="44" type="line"/>
+      <point x="980" y="44" type="line"/>
     </contour>
-    <component base="gadeva" xOffset="-19"/>
+    <component base="gadeva" xOffset="-18"/>
     <contour>
-      <point x="807" y="-102" type="move" name="btm"/>
+      <point x="799" y="-102" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>
@@ -79,7 +79,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1208.0</real>
+          <integer>1190</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -101,7 +101,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1208.0</real>
+          <integer>1190</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

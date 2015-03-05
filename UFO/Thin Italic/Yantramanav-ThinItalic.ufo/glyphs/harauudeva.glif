@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="harauudeva" format="1">
-  <advance width="1018"/>
+  <advance width="1003"/>
   <outline>
-    <component base="haradeva"/>
-    <component base="uuvowelsigndeva" xOffset="790" yOffset="-120"/>
+    <component base="haradeva" xOffset="-98"/>
+    <component base="uuvowelsigndeva" xOffset="692" yOffset="-120"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1018</integer>
+          <integer>1003</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1018</integer>
+          <integer>1003</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

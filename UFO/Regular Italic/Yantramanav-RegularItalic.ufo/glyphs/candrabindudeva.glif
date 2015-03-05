@@ -4,14 +4,14 @@
   <unicode hex="0901"/>
   <outline>
     <contour>
-      <point x="-124" y="1658" type="line"/>
-      <point x="-301" y="1658" type="line"/>
-      <point x="-262" y="1840" type="line"/>
-      <point x="-85" y="1840" type="line"/>
+      <point x="-188" y="1658" type="line"/>
+      <point x="-362" y="1658" type="line"/>
+      <point x="-332" y="1840" type="line"/>
+      <point x="-158" y="1840" type="line"/>
     </contour>
-    <component base="ecandravowelsigndeva" xOffset="336"/>
+    <component base="ecandravowelsigndeva" xOffset="286"/>
     <contour>
-      <point x="-97" y="1291" type="move" name="_top"/>
+      <point x="-147" y="1291" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

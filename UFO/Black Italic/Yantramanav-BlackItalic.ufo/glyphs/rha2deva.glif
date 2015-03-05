@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rha2deva" format="1">
-  <advance width="1136"/>
+  <advance width="1119"/>
   <outline>
-    <component base="ddhadeva"/>
-    <component base="nuktadeva" xOffset="1005" yOffset="-90"/>
+    <component base="ddhadeva" xOffset="-36"/>
+    <component base="nuktadeva" xOffset="969" yOffset="-90"/>
     <contour>
-      <point x="539" y="75" type="move" name="btm"/>
+      <point x="544" y="75" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="696" y="1279" type="move" name="top"/>
+      <point x="902" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1136</integer>
+          <integer>1119</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1136</integer>
+          <integer>1119</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

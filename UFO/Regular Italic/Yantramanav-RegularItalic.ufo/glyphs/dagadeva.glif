@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagadeva" format="1">
-  <advance width="1051.0"/>
+  <advance width="1035"/>
   <outline>
     <contour>
-      <point x="523" y="278" type="line"/>
-      <point x="446" y="-84" type="line" smooth="yes"/>
+      <point x="504" y="278" type="line"/>
+      <point x="443" y="-84" type="line" smooth="yes"/>
       <point x="429" y="-163"/>
-      <point x="360" y="-224"/>
-      <point x="313" y="-224" type="qcurve" smooth="yes"/>
-      <point x="237" y="-224"/>
-      <point x="134" y="-118"/>
-      <point x="146" y="-61" type="qcurve" smooth="yes"/>
-      <point x="157" y="-11"/>
-      <point x="229" y="46"/>
-      <point x="294" y="46" type="qcurve" smooth="yes"/>
-      <point x="340" y="46" type="line"/>
-      <point x="297" y="-9" type="line"/>
-      <point x="358" y="278" type="line"/>
+      <point x="364" y="-224"/>
+      <point x="318" y="-224" type="qcurve" smooth="yes"/>
+      <point x="243" y="-224"/>
+      <point x="137" y="-118"/>
+      <point x="147" y="-61" type="qcurve" smooth="yes"/>
+      <point x="155" y="-11"/>
+      <point x="224" y="46"/>
+      <point x="288" y="46" type="qcurve" smooth="yes"/>
+      <point x="333" y="46" type="line"/>
+      <point x="293" y="-9" type="line"/>
+      <point x="342" y="278" type="line"/>
     </contour>
-    <component base="dadeva" xOffset="-48"/>
+    <component base="dadeva" xOffset="-40"/>
     <contour>
-      <point x="536" y="-226" type="move" name="btm"/>
+      <point x="537" y="-226" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="920" y="1291" type="move" name="top"/>
+      <point x="855" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1051.0</real>
+          <integer>1035</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -87,7 +87,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1051.0</real>
+          <integer>1035</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

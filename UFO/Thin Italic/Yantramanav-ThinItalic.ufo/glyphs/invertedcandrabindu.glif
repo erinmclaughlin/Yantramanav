@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="invertedcandrabindu" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="0900"/>
   <outline>
-    <component base="candrabindudeva" xScale="-1" yScale="-1" xOffset="-1022" yOffset="3195"/>
+    <component base="candrabindudeva" xScale="-1" yScale="-1" xOffset="-763" yOffset="3195"/>
     <contour>
-      <point x="-371" y="1279" type="move" name="_top"/>
+      <point x="-149" y="1279" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

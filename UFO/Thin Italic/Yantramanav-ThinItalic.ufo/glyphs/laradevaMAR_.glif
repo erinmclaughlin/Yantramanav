@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="laradevaMAR" format="1">
-  <advance width="1388"/>
+  <advance width="1367"/>
   <outline>
-    <component base="ladevaMAR" xOffset="10"/>
-    <component base="vattudeva" xOffset="1050"/>
+    <component base="ladevaMAR" xOffset="-28"/>
+    <component base="vattudeva" xOffset="1012"/>
     <contour>
-      <point x="702" y="-312" type="move" name="btm"/>
+      <point x="638" y="-312" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="975" y="1279" type="move" name="top"/>
+      <point x="1177" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1388</integer>
+          <integer>1367</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -72,7 +72,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1388</integer>
+          <integer>1367</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

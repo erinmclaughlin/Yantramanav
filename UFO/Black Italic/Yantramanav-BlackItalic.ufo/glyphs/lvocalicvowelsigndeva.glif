@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lvocalicvowelsigndeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="0962"/>
   <outline>
     <contour>
-      <point x="46" y="-104" type="qcurve" smooth="yes"/>
-      <point x="46" y="-134"/>
-      <point x="35" y="-203"/>
-      <point x="26" y="-227" type="qcurve"/>
-      <point x="-16" y="-227" type="line" smooth="yes"/>
-      <point x="-54" y="-227"/>
-      <point x="-80" y="-246"/>
-      <point x="-80" y="-262" type="qcurve" smooth="yes"/>
-      <point x="-80" y="-282"/>
-      <point x="-45" y="-299"/>
-      <point x="-25" y="-299" type="qcurve" smooth="yes"/>
-      <point x="-3" y="-299"/>
-      <point x="39" y="-291"/>
-      <point x="56" y="-287" type="qcurve"/>
-      <point x="69" y="-372" type="line"/>
-      <point x="52" y="-378"/>
-      <point x="-2" y="-386"/>
-      <point x="-28" y="-386" type="qcurve" smooth="yes"/>
-      <point x="-114" y="-386"/>
-      <point x="-213" y="-315"/>
-      <point x="-213" y="-258" type="qcurve" smooth="yes"/>
-      <point x="-213" y="-205"/>
-      <point x="-119" y="-142"/>
-      <point x="-64" y="-142" type="qcurve" smooth="yes"/>
-      <point x="-25" y="-142" type="line"/>
-      <point x="-113" y="-168" type="line"/>
-      <point x="-112" y="-157"/>
-      <point x="-109" y="-136"/>
-      <point x="-109" y="-116" type="qcurve" smooth="yes"/>
-      <point x="-109" y="-97"/>
-      <point x="-143" y="-70"/>
-      <point x="-167" y="-70" type="qcurve" smooth="yes"/>
-      <point x="-200" y="-70"/>
-      <point x="-238" y="-117"/>
-      <point x="-238" y="-154" type="qcurve" smooth="yes"/>
-      <point x="-238" y="-220" type="line"/>
-      <point x="-431" y="-220" type="line"/>
-      <point x="-431" y="-132" type="line" smooth="yes"/>
-      <point x="-431" y="-73"/>
-      <point x="-271" y="78"/>
-      <point x="-168" y="78" type="qcurve" smooth="yes"/>
-      <point x="-74" y="78"/>
-      <point x="46" y="-32"/>
+      <point x="28" y="-104" type="qcurve" smooth="yes"/>
+      <point x="23" y="-134"/>
+      <point x="0" y="-203"/>
+      <point x="-13" y="-227" type="qcurve"/>
+      <point x="-54" y="-227" type="line" smooth="yes"/>
+      <point x="-92" y="-227"/>
+      <point x="-120" y="-246"/>
+      <point x="-123" y="-262" type="qcurve" smooth="yes"/>
+      <point x="-126" y="-282"/>
+      <point x="-95" y="-299"/>
+      <point x="-75" y="-299" type="qcurve" smooth="yes"/>
+      <point x="-53" y="-299"/>
+      <point x="-11" y="-291"/>
+      <point x="7" y="-287" type="qcurve"/>
+      <point x="5" y="-372" type="line"/>
+      <point x="-13" y="-378"/>
+      <point x="-67" y="-386"/>
+      <point x="-93" y="-386" type="qcurve" smooth="yes"/>
+      <point x="-177" y="-386"/>
+      <point x="-263" y="-315"/>
+      <point x="-253" y="-258" type="qcurve" smooth="yes"/>
+      <point x="-244" y="-205"/>
+      <point x="-141" y="-142"/>
+      <point x="-87" y="-142" type="qcurve" smooth="yes"/>
+      <point x="-48" y="-142" type="line"/>
+      <point x="-140" y="-168" type="line"/>
+      <point x="-137" y="-157"/>
+      <point x="-130" y="-136"/>
+      <point x="-127" y="-116" type="qcurve" smooth="yes"/>
+      <point x="-124" y="-97"/>
+      <point x="-153" y="-70"/>
+      <point x="-176" y="-70" type="qcurve" smooth="yes"/>
+      <point x="-209" y="-70"/>
+      <point x="-254" y="-117"/>
+      <point x="-260" y="-154" type="qcurve" smooth="yes"/>
+      <point x="-272" y="-220" type="line"/>
+      <point x="-462" y="-220" type="line"/>
+      <point x="-447" y="-132" type="line" smooth="yes"/>
+      <point x="-437" y="-73"/>
+      <point x="-254" y="78"/>
+      <point x="-153" y="78" type="qcurve" smooth="yes"/>
+      <point x="-60" y="78"/>
+      <point x="40" y="-32"/>
     </contour>
     <contour>
-      <point x="-431" y="-156" type="line"/>
-      <point x="-431" y="-126"/>
-      <point x="-477" y="-74"/>
-      <point x="-512" y="-74" type="qcurve" smooth="yes"/>
-      <point x="-537" y="-74"/>
-      <point x="-568" y="-105"/>
-      <point x="-568" y="-131" type="qcurve" smooth="yes"/>
-      <point x="-568" y="-166"/>
-      <point x="-521" y="-245"/>
-      <point x="-459" y="-301" type="qcurve"/>
-      <point x="-597" y="-353" type="line"/>
-      <point x="-659" y="-313"/>
-      <point x="-738" y="-178"/>
-      <point x="-738" y="-109" type="qcurve" smooth="yes"/>
-      <point x="-738" y="-25"/>
-      <point x="-626" y="78"/>
-      <point x="-538" y="78" type="qcurve" smooth="yes"/>
-      <point x="-411" y="78"/>
-      <point x="-270" y="-71"/>
-      <point x="-270" y="-137" type="qcurve"/>
+      <point x="-451" y="-156" type="line"/>
+      <point x="-446" y="-126"/>
+      <point x="-483" y="-74"/>
+      <point x="-517" y="-74" type="qcurve" smooth="yes"/>
+      <point x="-542" y="-74"/>
+      <point x="-577" y="-105"/>
+      <point x="-582" y="-131" type="qcurve" smooth="yes"/>
+      <point x="-588" y="-166"/>
+      <point x="-555" y="-245"/>
+      <point x="-503" y="-301" type="qcurve"/>
+      <point x="-648" y="-353" type="line"/>
+      <point x="-702" y="-313"/>
+      <point x="-757" y="-178"/>
+      <point x="-746" y="-109" type="qcurve" smooth="yes"/>
+      <point x="-731" y="-25"/>
+      <point x="-604" y="78"/>
+      <point x="-517" y="78" type="qcurve" smooth="yes"/>
+      <point x="-392" y="78"/>
+      <point x="-278" y="-71"/>
+      <point x="-290" y="-137" type="qcurve"/>
     </contour>
     <contour>
-      <point x="-370.0" y="12.0" type="move" name="_btm"/>
+      <point x="-362" y="12" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -98,7 +98,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -120,7 +120,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

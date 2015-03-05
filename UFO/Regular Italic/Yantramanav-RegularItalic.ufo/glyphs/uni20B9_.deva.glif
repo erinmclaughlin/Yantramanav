@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20B9.deva" format="1">
-  <advance width="1308"/>
+  <advance width="1288"/>
   <unicode hex="20B9"/>
   <outline>
     <contour>
-      <point x="368" y="835" type="line"/>
-      <point x="398" y="976" type="line"/>
-      <point x="1273" y="976" type="line"/>
-      <point x="1243" y="835" type="line"/>
+      <point x="329" y="835" type="line"/>
+      <point x="354" y="976" type="line"/>
+      <point x="1215" y="976" type="line"/>
+      <point x="1191" y="835" type="line"/>
     </contour>
     <contour>
-      <point x="432" y="1136" type="line"/>
-      <point x="463" y="1279" type="line"/>
-      <point x="1338" y="1279" type="line"/>
-      <point x="1307" y="1136" type="line"/>
+      <point x="380" y="1136" type="line"/>
+      <point x="405" y="1279" type="line"/>
+      <point x="1267" y="1279" type="line"/>
+      <point x="1242" y="1136" type="line"/>
     </contour>
     <contour>
-      <point x="359" y="556" type="line"/>
-      <point x="383" y="668" type="line"/>
-      <point x="559" y="668" type="line" smooth="yes"/>
-      <point x="693" y="668"/>
-      <point x="873" y="802"/>
-      <point x="901" y="933" type="qcurve" smooth="yes"/>
-      <point x="920" y="1019"/>
-      <point x="826" y="1136"/>
-      <point x="706" y="1136" type="qcurve" smooth="yes"/>
-      <point x="568" y="1136" type="line"/>
-      <point x="598" y="1270" type="line"/>
-      <point x="754" y="1270" type="line" smooth="yes"/>
-      <point x="915" y="1270"/>
-      <point x="1113" y="1094"/>
-      <point x="1079" y="936" type="qcurve" smooth="yes"/>
-      <point x="1036" y="733"/>
-      <point x="750" y="533"/>
-      <point x="609" y="533" type="qcurve" smooth="yes"/>
-      <point x="553" y="533" type="line"/>
-      <point x="573" y="566" type="line"/>
-      <point x="932" y="9" type="line"/>
-      <point x="928" y="0" type="line"/>
-      <point x="721" y="0" type="line"/>
+      <point x="332" y="556" type="line"/>
+      <point x="351" y="668" type="line"/>
+      <point x="524" y="668" type="line" smooth="yes"/>
+      <point x="656" y="668"/>
+      <point x="828" y="802"/>
+      <point x="850" y="933" type="qcurve" smooth="yes"/>
+      <point x="865" y="1019"/>
+      <point x="768" y="1136"/>
+      <point x="650" y="1136" type="qcurve" smooth="yes"/>
+      <point x="514" y="1136" type="line"/>
+      <point x="538" y="1270" type="line"/>
+      <point x="691" y="1270" type="line" smooth="yes"/>
+      <point x="850" y="1270"/>
+      <point x="1052" y="1094"/>
+      <point x="1025" y="936" type="qcurve" smooth="yes"/>
+      <point x="991" y="733"/>
+      <point x="718" y="533"/>
+      <point x="579" y="533" type="qcurve" smooth="yes"/>
+      <point x="524" y="533" type="line"/>
+      <point x="542" y="566" type="line"/>
+      <point x="918" y="9" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="710" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1308</integer>
+          <integer>1288</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -87,7 +87,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1308</integer>
+          <integer>1288</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

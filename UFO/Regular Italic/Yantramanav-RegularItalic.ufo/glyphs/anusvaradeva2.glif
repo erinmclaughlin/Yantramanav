@@ -2,9 +2,9 @@
 <glyph name="anusvaradeva2" format="1">
   <advance width="0.0"/>
   <outline>
-    <component base="anusvaradeva" xOffset="484"/>
+    <component base="anusvaradeva" xOffset="421"/>
     <contour>
-      <point x="-97" y="1291" type="move" name="_top"/>
+      <point x="-147" y="1291" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

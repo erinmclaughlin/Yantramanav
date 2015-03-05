@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ttatthadeva" format="1">
-  <advance width="976"/>
+  <advance width="961"/>
   <outline>
     <contour>
-      <point x="1006" y="1225" type="line"/>
-      <point x="-30" y="1225" type="line"/>
-      <point x="-30" y="1274" type="line"/>
-      <point x="1006" y="1274" type="line"/>
+      <point x="1198" y="1225" type="line"/>
+      <point x="177" y="1225" type="line"/>
+      <point x="186" y="1274" type="line"/>
+      <point x="1207" y="1274" type="line"/>
     </contour>
     <contour>
-      <point x="137" y="614" type="qcurve" smooth="yes"/>
-      <point x="137" y="752"/>
-      <point x="335" y="922"/>
-      <point x="516" y="922" type="qcurve" smooth="yes"/>
-      <point x="690" y="922" type="line"/>
-      <point x="670" y="902" type="line"/>
-      <point x="670" y="1232" type="line"/>
-      <point x="721" y="1232" type="line"/>
-      <point x="721" y="873" type="line"/>
-      <point x="522" y="873" type="line" smooth="yes"/>
-      <point x="364" y="873"/>
-      <point x="186" y="728"/>
-      <point x="186" y="611" type="qcurve" smooth="yes"/>
-      <point x="186" y="499"/>
-      <point x="374" y="347"/>
-      <point x="538" y="347" type="qcurve" smooth="yes"/>
-      <point x="622" y="347"/>
-      <point x="750" y="363"/>
-      <point x="815" y="384" type="qcurve"/>
-      <point x="820" y="336" type="line"/>
-      <point x="759" y="316"/>
-      <point x="633" y="298"/>
-      <point x="537" y="298" type="qcurve" smooth="yes"/>
-      <point x="352" y="298"/>
-      <point x="137" y="475"/>
+      <point x="239" y="614" type="qcurve" smooth="yes"/>
+      <point x="262" y="752"/>
+      <point x="486" y="922"/>
+      <point x="664" y="922" type="qcurve" smooth="yes"/>
+      <point x="835" y="922" type="line"/>
+      <point x="813" y="902" type="line"/>
+      <point x="869" y="1232" type="line"/>
+      <point x="919" y="1232" type="line"/>
+      <point x="858" y="873" type="line"/>
+      <point x="662" y="873" type="line" smooth="yes"/>
+      <point x="506" y="873"/>
+      <point x="306" y="728"/>
+      <point x="287" y="611" type="qcurve" smooth="yes"/>
+      <point x="268" y="499"/>
+      <point x="427" y="347"/>
+      <point x="589" y="347" type="qcurve" smooth="yes"/>
+      <point x="672" y="347"/>
+      <point x="800" y="363"/>
+      <point x="868" y="384" type="qcurve"/>
+      <point x="865" y="336" type="line"/>
+      <point x="801" y="316"/>
+      <point x="674" y="298"/>
+      <point x="579" y="298" type="qcurve" smooth="yes"/>
+      <point x="397" y="298"/>
+      <point x="216" y="475"/>
     </contour>
     <contour>
       <point x="657" y="56" type="line"/>
-      <point x="476" y="56" type="line" smooth="yes"/>
-      <point x="321" y="56"/>
-      <point x="164" y="-79"/>
-      <point x="164" y="-185" type="qcurve" smooth="yes"/>
-      <point x="164" y="-294"/>
-      <point x="327" y="-428"/>
-      <point x="462" y="-428" type="qcurve" smooth="yes"/>
-      <point x="636" y="-428"/>
-      <point x="795" y="-285"/>
-      <point x="795" y="-181" type="qcurve" smooth="yes"/>
-      <point x="795" y="-99"/>
-      <point x="693" y="43"/>
-      <point x="603" y="66" type="qcurve"/>
-      <point x="656" y="93" type="line"/>
+      <point x="479" y="56" type="line" smooth="yes"/>
+      <point x="326" y="56"/>
+      <point x="148" y="-79"/>
+      <point x="130" y="-185" type="qcurve" smooth="yes"/>
+      <point x="111" y="-294"/>
+      <point x="249" y="-428"/>
+      <point x="382" y="-428" type="qcurve" smooth="yes"/>
+      <point x="554" y="-428"/>
+      <point x="735" y="-285"/>
+      <point x="753" y="-181" type="qcurve" smooth="yes"/>
+      <point x="766" y="-99"/>
+      <point x="690" y="43"/>
+      <point x="605" y="66" type="qcurve"/>
+      <point x="662" y="93" type="line"/>
       <point x="739" y="65"/>
-      <point x="844" y="-94"/>
-      <point x="844" y="-181" type="qcurve" smooth="yes"/>
-      <point x="844" y="-308"/>
-      <point x="652" y="-477"/>
-      <point x="468" y="-477" type="qcurve" smooth="yes"/>
-      <point x="310" y="-477"/>
-      <point x="115" y="-316"/>
-      <point x="115" y="-182" type="qcurve" smooth="yes"/>
-      <point x="115" y="-53"/>
-      <point x="305" y="105"/>
-      <point x="472" y="105" type="qcurve" smooth="yes"/>
-      <point x="639" y="105" type="line"/>
-      <point x="622" y="85" type="line"/>
-      <point x="622" y="338" type="line"/>
-      <point x="671" y="338" type="line"/>
+      <point x="816" y="-94"/>
+      <point x="801" y="-181" type="qcurve" smooth="yes"/>
+      <point x="779" y="-308"/>
+      <point x="561" y="-477"/>
+      <point x="380" y="-477" type="qcurve" smooth="yes"/>
+      <point x="225" y="-477"/>
+      <point x="60" y="-316"/>
+      <point x="83" y="-182" type="qcurve" smooth="yes"/>
+      <point x="104" y="-53"/>
+      <point x="318" y="105"/>
+      <point x="483" y="105" type="qcurve" smooth="yes"/>
+      <point x="647" y="105" type="line"/>
+      <point x="627" y="85" type="line"/>
+      <point x="670" y="338" type="line"/>
+      <point x="718" y="338" type="line"/>
       <point x="671" y="56" type="line"/>
     </contour>
     <contour>
-      <point x="456" y="-527" type="move" name="btm"/>
+      <point x="360" y="-527" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="635" y="1291" type="move" name="top"/>
+      <point x="844" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -115,7 +115,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>976</integer>
+          <integer>961</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -137,7 +137,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>976</integer>
+          <integer>961</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

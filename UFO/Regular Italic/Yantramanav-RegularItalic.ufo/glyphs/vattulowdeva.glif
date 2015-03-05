@@ -4,16 +4,16 @@
   <outline>
     <contour>
       <point x="-243" y="92" type="line"/>
-      <point x="82" y="-105" type="line"/>
-      <point x="-19" y="-221" type="line"/>
-      <point x="-329" y="-32" type="line"/>
-      <point x="-275" y="-32" type="line"/>
-      <point x="-662" y="-221" type="line"/>
-      <point x="-720" y="-109" type="line"/>
-      <point x="-311" y="92" type="line"/>
+      <point x="85" y="-105" type="line"/>
+      <point x="-10" y="-221" type="line"/>
+      <point x="-322" y="-32" type="line"/>
+      <point x="-269" y="-32" type="line"/>
+      <point x="-643" y="-221" type="line"/>
+      <point x="-705" y="-109" type="line"/>
+      <point x="-310" y="92" type="line"/>
     </contour>
     <contour>
-      <point x="-367" y="12" type="move" name="_btm"/>
+      <point x="-362" y="12" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>

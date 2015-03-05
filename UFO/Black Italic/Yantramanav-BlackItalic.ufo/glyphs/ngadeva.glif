@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ngadeva" format="1">
-  <advance width="1337.0"/>
+  <advance width="1317"/>
   <unicode hex="0919"/>
   <outline>
     <contour>
-      <point x="1030" y="1076" type="line"/>
-      <point x="1030" y="1293" type="line"/>
-      <point x="1367" y="1293" type="line"/>
-      <point x="1367" y="1076" type="line"/>
+      <point x="1197" y="1076" type="line"/>
+      <point x="1233" y="1293" type="line"/>
+      <point x="1565" y="1293" type="line"/>
+      <point x="1529" y="1076" type="line"/>
     </contour>
     <contour>
-      <point x="1265" y="555" type="line"/>
-      <point x="996" y="555" type="line"/>
-      <point x="996" y="763" type="line"/>
-      <point x="1265" y="763" type="line"/>
+      <point x="1340" y="555" type="line"/>
+      <point x="1075" y="555" type="line"/>
+      <point x="1110" y="763" type="line"/>
+      <point x="1375" y="763" type="line"/>
     </contour>
-    <component base="ddadeva"/>
+    <component base="ddadeva" xOffset="-2"/>
     <contour>
-      <point x="451.0" y="-20.0" type="move" name="btm"/>
+      <point x="441" y="-20" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="610.0" y="1287.0" type="move" name="top"/>
+      <point x="819" y="1287" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -88,7 +88,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1337.0</real>
+          <integer>1317</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -110,7 +110,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1337.0</real>
+          <integer>1317</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

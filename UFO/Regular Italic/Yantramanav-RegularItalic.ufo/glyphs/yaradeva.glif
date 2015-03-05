@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yaradeva" format="1">
-  <advance width="1187.0"/>
+  <advance width="1169"/>
   <outline>
     <contour>
-      <point x="966" y="389" type="line"/>
+      <point x="936" y="389" type="line"/>
       <point x="213" y="-64" type="line"/>
-      <point x="143" y="63" type="line"/>
-      <point x="901" y="510" type="line"/>
+      <point x="139" y="63" type="line"/>
+      <point x="868" y="510" type="line"/>
     </contour>
-    <component base="yadeva" xOffset="-14"/>
+    <component base="yadeva" xOffset="-13"/>
     <contour>
-      <point x="1102" y="1291" type="move" name="top"/>
+      <point x="1034" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1187.0</real>
+          <integer>1169</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1187.0</real>
+          <integer>1169</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

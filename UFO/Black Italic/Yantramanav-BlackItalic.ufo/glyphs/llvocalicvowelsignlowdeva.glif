@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="llvocalicvowelsignlowdeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <outline>
-    <component base="llvocalicvowelsigndeva" yScale="0.910279214382" yOffset="7"/>
+    <component base="llvocalicvowelsigndeva" yScale="0.910279214382" xOffset="-58" yOffset="7"/>
     <contour>
-      <point x="-370" y="0" type="move" name="_btm"/>
+      <point x="-364" y="0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

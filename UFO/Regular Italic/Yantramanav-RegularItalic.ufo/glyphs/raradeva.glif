@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="raradeva" format="1">
-  <advance width="865.0"/>
+  <advance width="852"/>
   <outline>
-    <component base="radeva" xOffset="-39"/>
-    <component base="vattudeva" xOffset="622"/>
+    <component base="radeva" xOffset="-28"/>
+    <component base="vattudeva" xOffset="633"/>
     <contour>
-      <point x="290" y="-359" type="move" name="btm"/>
+      <point x="299" y="-359" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="781" y="1279" type="move" name="top"/>
+      <point x="718" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>865.0</real>
+          <integer>852</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -72,7 +72,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>865.0</real>
+          <integer>852</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

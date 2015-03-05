@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ssaradeva" format="1">
-  <advance width="1026"/>
+  <advance width="1011"/>
   <outline>
     <contour>
-      <point x="724" y="583" type="line"/>
-      <point x="207" y="-1" type="line"/>
-      <point x="173" y="32" type="line"/>
-      <point x="655" y="577" type="line"/>
+      <point x="812" y="583" type="line"/>
+      <point x="204" y="-1" type="line"/>
+      <point x="175" y="32" type="line"/>
+      <point x="743" y="577" type="line"/>
     </contour>
-    <component base="ssadeva"/>
+    <component base="ssadeva" xOffset="-3"/>
     <contour>
-      <point x="725" y="1291" type="move" name="top"/>
+      <point x="933" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1026</integer>
+          <integer>1011</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1026</integer>
+          <integer>1011</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

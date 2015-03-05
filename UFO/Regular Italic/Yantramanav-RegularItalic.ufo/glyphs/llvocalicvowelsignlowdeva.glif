@@ -2,9 +2,9 @@
 <glyph name="llvocalicvowelsignlowdeva" format="1">
   <advance width="0.0"/>
   <outline>
-    <component base="llvocalicvowelsigndeva" yScale="0.910279214382" xOffset="-84" yOffset="7"/>
+    <component base="llvocalicvowelsigndeva" yScale="0.910279214382" xOffset="-57" yOffset="7"/>
     <contour>
-      <point x="-370" y="0" type="move" name="_btm"/>
+      <point x="-364" y="0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="candralongevowelsigndeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="0955"/>
   <outline>
-    <component base="ecandravowelsigndeva" yScale="0.888837277889" xOffset="-8" yOffset="298"/>
-    <component base="anudattadeva" xOffset="21" yOffset="1543"/>
+    <component base="ecandravowelsigndeva" yScale="0.888837277889" xOffset="246" yOffset="298"/>
+    <component base="anudattadeva" xOffset="275" yOffset="1543"/>
     <contour>
-      <point x="-371.0" y="1279.0" type="move" name="_top"/>
+      <point x="-149" y="1279" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -3,10 +3,10 @@
   <advance width="0.0"/>
   <unicode hex="0957"/>
   <outline>
-    <component base="uevowelsigndevaKSH" yScale="0.915369153023" xOffset="-117" yOffset="-9"/>
-    <component base="uevowelsigndevaKSH" xScale="1.05154466629" yScale="0.889850735664" xOffset="-100" yOffset="-259"/>
+    <component base="uevowelsigndevaKSH" yScale="0.915369153023" xOffset="-81" yOffset="-9"/>
+    <component base="uevowelsigndevaKSH" xScale="1.05154466629" yScale="0.889850735664" xOffset="-64" yOffset="-259"/>
     <contour>
-      <point x="-370" y="0" type="move" name="_btm"/>
+      <point x="-364" y="0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>

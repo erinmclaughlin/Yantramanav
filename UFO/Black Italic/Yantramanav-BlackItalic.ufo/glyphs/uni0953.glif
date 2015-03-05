@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0953" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="0953"/>
   <outline>
     <contour>
-      <point x="-197" y="1420" type="line"/>
-      <point x="-454" y="1420" type="line"/>
-      <point x="-672" y="1801" type="line"/>
-      <point x="-334" y="1801" type="line"/>
+      <point x="46" y="1420" type="line"/>
+      <point x="-207" y="1420" type="line"/>
+      <point x="-358" y="1801" type="line"/>
+      <point x="-25" y="1801" type="line"/>
     </contour>
     <contour>
-      <point x="10" y="-9" type="move" name="x4"/>
+      <point x="8" y="-9" type="move" name="x4"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

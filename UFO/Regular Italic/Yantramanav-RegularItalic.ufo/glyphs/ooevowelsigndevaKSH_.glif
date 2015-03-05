@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ooevowelsigndevaKSH" format="1">
-  <advance width="564"/>
+  <advance width="556"/>
   <unicode hex="093B"/>
   <outline>
-    <component base="aavowelsigndeva"/>
-    <component base="oevowelsigndevaKSH" xOffset="563"/>
+    <component base="aavowelsigndeva" xOffset="-2"/>
+    <component base="oevowelsigndevaKSH" xOffset="561"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>564</integer>
+          <integer>556</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>564</integer>
+          <integer>556</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uuevowelsigndevaKSH" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="0957"/>
   <outline>
-    <component base="uevowelsigndevaKSH" yScale="0.915369153023" yOffset="-9"/>
-    <component base="uevowelsigndevaKSH" xScale="1.05154466629" yScale="0.889850735664" xOffset="17" yOffset="-259"/>
+    <component base="uevowelsigndevaKSH" yScale="0.915369153023" xOffset="-83" yOffset="-9"/>
+    <component base="uevowelsigndevaKSH" xScale="1.05154466629" yScale="0.889850735664" xOffset="-66" yOffset="-259"/>
     <contour>
-      <point x="-370" y="0" type="move" name="_btm"/>
+      <point x="-364" y="0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -55,7 +55,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

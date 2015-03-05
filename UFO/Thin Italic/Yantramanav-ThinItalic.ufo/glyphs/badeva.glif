@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="badeva" format="1">
-  <advance width="1051"/>
+  <advance width="1035"/>
   <unicode hex="092C"/>
   <outline>
     <contour>
-      <point x="640" y="352" type="line"/>
-      <point x="598" y="324" type="line"/>
-      <point x="294" y="871" type="line"/>
-      <point x="336" y="897" type="line"/>
+      <point x="690" y="352" type="line"/>
+      <point x="644" y="324" type="line"/>
+      <point x="437" y="871" type="line"/>
+      <point x="483" y="897" type="line"/>
     </contour>
-    <component base="vadeva"/>
+    <component base="vadeva" xOffset="-3"/>
     <contour>
-      <point x="745" y="1291" type="move" name="top"/>
+      <point x="952" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1051</integer>
+          <integer>1035</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>646</integer>
+                  <real>642.7089207048458</real>
                   <key>y</key>
                   <integer>341</integer>
                 </dict>
@@ -84,7 +84,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>604</integer>
+                  <real>600.7089207048458</real>
                   <key>y</key>
                   <integer>313</integer>
                 </dict>
@@ -94,7 +94,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>300</integer>
+                  <real>296.7089207048458</real>
                   <key>y</key>
                   <integer>860</integer>
                 </dict>
@@ -104,7 +104,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>342</integer>
+                  <real>338.7089207048458</real>
                   <key>y</key>
                   <integer>886</integer>
                 </dict>
@@ -120,7 +120,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1051</integer>
+          <integer>1035</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

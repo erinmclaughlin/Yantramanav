@@ -3,14 +3,14 @@
   <advance width="0.0"/>
   <outline>
     <contour>
-      <point x="281" y="1370" type="line"/>
-      <point x="118" y="1370" type="line"/>
-      <point x="153" y="1532" type="line"/>
-      <point x="316" y="1532" type="line"/>
+      <point x="222" y="1370" type="line"/>
+      <point x="61" y="1370" type="line"/>
+      <point x="89" y="1532" type="line"/>
+      <point x="249" y="1532" type="line"/>
     </contour>
-    <component base="rephdeva" xOffset="258"/>
+    <component base="rephdeva" xOffset="209"/>
     <contour>
-      <point x="-97" y="1291" type="move" name="_top"/>
+      <point x="-147" y="1291" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

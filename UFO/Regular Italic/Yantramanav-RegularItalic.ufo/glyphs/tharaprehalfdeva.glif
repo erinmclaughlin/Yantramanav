@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tharaprehalfdeva" format="1">
-  <advance width="864.0"/>
+  <advance width="851"/>
   <outline>
     <contour>
-      <point x="953" y="319" type="line"/>
-      <point x="275" y="-64" type="line"/>
-      <point x="205" y="63" type="line"/>
-      <point x="889" y="437" type="line"/>
+      <point x="926" y="319" type="line"/>
+      <point x="274" y="-64" type="line"/>
+      <point x="200" y="63" type="line"/>
+      <point x="858" y="437" type="line"/>
     </contour>
     <component base="thaprehalfdeva" xOffset="-14"/>
   </outline>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>864.0</real>
+          <integer>851</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>864.0</real>
+          <integer>851</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

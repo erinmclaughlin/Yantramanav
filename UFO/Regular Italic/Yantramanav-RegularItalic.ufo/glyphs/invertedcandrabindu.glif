@@ -3,9 +3,9 @@
   <advance width="0.0"/>
   <unicode hex="0900"/>
   <outline>
-    <component base="candrabindudeva" xScale="-1" yScale="-1" xOffset="-829" yOffset="3224"/>
+    <component base="candrabindudeva" xScale="-1" yScale="-1" xOffset="-867" yOffset="3224"/>
     <contour>
-      <point x="-99" y="1279" type="move" name="_top"/>
+      <point x="-149" y="1279" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

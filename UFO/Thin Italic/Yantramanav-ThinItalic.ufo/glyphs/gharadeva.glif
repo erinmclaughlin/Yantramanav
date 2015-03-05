@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gharadeva" format="1">
-  <advance width="1212"/>
+  <advance width="1194"/>
   <outline>
     <contour>
-      <point x="961" y="359" type="line"/>
-      <point x="214" y="-1" type="line"/>
-      <point x="191" y="41" type="line"/>
-      <point x="945" y="400" type="line"/>
+      <point x="1008" y="359" type="line"/>
+      <point x="211" y="-1" type="line"/>
+      <point x="195" y="41" type="line"/>
+      <point x="999" y="400" type="line"/>
     </contour>
-    <component base="ghadeva" yOffset="1"/>
+    <component base="ghadeva" xOffset="-3" yOffset="1"/>
     <contour>
-      <point x="872" y="1291" type="move" name="top"/>
+      <point x="1078" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1212</integer>
+          <integer>1194</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1212</integer>
+          <integer>1194</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ivowelsign05deva" format="1">
-  <advance width="564"/>
+  <advance width="556"/>
   <outline>
     <contour>
-      <point x="426" y="1224" type="line"/>
-      <point x="446" y="1315" type="line" smooth="yes"/>
-      <point x="483" y="1493"/>
-      <point x="878" y="1751"/>
-      <point x="1216" y="1751" type="qcurve" smooth="yes"/>
-      <point x="1386" y="1751"/>
-      <point x="1794" y="1667"/>
-      <point x="1963" y="1580" type="qcurve"/>
-      <point x="1912" y="1453" type="line"/>
-      <point x="1719" y="1535"/>
-      <point x="1359" y="1605"/>
-      <point x="1199" y="1605" type="qcurve" smooth="yes"/>
-      <point x="940" y="1605"/>
-      <point x="646" y="1427"/>
-      <point x="620" y="1302" type="qcurve" smooth="yes"/>
-      <point x="603" y="1224" type="line"/>
+      <point x="370" y="1224" type="line"/>
+      <point x="386" y="1315" type="line" smooth="yes"/>
+      <point x="417" y="1493"/>
+      <point x="795" y="1751"/>
+      <point x="1128" y="1751" type="qcurve" smooth="yes"/>
+      <point x="1295" y="1751"/>
+      <point x="1700" y="1667"/>
+      <point x="1870" y="1580" type="qcurve"/>
+      <point x="1825" y="1453" type="line"/>
+      <point x="1632" y="1535"/>
+      <point x="1275" y="1605"/>
+      <point x="1117" y="1605" type="qcurve" smooth="yes"/>
+      <point x="862" y="1605"/>
+      <point x="579" y="1427"/>
+      <point x="558" y="1302" type="qcurve" smooth="yes"/>
+      <point x="545" y="1224" type="line"/>
     </contour>
-    <component base="aavowelsigndeva"/>
+    <component base="aavowelsigndeva" xOffset="-2"/>
   </outline>
   <lib>
     <dict>
@@ -63,7 +63,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>564</integer>
+          <integer>556</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -85,7 +85,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>564</integer>
+          <integer>556</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

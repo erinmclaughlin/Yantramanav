@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jjyadeva" format="1">
-  <advance width="1187"/>
+  <advance width="1169"/>
   <unicode hex="097A"/>
   <outline>
     <contour>
-      <point x="947" y="506" type="line"/>
-      <point x="843" y="433" type="line"/>
-      <point x="574" y="1129" type="line"/>
-      <point x="676" y="1198" type="line"/>
+      <point x="912" y="506" type="line"/>
+      <point x="813" y="433" type="line"/>
+      <point x="520" y="1129" type="line"/>
+      <point x="618" y="1198" type="line"/>
     </contour>
-    <component base="yadeva"/>
+    <component base="yadeva" xOffset="-2"/>
     <contour>
-      <point x="1102" y="1291" type="move" name="top"/>
+      <point x="1034" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1187</integer>
+          <integer>1169</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -75,7 +75,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1187</integer>
+          <integer>1169</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddanuktaprehalfdeva" format="1">
-  <advance width="1020"/>
+  <advance width="1005"/>
   <outline>
-    <component base="dddha2deva"/>
-    <component base="viramadeva" xOffset="876"/>
+    <component base="dddha2deva" xOffset="-53"/>
+    <component base="viramadeva" xOffset="823"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1020</integer>
+          <integer>1005</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1020</integer>
+          <integer>1005</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

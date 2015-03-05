@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vattulowdeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <outline>
     <contour>
-      <point x="-243" y="102" type="line"/>
-      <point x="134" y="-82" type="line"/>
-      <point x="8" y="-259" type="line"/>
-      <point x="-360" y="-85" type="line"/>
-      <point x="-306" y="-85" type="line"/>
-      <point x="-670" y="-272" type="line"/>
-      <point x="-807" y="-87" type="line"/>
-      <point x="-441" y="102" type="line"/>
+      <point x="-222" y="102" type="line"/>
+      <point x="118" y="-82" type="line"/>
+      <point x="-36" y="-259" type="line"/>
+      <point x="-369" y="-85" type="line"/>
+      <point x="-316" y="-85" type="line"/>
+      <point x="-706" y="-272" type="line"/>
+      <point x="-810" y="-87" type="line"/>
+      <point x="-417" y="102" type="line"/>
     </contour>
     <contour>
-      <point x="-370" y="12" type="move" name="_btm"/>
+      <point x="-362" y="12" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-223</integer>
+                  <real>-257.40814809779397</real>
                   <key>y</key>
                   <integer>102</integer>
                 </dict>
@@ -49,7 +49,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>144</integer>
+                  <real>109.59185190220603</real>
                   <key>y</key>
                   <integer>-82</integer>
                 </dict>
@@ -59,7 +59,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-2</integer>
+                  <real>-36.40814809779397</real>
                   <key>y</key>
                   <integer>-259</integer>
                 </dict>
@@ -69,7 +69,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-340</integer>
+                  <real>-374.40814809779397</real>
                   <key>y</key>
                   <integer>-85</integer>
                 </dict>
@@ -79,7 +79,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-286</integer>
+                  <real>-320.40814809779397</real>
                   <key>y</key>
                   <integer>-85</integer>
                 </dict>
@@ -89,7 +89,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-620</integer>
+                  <real>-654.408148097794</real>
                   <key>y</key>
                   <integer>-272</integer>
                 </dict>
@@ -99,7 +99,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-777</integer>
+                  <real>-811.408148097794</real>
                   <key>y</key>
                   <integer>-87</integer>
                 </dict>
@@ -109,7 +109,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>-421</integer>
+                  <real>-455.40814809779397</real>
                   <key>y</key>
                   <integer>102</integer>
                 </dict>
@@ -125,7 +125,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -147,7 +147,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

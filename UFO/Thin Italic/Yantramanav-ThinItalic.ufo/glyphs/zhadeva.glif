@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zhadeva" format="1">
-  <advance width="1294"/>
+  <advance width="1275"/>
   <unicode hex="0979"/>
   <outline>
-    <component base="jadeva"/>
-    <component base="nuktadeva" xOffset="1082" yOffset="-188"/>
-    <component base="nuktadeva" xOffset="1318" yOffset="-50"/>
-    <component base="nuktadeva" xOffset="840" yOffset="-50"/>
+    <component base="jadeva" xOffset="-41"/>
+    <component base="nuktadeva" xOffset="1041" yOffset="-188"/>
+    <component base="nuktadeva" xOffset="1277" yOffset="-50"/>
+    <component base="nuktadeva" xOffset="799" yOffset="-50"/>
     <contour>
-      <point x="1098" y="1279" type="move" name="top"/>
+      <point x="1298" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1294</integer>
+          <integer>1275</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -72,7 +72,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1294</integer>
+          <integer>1275</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

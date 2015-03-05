@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rrvocaliclowdeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <outline>
     <contour>
-      <point x="-131" y="-507" type="line"/>
-      <point x="-163" y="-524"/>
-      <point x="-249" y="-541"/>
-      <point x="-289" y="-541" type="qcurve" smooth="yes"/>
-      <point x="-400" y="-541"/>
-      <point x="-521" y="-443"/>
-      <point x="-521" y="-367" type="qcurve" smooth="yes"/>
-      <point x="-521" y="-305"/>
-      <point x="-419" y="-221"/>
-      <point x="-321" y="-221" type="qcurve" smooth="yes"/>
-      <point x="-278" y="-221" type="line"/>
-      <point x="-278" y="-326" type="line"/>
-      <point x="-283" y="-326" type="line" smooth="yes"/>
-      <point x="-326" y="-326"/>
-      <point x="-363" y="-354"/>
-      <point x="-363" y="-379" type="qcurve" smooth="yes"/>
-      <point x="-363" y="-401"/>
-      <point x="-323" y="-428"/>
-      <point x="-285" y="-428" type="qcurve" smooth="yes"/>
-      <point x="-251" y="-428"/>
-      <point x="-179" y="-412"/>
-      <point x="-155" y="-401" type="qcurve"/>
+      <point x="-215" y="-507" type="line"/>
+      <point x="-249" y="-524"/>
+      <point x="-337" y="-541"/>
+      <point x="-376" y="-541" type="qcurve" smooth="yes"/>
+      <point x="-486" y="-541"/>
+      <point x="-588" y="-443"/>
+      <point x="-575" y="-367" type="qcurve" smooth="yes"/>
+      <point x="-564" y="-305"/>
+      <point x="-450" y="-221"/>
+      <point x="-354" y="-221" type="qcurve" smooth="yes"/>
+      <point x="-311" y="-221" type="line"/>
+      <point x="-329" y="-326" type="line"/>
+      <point x="-334" y="-326" type="line" smooth="yes"/>
+      <point x="-376" y="-326"/>
+      <point x="-418" y="-354"/>
+      <point x="-422" y="-379" type="qcurve" smooth="yes"/>
+      <point x="-426" y="-401"/>
+      <point x="-391" y="-428"/>
+      <point x="-354" y="-428" type="qcurve" smooth="yes"/>
+      <point x="-320" y="-428"/>
+      <point x="-246" y="-412"/>
+      <point x="-221" y="-401" type="qcurve"/>
     </contour>
     <contour>
-      <point x="-148" y="-306" type="line"/>
-      <point x="-173" y="-319"/>
-      <point x="-264" y="-336"/>
-      <point x="-310" y="-336" type="qcurve" smooth="yes"/>
-      <point x="-444" y="-336"/>
-      <point x="-581" y="-230"/>
-      <point x="-581" y="-144" type="qcurve" smooth="yes"/>
-      <point x="-581" y="-64"/>
-      <point x="-452" y="37"/>
-      <point x="-323" y="37" type="qcurve" smooth="yes"/>
-      <point x="-183" y="37" type="line"/>
-      <point x="-183" y="-107" type="line"/>
-      <point x="-306" y="-107" type="line" smooth="yes"/>
-      <point x="-360" y="-107"/>
-      <point x="-396" y="-134"/>
-      <point x="-396" y="-154" type="qcurve" smooth="yes"/>
-      <point x="-396" y="-178"/>
-      <point x="-349" y="-205"/>
-      <point x="-305" y="-205" type="qcurve" smooth="yes"/>
-      <point x="-274" y="-205"/>
-      <point x="-204" y="-194"/>
-      <point x="-178" y="-188" type="qcurve"/>
+      <point x="-198" y="-306" type="line"/>
+      <point x="-225" y="-319"/>
+      <point x="-317" y="-336"/>
+      <point x="-362" y="-336" type="qcurve" smooth="yes"/>
+      <point x="-494" y="-336"/>
+      <point x="-612" y="-230"/>
+      <point x="-597" y="-144" type="qcurve" smooth="yes"/>
+      <point x="-583" y="-64"/>
+      <point x="-439" y="37"/>
+      <point x="-312" y="37" type="qcurve" smooth="yes"/>
+      <point x="-174" y="37" type="line"/>
+      <point x="-198" y="-107" type="line"/>
+      <point x="-319" y="-107" type="line" smooth="yes"/>
+      <point x="-372" y="-107"/>
+      <point x="-413" y="-134"/>
+      <point x="-416" y="-154" type="qcurve" smooth="yes"/>
+      <point x="-421" y="-178"/>
+      <point x="-378" y="-205"/>
+      <point x="-335" y="-205" type="qcurve" smooth="yes"/>
+      <point x="-304" y="-205"/>
+      <point x="-233" y="-194"/>
+      <point x="-207" y="-188" type="qcurve"/>
     </contour>
     <contour>
-      <point x="-347" y="12" type="move" name="_btm"/>
+      <point x="-340" y="12" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -97,7 +97,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -119,7 +119,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

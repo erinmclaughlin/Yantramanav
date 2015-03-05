@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni200D" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="200D"/>
   <outline>
     <contour>
-      <point x="-38" y="1331" type="line"/>
-      <point x="38" y="1331" type="line"/>
-      <point x="38" y="-348" type="line"/>
-      <point x="-38" y="-348" type="line"/>
+      <point x="188" y="1331" type="line"/>
+      <point x="263" y="1331" type="line"/>
+      <point x="-22" y="-348" type="line"/>
+      <point x="-97" y="-348" type="line"/>
     </contour>
     <contour>
-      <point x="-220" y="1066" type="line"/>
-      <point x="-271" y="1117" type="line"/>
-      <point x="218" y="1617" type="line"/>
-      <point x="271" y="1567" type="line"/>
+      <point x="-36" y="1066" type="line"/>
+      <point x="-78" y="1117" type="line"/>
+      <point x="489" y="1617" type="line"/>
+      <point x="532" y="1567" type="line"/>
     </contour>
     <contour>
-      <point x="-269" y="1568" type="line"/>
-      <point x="-219" y="1618" type="line"/>
-      <point x="271" y="1118" type="line"/>
-      <point x="218" y="1068" type="line"/>
+      <point x="0" y="1568" type="line"/>
+      <point x="58" y="1618" type="line"/>
+      <point x="456" y="1118" type="line"/>
+      <point x="396" y="1068" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -68,7 +68,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

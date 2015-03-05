@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aideva" format="1">
-  <advance width="1073"/>
+  <advance width="1057"/>
   <unicode hex="0910"/>
   <outline>
     <component base="edeva"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1073</integer>
+          <integer>1057</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1073</integer>
+          <integer>1057</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dbldandadeva" format="1">
-  <advance width="1167.0"/>
+  <advance width="1149"/>
   <unicode hex="0965"/>
   <outline>
-    <component base="dandadeva" xOffset="337"/>
-    <component base="dandadeva" xOffset="-33"/>
+    <component base="dandadeva" xOffset="339"/>
+    <component base="dandadeva" xOffset="-31"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1167.0</real>
+          <integer>1149</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1167.0</real>
+          <integer>1149</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

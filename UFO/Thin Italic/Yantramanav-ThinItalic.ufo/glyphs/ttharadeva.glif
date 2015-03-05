@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ttharadeva" format="1">
-  <advance width="1126"/>
+  <advance width="1109"/>
   <outline>
-    <component base="tthadeva"/>
-    <component base="vattudeva" xOffset="810"/>
+    <component base="tthadeva" xOffset="-38"/>
+    <component base="vattudeva" xOffset="772"/>
     <contour>
-      <point x="569" y="-253" type="move" name="btm"/>
+      <point x="518" y="-253" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="772" y="1279" type="move" name="top"/>
+      <point x="977" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1126</integer>
+          <integer>1109</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -72,7 +72,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1126</integer>
+          <integer>1109</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

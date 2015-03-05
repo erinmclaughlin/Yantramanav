@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gadeva" format="1">
-  <advance width="1292"/>
+  <advance width="1273"/>
   <unicode hex="0917"/>
   <outline>
     <contour>
-      <point x="805" y="1103" type="line"/>
-      <point x="1109" y="1103" type="line"/>
-      <point x="1109" y="0" type="line"/>
-      <point x="805" y="0" type="line"/>
+      <point x="980" y="1103" type="line"/>
+      <point x="1280" y="1103" type="line"/>
+      <point x="1092" y="0" type="line"/>
+      <point x="793" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1322" y="1076" type="line"/>
-      <point x="-30" y="1076" type="line"/>
-      <point x="-30" y="1293" type="line"/>
-      <point x="1322" y="1293" type="line"/>
+      <point x="1484" y="1076" type="line"/>
+      <point x="153" y="1076" type="line"/>
+      <point x="189" y="1293" type="line"/>
+      <point x="1521" y="1293" type="line"/>
     </contour>
     <contour>
-      <point x="524" y="1095" type="line"/>
-      <point x="524" y="478" type="line" smooth="yes"/>
-      <point x="524" y="395"/>
-      <point x="429" y="303"/>
-      <point x="347" y="303" type="qcurve" smooth="yes"/>
-      <point x="232" y="303"/>
-      <point x="30" y="486"/>
-      <point x="30" y="594" type="qcurve" smooth="yes"/>
-      <point x="30" y="665"/>
-      <point x="115" y="753"/>
-      <point x="192" y="753" type="qcurve" smooth="yes"/>
-      <point x="270" y="753" type="line"/>
-      <point x="220" y="639" type="line"/>
-      <point x="220" y="1095" type="line"/>
+      <point x="701" y="1095" type="line"/>
+      <point x="597" y="478" type="line" smooth="yes"/>
+      <point x="583" y="395"/>
+      <point x="474" y="303"/>
+      <point x="393" y="303" type="qcurve" smooth="yes"/>
+      <point x="280" y="303"/>
+      <point x="112" y="486"/>
+      <point x="130" y="594" type="qcurve" smooth="yes"/>
+      <point x="142" y="665"/>
+      <point x="240" y="753"/>
+      <point x="316" y="753" type="qcurve" smooth="yes"/>
+      <point x="393" y="753" type="line"/>
+      <point x="325" y="639" type="line"/>
+      <point x="402" y="1095" type="line"/>
     </contour>
     <contour>
-      <point x="800" y="1287" type="move" name="top"/>
+      <point x="1006" y="1287" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1292</integer>
+          <integer>1273</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -84,7 +84,7 @@
               <key>name</key>
               <string>top</string>
               <key>x</key>
-              <real>800.0</real>
+              <real>798.0671844660194</real>
               <key>y</key>
               <real>1287.0</real>
             </dict>
@@ -104,7 +104,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1292</integer>
+          <integer>1273</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

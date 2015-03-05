@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnaradeva" format="1">
-  <advance width="1467.0"/>
+  <advance width="1445"/>
   <outline>
     <contour>
-      <point x="1255" y="389" type="line"/>
-      <point x="552" y="-64" type="line"/>
-      <point x="482" y="63" type="line"/>
-      <point x="1190" y="510" type="line"/>
+      <point x="1220" y="389" type="line"/>
+      <point x="547" y="-64" type="line"/>
+      <point x="473" y="63" type="line"/>
+      <point x="1152" y="510" type="line"/>
     </contour>
-    <component base="nnadeva" xOffset="-14"/>
+    <component base="nnadeva" xOffset="-13"/>
     <contour>
-      <point x="1361" y="1291" type="move" name="top"/>
+      <point x="1289" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1467.0</real>
+          <integer>1445</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1467.0</real>
+          <integer>1445</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

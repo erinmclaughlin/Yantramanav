@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="1">
-  <advance width="1112"/>
+  <advance width="1095"/>
   <outline>
     <contour>
-      <point x="85" y="1291" type="line"/>
-      <point x="1027" y="1291" type="line"/>
-      <point x="1027" y="0" type="line"/>
-      <point x="85" y="0" type="line"/>
+      <point x="302" y="1291" type="line"/>
+      <point x="1230" y="1291" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="724" y="217" type="line"/>
-      <point x="724" y="1076" type="line"/>
-      <point x="387" y="1076" type="line"/>
-      <point x="387" y="217" type="line"/>
+      <point x="750" y="217" type="line"/>
+      <point x="895" y="1076" type="line"/>
+      <point x="563" y="1076" type="line"/>
+      <point x="418" y="217" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1112</integer>
+          <integer>1095</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -60,7 +60,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>144</integer>
+                  <real>142.725</real>
                   <key>y</key>
                   <integer>1279</integer>
                 </dict>
@@ -70,7 +70,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>967</integer>
+                  <real>965.725</real>
                   <key>y</key>
                   <integer>1279</integer>
                 </dict>
@@ -80,7 +80,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>967</integer>
+                  <real>965.725</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -90,7 +90,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>144</integer>
+                  <real>142.725</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -105,7 +105,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>800</integer>
+                  <real>798.725</real>
                   <key>y</key>
                   <integer>139</integer>
                 </dict>
@@ -115,7 +115,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>800</integer>
+                  <real>798.725</real>
                   <key>y</key>
                   <integer>1144</integer>
                 </dict>
@@ -125,7 +125,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>314</integer>
+                  <real>312.725</real>
                   <key>y</key>
                   <integer>1144</integer>
                 </dict>
@@ -135,7 +135,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>314</integer>
+                  <real>312.725</real>
                   <key>y</key>
                   <integer>139</integer>
                 </dict>
@@ -151,7 +151,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1112</integer>
+          <integer>1095</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

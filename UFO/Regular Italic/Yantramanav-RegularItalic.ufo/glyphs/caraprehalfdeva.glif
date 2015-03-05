@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caraprehalfdeva" format="1">
-  <advance width="875.0"/>
+  <advance width="862"/>
   <outline>
     <contour>
-      <point x="948" y="251" type="line"/>
+      <point x="924" y="251" type="line"/>
       <point x="201" y="-79" type="line"/>
-      <point x="149" y="59" type="line"/>
-      <point x="898" y="375" type="line"/>
+      <point x="144" y="59" type="line"/>
+      <point x="869" y="375" type="line"/>
     </contour>
-    <component base="caprehalfdeva" xOffset="-17"/>
+    <component base="caprehalfdeva" xOffset="-16"/>
   </outline>
   <lib>
     <dict>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>875.0</real>
+          <integer>862</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -71,7 +71,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>875.0</real>
+          <integer>862</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

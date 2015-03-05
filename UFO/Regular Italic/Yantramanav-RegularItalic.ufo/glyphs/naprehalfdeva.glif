@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naprehalfdeva" format="1">
-  <advance width="659.0"/>
+  <advance width="649"/>
   <outline>
     <contour>
-      <point x="212" y="1138" type="line"/>
-      <point x="242" y="1279" type="line"/>
-      <point x="1010" y="1279" type="line"/>
-      <point x="980" y="1138" type="line"/>
+      <point x="164" y="1138" type="line"/>
+      <point x="187" y="1279" type="line"/>
+      <point x="944" y="1279" type="line"/>
+      <point x="920" y="1138" type="line"/>
     </contour>
     <contour>
-      <point x="451" y="462" type="line" smooth="yes"/>
-      <point x="438" y="402"/>
-      <point x="376" y="343"/>
-      <point x="326" y="343" type="qcurve" smooth="yes"/>
-      <point x="260" y="343"/>
-      <point x="181" y="506"/>
-      <point x="204" y="616" type="qcurve" smooth="yes"/>
-      <point x="217" y="679"/>
-      <point x="312" y="754"/>
-      <point x="402" y="754" type="qcurve" smooth="yes"/>
-      <point x="1065" y="754" type="line"/>
-      <point x="1034" y="608" type="line"/>
-      <point x="410" y="608" type="line"/>
-      <point x="494" y="663" type="line"/>
+      <point x="426" y="462" type="line" smooth="yes"/>
+      <point x="416" y="402"/>
+      <point x="357" y="343"/>
+      <point x="307" y="343" type="qcurve" smooth="yes"/>
+      <point x="242" y="343"/>
+      <point x="158" y="506"/>
+      <point x="176" y="616" type="qcurve" smooth="yes"/>
+      <point x="187" y="679"/>
+      <point x="278" y="754"/>
+      <point x="366" y="754" type="qcurve" smooth="yes"/>
+      <point x="1019" y="754" type="line"/>
+      <point x="994" y="608" type="line"/>
+      <point x="379" y="608" type="line"/>
+      <point x="460" y="663" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -64,7 +64,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>659.0</real>
+          <integer>649</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -86,7 +86,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>659.0</real>
+          <integer>649</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

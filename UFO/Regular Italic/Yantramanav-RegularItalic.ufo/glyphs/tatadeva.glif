@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tatadeva" format="1">
-  <advance width="1279.0"/>
+  <advance width="1260"/>
   <outline>
     <contour>
-      <point x="856" y="1138" type="line"/>
-      <point x="212" y="1138" type="line"/>
-      <point x="242" y="1279" type="line"/>
-      <point x="886" y="1279" type="line"/>
+      <point x="798" y="1138" type="line"/>
+      <point x="164" y="1138" type="line"/>
+      <point x="187" y="1279" type="line"/>
+      <point x="821" y="1279" type="line"/>
     </contour>
     <contour>
-      <point x="930" y="727" type="line"/>
-      <point x="202" y="727" type="line"/>
-      <point x="231" y="868" type="line"/>
-      <point x="959" y="868" type="line"/>
+      <point x="887" y="727" type="line"/>
+      <point x="169" y="727" type="line"/>
+      <point x="193" y="868" type="line"/>
+      <point x="910" y="868" type="line"/>
     </contour>
-    <component base="tadeva" xOffset="137"/>
+    <component base="tadeva" xOffset="135"/>
     <contour>
-      <point x="1168" y="1291" type="move" name="top"/>
+      <point x="1099" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -58,7 +58,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1279.0</real>
+          <integer>1260</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -80,7 +80,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1279.0</real>
+          <integer>1260</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

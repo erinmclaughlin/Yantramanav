@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uuvowelsigndeva" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="0942"/>
   <outline>
     <contour>
-      <point x="-138" y="-425" type="line"/>
-      <point x="-190" y="-434"/>
-      <point x="-255" y="-443"/>
-      <point x="-300" y="-443" type="qcurve" smooth="yes"/>
-      <point x="-407" y="-443"/>
-      <point x="-561" y="-317"/>
-      <point x="-561" y="-213" type="qcurve" smooth="yes"/>
-      <point x="-561" y="-116"/>
-      <point x="-409" y="9"/>
-      <point x="-300" y="7" type="qcurve" smooth="yes"/>
-      <point x="-171" y="5"/>
-      <point x="71" y="-142"/>
-      <point x="190" y="-319" type="qcurve"/>
-      <point x="158" y="-351" type="line"/>
-      <point x="30" y="-167"/>
-      <point x="-193" y="-38"/>
-      <point x="-296" y="-38" type="qcurve" smooth="yes"/>
-      <point x="-396" y="-38"/>
-      <point x="-513" y="-137"/>
-      <point x="-513" y="-217" type="qcurve" smooth="yes"/>
-      <point x="-513" y="-305"/>
-      <point x="-389" y="-399"/>
-      <point x="-299" y="-399" type="qcurve" smooth="yes"/>
-      <point x="-255" y="-399"/>
-      <point x="-188" y="-391"/>
-      <point x="-144" y="-382" type="qcurve"/>
+      <point x="-208" y="-425" type="line"/>
+      <point x="-261" y="-434"/>
+      <point x="-326" y="-443"/>
+      <point x="-370" y="-443" type="qcurve" smooth="yes"/>
+      <point x="-476" y="-443"/>
+      <point x="-606" y="-317"/>
+      <point x="-589" y="-213" type="qcurve" smooth="yes"/>
+      <point x="-572" y="-116"/>
+      <point x="-401" y="9"/>
+      <point x="-295" y="7" type="qcurve" smooth="yes"/>
+      <point x="-167" y="5"/>
+      <point x="46" y="-142"/>
+      <point x="133" y="-319" type="qcurve"/>
+      <point x="97" y="-351" type="line"/>
+      <point x="1" y="-167"/>
+      <point x="-197" y="-38"/>
+      <point x="-298" y="-38" type="qcurve" smooth="yes"/>
+      <point x="-397" y="-38"/>
+      <point x="-529" y="-137"/>
+      <point x="-542" y="-217" type="qcurve" smooth="yes"/>
+      <point x="-557" y="-305"/>
+      <point x="-451" y="-399"/>
+      <point x="-362" y="-399" type="qcurve" smooth="yes"/>
+      <point x="-319" y="-399"/>
+      <point x="-251" y="-391"/>
+      <point x="-207" y="-382" type="qcurve"/>
     </contour>
     <contour>
-      <point x="-322.0" y="-18.0" type="move" name="_btm"/>
+      <point x="-320" y="-18" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -81,7 +81,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

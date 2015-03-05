@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dauudeva" format="1">
-  <advance width="985"/>
+  <advance width="970"/>
   <outline>
-    <component base="dadeva"/>
-    <component base="uuvowelsigndeva" xOffset="1031" yOffset="-42"/>
+    <component base="dadeva" xOffset="-84"/>
+    <component base="uuvowelsigndeva" xOffset="947" yOffset="-42"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>985</integer>
+          <integer>970</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>985</integer>
+          <integer>970</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chayadeva" format="1">
-  <advance width="2715"/>
+  <advance width="2674"/>
   <outline>
     <contour>
-      <point x="1254" y="1076" type="line"/>
-      <point x="1254" y="1293" type="line"/>
-      <point x="2745" y="1293" type="line"/>
-      <point x="2745" y="1076" type="line"/>
+      <point x="1417" y="1076" type="line"/>
+      <point x="1454" y="1293" type="line"/>
+      <point x="2922" y="1293" type="line"/>
+      <point x="2886" y="1076" type="line"/>
     </contour>
     <contour>
-      <point x="2228" y="1103" type="line"/>
-      <point x="2532" y="1103" type="line"/>
-      <point x="2532" y="0" type="line"/>
-      <point x="2228" y="0" type="line"/>
+      <point x="2382" y="1103" type="line"/>
+      <point x="2681" y="1103" type="line"/>
+      <point x="2494" y="0" type="line"/>
+      <point x="2195" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1695" y="716" type="qcurve" smooth="yes"/>
-      <point x="1067" y="716" type="line"/>
-      <point x="1067" y="933" type="line"/>
-      <point x="1720" y="933" type="line" smooth="yes"/>
-      <point x="1933" y="933"/>
-      <point x="2108" y="781"/>
-      <point x="2106" y="665" type="qcurve" smooth="yes"/>
-      <point x="2104" y="554"/>
-      <point x="1926" y="402"/>
-      <point x="1756" y="387" type="qcurve"/>
-      <point x="1764" y="516" type="line"/>
-      <point x="1790" y="418"/>
-      <point x="1927" y="332"/>
-      <point x="2037" y="332" type="qcurve" smooth="yes"/>
-      <point x="2126" y="332"/>
-      <point x="2264" y="398"/>
-      <point x="2296" y="447" type="qcurve"/>
-      <point x="2296" y="130" type="line"/>
-      <point x="2255" y="112"/>
-      <point x="2156" y="94"/>
-      <point x="2087" y="94" type="qcurve" smooth="yes"/>
-      <point x="1887" y="94"/>
-      <point x="1578" y="311"/>
-      <point x="1497" y="517" type="qcurve"/>
-      <point x="1502" y="551" type="line"/>
-      <point x="1642" y="562"/>
-      <point x="1812" y="606"/>
-      <point x="1812" y="646" type="qcurve" smooth="yes"/>
-      <point x="1812" y="680"/>
-      <point x="1770" y="716"/>
+      <point x="1791" y="716" type="qcurve" smooth="yes"/>
+      <point x="1172" y="716" type="line"/>
+      <point x="1209" y="933" type="line"/>
+      <point x="1852" y="933" type="line" smooth="yes"/>
+      <point x="2062" y="933"/>
+      <point x="2208" y="781"/>
+      <point x="2187" y="665" type="qcurve" smooth="yes"/>
+      <point x="2166" y="554"/>
+      <point x="1965" y="402"/>
+      <point x="1795" y="387" type="qcurve"/>
+      <point x="1825" y="516" type="line"/>
+      <point x="1834" y="418"/>
+      <point x="1954" y="332"/>
+      <point x="2063" y="332" type="qcurve" smooth="yes"/>
+      <point x="2150" y="332"/>
+      <point x="2297" y="398"/>
+      <point x="2337" y="447" type="qcurve"/>
+      <point x="2283" y="130" type="line"/>
+      <point x="2240" y="112"/>
+      <point x="2139" y="94"/>
+      <point x="2071" y="94" type="qcurve" smooth="yes"/>
+      <point x="1874" y="94"/>
+      <point x="1607" y="311"/>
+      <point x="1562" y="517" type="qcurve"/>
+      <point x="1573" y="551" type="line"/>
+      <point x="1713" y="562"/>
+      <point x="1887" y="606"/>
+      <point x="1894" y="646" type="qcurve" smooth="yes"/>
+      <point x="1900" y="680"/>
+      <point x="1865" y="716"/>
     </contour>
-    <component base="chaprehalfdeva"/>
+    <component base="chaprehalfdeva" xOffset="-4"/>
     <contour>
-      <point x="2120.0" y="1291.0" type="move" name="top"/>
+      <point x="2307" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -102,7 +102,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>2715</integer>
+          <integer>2674</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -124,7 +124,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>2715</integer>
+          <integer>2674</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

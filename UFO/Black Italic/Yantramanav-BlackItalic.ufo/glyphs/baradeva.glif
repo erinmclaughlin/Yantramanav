@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="baradeva" format="1">
-  <advance width="1176"/>
+  <advance width="1158"/>
   <outline>
     <contour>
-      <point x="943" y="283" type="line"/>
-      <point x="148" y="-106" type="line"/>
-      <point x="2" y="111" type="line"/>
-      <point x="806" y="479" type="line"/>
+      <point x="977" y="283" type="line"/>
+      <point x="128" y="-106" type="line"/>
+      <point x="21" y="111" type="line"/>
+      <point x="875" y="479" type="line"/>
     </contour>
-    <component base="badeva"/>
+    <component base="badeva" xOffset="-18"/>
     <contour>
-      <point x="741.0" y="1291.0" type="move" name="top"/>
+      <point x="949" y="1291" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1176</integer>
+          <integer>1158</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,7 +74,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1176</integer>
+          <integer>1158</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

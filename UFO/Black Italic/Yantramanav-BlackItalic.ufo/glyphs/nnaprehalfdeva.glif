@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnaprehalfdeva" format="1">
-  <advance width="971"/>
+  <advance width="956"/>
   <outline>
     <contour>
-      <point x="610" y="1105" type="line"/>
-      <point x="914" y="1105" type="line"/>
-      <point x="914" y="739" type="line" smooth="yes"/>
-      <point x="914" y="534"/>
-      <point x="682" y="329"/>
-      <point x="507" y="329" type="qcurve" smooth="yes"/>
-      <point x="340" y="329"/>
-      <point x="93" y="538"/>
-      <point x="93" y="747" type="qcurve" smooth="yes"/>
-      <point x="93" y="1105" type="line"/>
-      <point x="397" y="1105" type="line"/>
-      <point x="397" y="725" type="line" smooth="yes"/>
-      <point x="397" y="655"/>
-      <point x="452" y="581"/>
-      <point x="502" y="581" type="qcurve" smooth="yes"/>
-      <point x="555" y="581"/>
-      <point x="610" y="651"/>
-      <point x="610" y="725" type="qcurve" smooth="yes"/>
+      <point x="788" y="1105" type="line"/>
+      <point x="1087" y="1105" type="line"/>
+      <point x="1025" y="739" type="line" smooth="yes"/>
+      <point x="991" y="534"/>
+      <point x="728" y="329"/>
+      <point x="556" y="329" type="qcurve" smooth="yes"/>
+      <point x="391" y="329"/>
+      <point x="182" y="538"/>
+      <point x="218" y="747" type="qcurve" smooth="yes"/>
+      <point x="279" y="1105" type="line"/>
+      <point x="578" y="1105" type="line"/>
+      <point x="514" y="725" type="line" smooth="yes"/>
+      <point x="502" y="655"/>
+      <point x="544" y="581"/>
+      <point x="593" y="581" type="qcurve" smooth="yes"/>
+      <point x="645" y="581"/>
+      <point x="711" y="651"/>
+      <point x="724" y="725" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-30" y="1076" type="line"/>
-      <point x="-30" y="1293" type="line"/>
-      <point x="1024" y="1293" type="line"/>
-      <point x="1024" y="1076" type="line"/>
+      <point x="153" y="1076" type="line"/>
+      <point x="189" y="1293" type="line"/>
+      <point x="1227" y="1293" type="line"/>
+      <point x="1191" y="1076" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -68,7 +68,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>971</integer>
+          <integer>956</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -90,7 +90,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>971</integer>
+          <integer>956</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

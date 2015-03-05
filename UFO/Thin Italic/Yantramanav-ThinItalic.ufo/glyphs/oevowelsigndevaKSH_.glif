@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oevowelsigndevaKSH" format="1">
-  <advance width="0"/>
+  <advance width="0.0"/>
   <unicode hex="093A"/>
   <outline>
     <contour>
-      <point x="-235" y="1478" type="line"/>
-      <point x="-235" y="1231" type="line"/>
-      <point x="-284" y="1231" type="line"/>
-      <point x="-284" y="1478" type="line"/>
+      <point x="19" y="1478" type="line"/>
+      <point x="-23" y="1231" type="line"/>
+      <point x="-71" y="1231" type="line"/>
+      <point x="-30" y="1478" type="line"/>
     </contour>
     <contour>
-      <point x="-371.0" y="1278.0" type="move" name="_top"/>
+      <point x="-149" y="1278" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>0</integer>
+          <real>0.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

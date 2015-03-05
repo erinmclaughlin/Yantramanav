@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="llladeva" format="1">
-  <advance width="1658"/>
+  <advance width="1633"/>
   <unicode hex="0934"/>
   <outline>
-    <component base="lladeva"/>
-    <component base="nuktadeva" xOffset="1130" yOffset="-130"/>
+    <component base="lladeva" xOffset="-44"/>
+    <component base="nuktadeva" xOffset="1086" yOffset="-130"/>
     <contour>
-      <point x="987.0" y="25.0" type="move" name="btm"/>
+      <point x="976" y="25" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="1073.0" y="1279.0" type="move" name="top"/>
+      <point x="1274" y="1279" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1658</integer>
+          <integer>1633</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -73,7 +73,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1658</integer>
+          <integer>1633</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
