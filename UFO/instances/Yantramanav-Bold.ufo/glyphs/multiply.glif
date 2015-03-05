@@ -4,18 +4,18 @@
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="58" y="334" type="line"/>
-      <point x="335" y="617" type="line"/>
-      <point x="58" y="901" type="line"/>
-      <point x="212" y="1048" type="line"/>
-      <point x="485" y="769" type="line"/>
-      <point x="759" y="1048" type="line"/>
-      <point x="913" y="901" type="line"/>
-      <point x="634" y="617" type="line"/>
-      <point x="913" y="334" type="line"/>
-      <point x="759" y="186" type="line"/>
-      <point x="485" y="464" type="line"/>
-      <point x="212" y="186" type="line"/>
+      <point x="58" y="355" type="line"/>
+      <point x="336" y="638" type="line"/>
+      <point x="58" y="922" type="line"/>
+      <point x="212" y="1069" type="line"/>
+      <point x="485" y="790" type="line"/>
+      <point x="759" y="1069" type="line"/>
+      <point x="914" y="922" type="line"/>
+      <point x="635" y="638" type="line"/>
+      <point x="914" y="355" type="line"/>
+      <point x="759" y="207" type="line"/>
+      <point x="485" y="485" type="line"/>
+      <point x="212" y="207" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>947</integer>
+          <integer>975</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -64,11 +64,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>947</integer>
+          <integer>975</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

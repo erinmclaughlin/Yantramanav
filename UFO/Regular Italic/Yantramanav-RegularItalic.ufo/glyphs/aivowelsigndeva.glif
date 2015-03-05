@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva" format="1">
+  <advance width="0.0"/>
+  <unicode hex="0948"/>
+  <outline>
+    <contour>
+      <point x="-202" y="1221" type="line"/>
+      <point x="-646" y="1579" type="line"/>
+      <point x="-531" y="1696" type="line"/>
+      <point x="30" y="1221" type="line"/>
+    </contour>
+    <contour>
+      <point x="-102" y="1221" type="line"/>
+      <point x="-240" y="1777" type="line"/>
+      <point x="-97" y="1825" type="line"/>
+      <point x="44" y="1221" type="line"/>
+    </contour>
+    <contour>
+      <point x="-97" y="1291" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-332</integer>
+          <key>y</key>
+          <integer>1223</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>aivowelsigndeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>0.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>aivowelsigndeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>0.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

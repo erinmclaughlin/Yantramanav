@@ -4,26 +4,26 @@
   <unicode hex="0075"/>
   <outline>
     <contour>
-      <point x="695" y="124" type="line"/>
-      <point x="649" y="55"/>
-      <point x="510" y="-19"/>
-      <point x="422" y="-19" type="qcurve"/>
-      <point x="268" y="-19"/>
-      <point x="94" y="178"/>
-      <point x="94" y="387" type="qcurve"/>
-      <point x="94" y="974" type="line"/>
-      <point x="356" y="974" type="line"/>
-      <point x="356" y="385" type="line"/>
-      <point x="356" y="278"/>
-      <point x="428" y="186"/>
-      <point x="498" y="186" type="qcurve"/>
-      <point x="562" y="186"/>
-      <point x="652" y="229"/>
-      <point x="680" y="270" type="qcurve"/>
-      <point x="680" y="974" type="line"/>
-      <point x="943" y="974" type="line"/>
-      <point x="943" y="0" type="line"/>
-      <point x="712" y="0" type="line"/>
+      <point x="696" y="122" type="line"/>
+      <point x="649" y="53"/>
+      <point x="510" y="-21"/>
+      <point x="422" y="-21" type="qcurve" smooth="yes"/>
+      <point x="268" y="-21"/>
+      <point x="94" y="176"/>
+      <point x="94" y="385" type="qcurve" smooth="yes"/>
+      <point x="94" y="972" type="line"/>
+      <point x="357" y="972" type="line"/>
+      <point x="357" y="383" type="line"/>
+      <point x="357" y="276"/>
+      <point x="428" y="184"/>
+      <point x="498" y="184" type="qcurve" smooth="yes"/>
+      <point x="562" y="184"/>
+      <point x="652" y="227"/>
+      <point x="680" y="268" type="qcurve"/>
+      <point x="680" y="972" type="line"/>
+      <point x="943" y="972" type="line"/>
+      <point x="943" y="-2" type="line"/>
+      <point x="712" y="-2" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -50,7 +50,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1009</integer>
+          <integer>1036</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -72,11 +72,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1009</integer>
+          <integer>1036</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

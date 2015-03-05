@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="padeva" format="1">
+  <advance width="1094"/>
+  <unicode hex="092A"/>
+  <outline>
+    <contour>
+      <point x="1366" y="1138" type="line"/>
+      <point x="212" y="1138" type="line"/>
+      <point x="242" y="1279" type="line"/>
+      <point x="1396" y="1279" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="1208" type="line"/>
+      <point x="473" y="787" type="line" smooth="yes"/>
+      <point x="447" y="662"/>
+      <point x="524" y="554"/>
+      <point x="604" y="554" type="qcurve" smooth="yes"/>
+      <point x="688" y="554"/>
+      <point x="842" y="625"/>
+      <point x="917" y="716" type="qcurve"/>
+      <point x="874" y="513" type="line"/>
+      <point x="813" y="461"/>
+      <point x="666" y="413"/>
+      <point x="578" y="413" type="qcurve" smooth="yes"/>
+      <point x="419" y="413"/>
+      <point x="260" y="615"/>
+      <point x="305" y="826" type="qcurve" smooth="yes"/>
+      <point x="386" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="951" y="1198" type="line"/>
+      <point x="1128" y="1198" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="696" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="999" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>761</integer>
+          <key>y</key>
+          <integer>1239</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>-167</integer>
+          <key>y</key>
+          <integer>420</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>padeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1094</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>padeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1094</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

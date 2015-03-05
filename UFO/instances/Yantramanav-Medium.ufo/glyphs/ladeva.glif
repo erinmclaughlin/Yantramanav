@@ -71,25 +71,23 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <integer>1037</integer>
+          <integer>1054</integer>
           <key>y</key>
-          <integer>1106</integer>
+          <integer>594</integer>
         </dict>
         <dict>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
-          <integer>0</integer>
+          <false/>
           <key>magnetic</key>
           <integer>5</integer>
           <key>name</key>
           <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
           <key>x</key>
-          <integer>821</integer>
+          <integer>1264</integer>
           <key>y</key>
-          <integer>581</integer>
+          <integer>-65</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -114,7 +112,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1461</integer>
+          <integer>1629</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -136,7 +134,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1461</integer>
+          <integer>1629</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

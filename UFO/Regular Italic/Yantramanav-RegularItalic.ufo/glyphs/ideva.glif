@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ideva" format="1">
+  <advance width="1053.0"/>
+  <unicode hex="0907"/>
+  <outline>
+    <contour>
+      <point x="1325" y="1138" type="line"/>
+      <point x="212" y="1138" type="line"/>
+      <point x="242" y="1279" type="line"/>
+      <point x="1355" y="1279" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="-238" type="line"/>
+      <point x="371" y="65" type="line"/>
+      <point x="494" y="21" type="line"/>
+      <point x="391" y="21" type="line" smooth="yes"/>
+      <point x="278" y="21"/>
+      <point x="158" y="101"/>
+      <point x="171" y="162" type="qcurve" smooth="yes"/>
+      <point x="184" y="222"/>
+      <point x="286" y="309"/>
+      <point x="352" y="309" type="qcurve" smooth="yes"/>
+      <point x="412" y="309"/>
+      <point x="489" y="249"/>
+      <point x="538" y="167" type="qcurve" smooth="yes"/>
+      <point x="530" y="128" type="line"/>
+      <point x="707" y="-168" type="line"/>
+    </contour>
+    <contour>
+      <point x="625" y="949" type="qcurve" smooth="yes"/>
+      <point x="930" y="949" type="line"/>
+      <point x="841" y="875" type="line"/>
+      <point x="910" y="1202" type="line"/>
+      <point x="1088" y="1202" type="line"/>
+      <point x="1005" y="808" type="line"/>
+      <point x="602" y="808" type="line" smooth="yes"/>
+      <point x="532" y="808"/>
+      <point x="443" y="741"/>
+      <point x="430" y="684" type="qcurve" smooth="yes"/>
+      <point x="419" y="632"/>
+      <point x="483" y="559"/>
+      <point x="575" y="547" type="qcurve"/>
+      <point x="429" y="547" type="line"/>
+      <point x="505" y="584"/>
+      <point x="635" y="622"/>
+      <point x="717" y="622" type="qcurve" smooth="yes"/>
+      <point x="881" y="622"/>
+      <point x="1030" y="462"/>
+      <point x="1003" y="332" type="qcurve" smooth="yes"/>
+      <point x="975" y="203"/>
+      <point x="713" y="31"/>
+      <point x="519" y="31" type="qcurve" smooth="yes"/>
+      <point x="400" y="31"/>
+      <point x="296" y="66"/>
+      <point x="219" y="111" type="qcurve"/>
+      <point x="291" y="239" type="line"/>
+      <point x="357" y="203"/>
+      <point x="489" y="164"/>
+      <point x="533" y="164" type="qcurve" smooth="yes"/>
+      <point x="658" y="164"/>
+      <point x="813" y="269"/>
+      <point x="828" y="340" type="qcurve" smooth="yes"/>
+      <point x="842" y="406"/>
+      <point x="774" y="481"/>
+      <point x="692" y="481" type="qcurve" smooth="yes"/>
+      <point x="620" y="481"/>
+      <point x="520" y="449"/>
+      <point x="468" y="420" type="qcurve"/>
+      <point x="447" y="420" type="line"/>
+      <point x="348" y="452"/>
+      <point x="242" y="607"/>
+      <point x="263" y="707" type="qcurve" smooth="yes"/>
+      <point x="285" y="810"/>
+      <point x="475" y="949"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>-192</integer>
+          <key>y</key>
+          <integer>1052</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ideva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1053.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ideva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1053.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

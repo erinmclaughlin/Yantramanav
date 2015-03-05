@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>1279</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2014, Erin McLaughlin (hello@erinmclaughlin.com). Digitized data copyright 2010, Google Corporation.</string>
+	<string>Copyright (c) 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright (c) 2010, Google Inc. All Rights Reserved.</string>
 	<key>descender</key>
 	<integer>-836</integer>
 	<key>familyName</key>
@@ -41,7 +41,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.erinmclaughlin.com</string>
 	<key>openTypeNameUniqueID</key>
-	<string>1.000;GOOG;Yantramanav-Thin</string>
+	<string>1.000;ERIN;Yantramanav-Thin</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000;PS 1.0;hotconv </string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -102,7 +102,7 @@
 		<integer>31</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
-	<string>GOOG</string>
+	<string>ERIN</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>

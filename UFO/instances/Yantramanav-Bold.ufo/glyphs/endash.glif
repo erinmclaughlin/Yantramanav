@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="1">
-  <advance width="1276"/>
+  <advance width="1272"/>
   <unicode hex="2013"/>
   <outline>
-    <component base="minus" xScale="1.29998779297" xOffset="-33"/>
+    <component base="minus" xScale="1.16998901367" yScale="0.9" xOffset="-20" yOffset="60"/>
   </outline>
   <lib>
     <dict>
@@ -54,8 +54,13 @@
           <integer>1271</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

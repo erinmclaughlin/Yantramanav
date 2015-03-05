@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rephdeva" format="1">
+  <advance width="0.0"/>
+  <outline>
+    <contour>
+      <point x="-101" y="1216" type="line"/>
+      <point x="-126" y="1273"/>
+      <point x="-156" y="1436"/>
+      <point x="-139" y="1509" type="qcurve" smooth="yes"/>
+      <point x="-114" y="1620"/>
+      <point x="60" y="1761"/>
+      <point x="187" y="1761" type="qcurve" smooth="yes"/>
+      <point x="234" y="1761"/>
+      <point x="314" y="1744"/>
+      <point x="339" y="1732" type="qcurve"/>
+      <point x="301" y="1622" type="line"/>
+      <point x="274" y="1629"/>
+      <point x="241" y="1635"/>
+      <point x="205" y="1636" type="qcurve" smooth="yes"/>
+      <point x="142" y="1638"/>
+      <point x="37" y="1559"/>
+      <point x="20" y="1479" type="qcurve" smooth="yes"/>
+      <point x="9" y="1426"/>
+      <point x="22" y="1290"/>
+      <point x="54" y="1216" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="-97" y="1291" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>-335</integer>
+          <key>y</key>
+          <integer>1249</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rephdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>0.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>rephdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>0.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

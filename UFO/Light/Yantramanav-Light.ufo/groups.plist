@@ -575,9 +575,7 @@
 		<string>rephdeva</string>
 		<string>rephanusvaradeva</string>
 		<string>udattadeva</string>
-		<string>ecandravowelsignanusvaradeva</string>
 		<string>candrabindusmalldeva</string>
-		<string>ecandravowelsigncandrabindudeva</string>
 		<string>invertedcandrabindu</string>
 		<string>candralongevowelsigndeva</string>
 		<string>oevowelsigndevaKSH</string>
@@ -602,13 +600,9 @@
 	</array>
 	<key>abvs_vs_anus</key>
 	<array>
-		<string>ecandravowelsignanusvaradeva</string>
-		<string>ocandravowelsignanusvaradeva</string>
 	</array>
 	<key>abvs_vs_candbin</key>
 	<array>
-		<string>ecandravowelsigncandrabindudeva</string>
-		<string>ocandravowelsigncandrabindudeva</string>
 	</array>
 	<key>abvs_vs_dflt</key>
 	<array>
@@ -1702,8 +1696,6 @@
 		<string>candralongevowelsigndeva</string>
 		<string>invertedcandrabindu</string>
 		<string>ecandravowelsigndeva</string>
-		<string>ecandravowelsignanusvaradeva</string>
-		<string>ecandravowelsigncandrabindudeva</string>
 		<string>eshortvowelsigndeva</string>
 		<string>evowelsigndeva</string>
 		<string>aivowelsigndeva</string>

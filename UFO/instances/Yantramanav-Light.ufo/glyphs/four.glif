@@ -11,8 +11,8 @@
       <point x="782" y="0" type="line"/>
       <point x="679" y="0" type="line"/>
       <point x="679" y="334" type="line"/>
-      <point x="63" y="334" type="line"/>
-      <point x="63" y="392" type="line"/>
+      <point x="64" y="334" type="line"/>
+      <point x="64" y="392" type="line"/>
       <point x="668" y="1310" type="line"/>
       <point x="782" y="1310" type="line"/>
     </contour>
@@ -73,8 +73,13 @@
           <integer>1009</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -187,17 +187,14 @@
   <group color="1.0 0.0 0.0 0.25" name="R_A" side="right" type="kerning">
     <glyphs>
       aadeva
-      acandradeva
       adeva
       ashortdeva
       audeva
       awdevaKSH
-      ocandradeva
       odeva
       oedevaKSH
       omdeva
       ooedevaKSH
-      oshortdeva
       uedevaKSH
       uuedevaKSH
     </glyphs>
@@ -358,6 +355,7 @@
       ssatthadeva
       ttattadeva
       ttatthadeva
+      ttavadeva
       tthatthadeva
     </glyphs>
   </group>

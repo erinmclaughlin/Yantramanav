@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="621" y="742" type="line"/>
-      <point x="517" y="744" type="line"/>
-      <point x="458" y="744"/>
+      <point x="517" y="745" type="line"/>
+      <point x="458" y="745"/>
       <point x="383" y="699"/>
       <point x="363" y="658" type="qcurve"/>
       <point x="363" y="0" type="line"/>
@@ -16,9 +16,9 @@
       <point x="357" y="831" type="line"/>
       <point x="392" y="907"/>
       <point x="499" y="992"/>
-      <point x="570" y="992" type="qcurve"/>
+      <point x="570" y="992" type="qcurve" smooth="yes"/>
       <point x="592" y="992"/>
-      <point x="634" y="985"/>
+      <point x="634" y="986"/>
       <point x="649" y="981" type="qcurve"/>
     </contour>
   </outline>
@@ -71,8 +71,13 @@
           <integer>632</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

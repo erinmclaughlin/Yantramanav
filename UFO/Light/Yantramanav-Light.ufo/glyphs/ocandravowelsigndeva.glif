@@ -3,8 +3,8 @@
   <advance width="528"/>
   <unicode hex="0949"/>
   <outline>
-    <component base="ecandravowelsigndeva" xOffset="545" yOffset="1"/>
     <component base="aavowelsigndeva"/>
+    <component base="ecandravowelsigndeva" xOffset="789" yOffset="1"/>
   </outline>
   <lib>
     <dict>

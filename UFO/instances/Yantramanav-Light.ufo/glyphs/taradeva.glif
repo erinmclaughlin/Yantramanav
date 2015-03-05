@@ -51,9 +51,9 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <integer>1393</integer>
+          <integer>731</integer>
           <key>y</key>
-          <integer>79</integer>
+          <integer>1217</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -78,7 +78,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1039</integer>
+          <real>1161.0</real>
         </dict>
         <key>layer1</key>
         <dict>
@@ -100,7 +100,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1039</integer>
+          <real>1161.0</real>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

@@ -3,7 +3,7 @@
   <advance width="1501"/>
   <unicode hex="2014"/>
   <outline>
-    <component base="minus" xScale="1.59997558594" xOffset="-73"/>
+    <component base="minus" xScale="1.43997802734" yScale="0.9" xOffset="-73" yOffset="69"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1506</integer>
+          <integer>1508</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -51,11 +51,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1506</integer>
+          <integer>1508</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

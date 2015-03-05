@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="madeva" format="1">
+  <advance width="1179"/>
+  <unicode hex="092E"/>
+  <outline>
+    <contour>
+      <point x="1036" y="1198" type="line"/>
+      <point x="1213" y="1198" type="line"/>
+      <point x="958" y="0" type="line"/>
+      <point x="781" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1451" y="1138" type="line"/>
+      <point x="212" y="1138" type="line"/>
+      <point x="242" y="1279" type="line"/>
+      <point x="1481" y="1279" type="line"/>
+    </contour>
+    <contour>
+      <point x="434" y="689" type="line"/>
+      <point x="1019" y="689" type="line"/>
+      <point x="988" y="543" type="line"/>
+      <point x="403" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="670" y="1169" type="line"/>
+      <point x="526" y="489" type="line" smooth="yes"/>
+      <point x="513" y="430"/>
+      <point x="453" y="369"/>
+      <point x="403" y="369" type="qcurve" smooth="yes"/>
+      <point x="317" y="369"/>
+      <point x="191" y="518"/>
+      <point x="209" y="603" type="qcurve" smooth="yes"/>
+      <point x="217" y="642"/>
+      <point x="289" y="689"/>
+      <point x="346" y="689" type="qcurve" smooth="yes"/>
+      <point x="411" y="689" type="line"/>
+      <point x="373" y="603" type="line"/>
+      <point x="493" y="1169" type="line"/>
+    </contour>
+    <contour>
+      <point x="1084" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1206</integer>
+          <key>y</key>
+          <integer>698</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>showMeasurements</key>
+          <integer>1</integer>
+          <key>x</key>
+          <integer>659</integer>
+          <key>y</key>
+          <integer>1216</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>madeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1179</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>madeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1179</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

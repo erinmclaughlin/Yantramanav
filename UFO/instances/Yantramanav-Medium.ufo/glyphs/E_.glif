@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1068"/>
+  <advance width="1069"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="935" y="593" type="line"/>
-      <point x="360" y="593" type="line"/>
+      <point x="935" y="594" type="line"/>
+      <point x="360" y="594" type="line"/>
       <point x="360" y="168" type="line"/>
       <point x="1026" y="168" type="line"/>
       <point x="1026" y="0" type="line"/>
       <point x="144" y="0" type="line"/>
       <point x="144" y="1310" type="line"/>
-      <point x="1019" y="1310" type="line"/>
-      <point x="1019" y="1143" type="line"/>
+      <point x="1020" y="1310" type="line"/>
+      <point x="1020" y="1143" type="line"/>
       <point x="360" y="1143" type="line"/>
       <point x="360" y="761" type="line"/>
       <point x="935" y="761" type="line"/>
@@ -67,8 +67,13 @@
           <integer>1049</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -413,6 +413,7 @@ feature cjct {
                 sub ttaprehalfdeva ttadeva by ttattadeva;
                 sub ttaprehalfdeva tthadeva by ttatthadeva;
                 sub ttaprehalfdeva yadeva by ttayadeva;
+                sub ttaprehalfdeva vadeva by ttavadeva;
                 sub tthaprehalfdeva tthadeva by tthatthadeva;
                 sub tthaprehalfdeva yadeva by tthayadeva;    
                 sub ddaprehalfdeva ddadeva by ddaddadeva;

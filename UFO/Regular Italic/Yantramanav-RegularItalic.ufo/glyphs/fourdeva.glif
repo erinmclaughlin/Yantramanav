@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourdeva" format="1">
+  <advance width="1009.0"/>
+  <unicode hex="096A"/>
+  <outline>
+    <contour>
+      <point x="702" y="704" type="qcurve" smooth="yes"/>
+      <point x="831" y="619"/>
+      <point x="923" y="444"/>
+      <point x="906" y="360" type="qcurve" smooth="yes"/>
+      <point x="880" y="240"/>
+      <point x="683" y="93"/>
+      <point x="542" y="93" type="qcurve" smooth="yes"/>
+      <point x="404" y="93"/>
+      <point x="262" y="257"/>
+      <point x="286" y="370" type="qcurve" smooth="yes"/>
+      <point x="306" y="465"/>
+      <point x="478" y="626"/>
+      <point x="621" y="697" type="qcurve" smooth="yes"/>
+      <point x="836" y="804"/>
+      <point x="982" y="965"/>
+      <point x="1001" y="1053" type="qcurve" smooth="yes"/>
+      <point x="1010" y="1097"/>
+      <point x="1015" y="1160"/>
+      <point x="1005" y="1220" type="qcurve"/>
+      <point x="1164" y="1248" type="line"/>
+      <point x="1175" y="1184"/>
+      <point x="1173" y="1097"/>
+      <point x="1166" y="1061" type="qcurve" smooth="yes"/>
+      <point x="1131" y="898"/>
+      <point x="870" y="662"/>
+      <point x="679" y="574" type="qcurve" smooth="yes"/>
+      <point x="587" y="532"/>
+      <point x="472" y="436"/>
+      <point x="458" y="374" type="qcurve" smooth="yes"/>
+      <point x="445" y="309"/>
+      <point x="518" y="238"/>
+      <point x="576" y="238" type="qcurve" smooth="yes"/>
+      <point x="642" y="238"/>
+      <point x="733" y="310"/>
+      <point x="745" y="366" type="qcurve" smooth="yes"/>
+      <point x="755" y="413"/>
+      <point x="708" y="510"/>
+      <point x="584" y="586" type="qcurve" smooth="yes"/>
+      <point x="484" y="647"/>
+      <point x="292" y="905"/>
+      <point x="327" y="1070" type="qcurve" smooth="yes"/>
+      <point x="337" y="1113"/>
+      <point x="372" y="1204"/>
+      <point x="406" y="1256" type="qcurve"/>
+      <point x="556" y="1211" type="line"/>
+      <point x="528" y="1166"/>
+      <point x="500" y="1088"/>
+      <point x="492" y="1051" type="qcurve" smooth="yes"/>
+      <point x="468" y="937"/>
+      <point x="641" y="744"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fourdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1009.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fourdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1009.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

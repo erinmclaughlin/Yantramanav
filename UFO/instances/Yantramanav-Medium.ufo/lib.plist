@@ -424,6 +424,7 @@
 		<string>ttattadeva</string>
 		<string>ttatthadeva</string>
 		<string>ttayadeva</string>
+		<string>ttattadeva.copy_1</string>
 		<string>tthatthadeva</string>
 		<string>tthayadeva</string>
 		<string>ddaddhadeva</string>
@@ -597,6 +598,7 @@
 		<string>iivowelcandrabindudeva</string>
 		<string>auvowelsigncandrabindudeva</string>
 		<string>vatturrvocalicdeva</string>
+		<string>ttattadeva.copy_1</string>
 		<string>ocandravowelsignrephdeva</string>
 		<string>evowelsignrephdeva</string>
 		<string>vattulvocalicdeva</string>
@@ -681,174 +683,7 @@
 		<string>iivowelcandrabindudeva</string>
 		<string>auvowelsigncandrabindudeva</string>
 		<string>vatturrvocalicdeva</string>
-		<string>ocandravowelsignrephdeva</string>
-		<string>evowelsignrephdeva</string>
-		<string>vattulvocalicdeva</string>
-		<string>evowelsigncandrabindudeva</string>
-		<string>vatturvocalicdeva</string>
-		<string>iivowelcandrabindu4deva</string>
-		<string>evowelsignrephanusvaradeva</string>
-		<string>oshortvowelsignrephanusdeva</string>
-		<string>aianusvaradeva</string>
-		<string>vattuulowdeva</string>
-		<string>tayadeva</string>
-		<string>vatturvocaliclowdeva</string>
-		<string>nabhadeva</string>
-		<string>iivowelsign2deva</string>
-		<string>ashortanusvaradeva</string>
-		<string>layadeva</string>
-		<string>lamadeva</string>
-		<string>tasadeva</string>
-		<string>ovowelsigncandrabindudeva</string>
-		<string>jayadeva</string>
-		<string>iivowelsignanusvara2deva</string>
-		<string>ovowelsignrephanusvaradeva</string>
-		<string>eshortanusvaradeva</string>
-		<string>iivowelsignanusvaradeva</string>
-		<string>jajadeva</string>
-		<string>tanadeva</string>
-		<string>evowelsignanusvaradeva</string>
-		<string>auvowelsignrephdeva</string>
-		<string>jasadeva</string>
-		<string>auvowelsignanusvaradeva</string>
-		<string>vattuuudeva</string>
-		<string>eshortvowelsigncandrabindudeva</string>
-		<string>aivowelsignanusvaradeva</string>
-		<string>takhadeva</string>
-		<string>vattuudeva</string>
-		<string>lajadeva</string>
-		<string>ecandravowelsignrephanusdeva</string>
-		<string>ocandravowelsignrephanusdeva</string>
-		<string>iivowelsignanusvara3deva</string>
-		<string>iivowelsignrephanusvara4deva</string>
-		<string>iivowelsignreph3deva</string>
-		<string>aivowelsigncandrabindudeva</string>
-		<string>jathadeva</string>
-		<string>labhadeva</string>
-		<string>aivowelsignrephdeva</string>
-		<string>januktasadeva</string>
-		<string>ocandraanusvaradeva</string>
-		<string>januktathadeva</string>
-		<string>lazadeva</string>
-		<string>acandraanusvaradeva</string>
-		<string>vattuviramadeva</string>
-		<string>iivowelsignrephdeva</string>
-		<string>lathadeva</string>
-		<string>oanusvaradeva</string>
-		<string>aivowelsignrephanusvaradeva</string>
-		<string>vattuuulowdeva</string>
-		<string>iivowelsignrephanusvara2deva</string>
-		<string>tathadeva</string>
-		<string>iivowelsignrephanusvara3deva</string>
-		<string>ecandravowelsignrephdeva</string>
-		<string>vattullvocalicdeva</string>
-		<string>iivowelcandrabindu2deva</string>
-		<string>oshortvowelsignrephdeva</string>
-		<string>eshortvowelsignrephdeva</string>
-		<string>auanusvaradeva</string>
-		<string>ovowelsignrephdeva</string>
-		<string>auvowelsignrephanusvaradeva</string>
-		<string>iivowelsignrephanusvaradeva</string>
-		<string>namadeva</string>
-		<string>vattuviramalowdeva</string>
-		<string>oshortvowelsignanusvaradeva</string>
-		<string>oshortvowelsigncandrabindudeva</string>
-		<string>eshortvowelsignanusvaradeva</string>
-		<string>iivowelcandrabindu3deva</string>
-		<string>iivowelsignreph4deva</string>
-		<string>oshortanusvaradeva</string>
-		<string>iivowelsignanusvara4deva</string>
-		<string>eshortvowelsignrephanusdeva</string>
-		<string>iivowelsignreph2deva</string>
-		<string>ovowelsignanusvaradeva</string>
-		<string>januktayadeva</string>
-		<string>iivowelcandrabindudeva</string>
-		<string>auvowelsigncandrabindudeva</string>
-		<string>vatturrvocalicdeva</string>
-		<string>ocandravowelsignrephdeva</string>
-		<string>evowelsignrephdeva</string>
-		<string>vattulvocalicdeva</string>
-		<string>evowelsigncandrabindudeva</string>
-		<string>vatturvocalicdeva</string>
-		<string>iivowelcandrabindu4deva</string>
-		<string>evowelsignrephanusvaradeva</string>
-		<string>oshortvowelsignrephanusdeva</string>
-		<string>aianusvaradeva</string>
-		<string>vattuulowdeva</string>
-		<string>tayadeva</string>
-		<string>vatturvocaliclowdeva</string>
-		<string>nabhadeva</string>
-		<string>iivowelsign2deva</string>
-		<string>ashortanusvaradeva</string>
-		<string>layadeva</string>
-		<string>lamadeva</string>
-		<string>tasadeva</string>
-		<string>ovowelsigncandrabindudeva</string>
-		<string>jayadeva</string>
-		<string>iivowelsignanusvara2deva</string>
-		<string>ovowelsignrephanusvaradeva</string>
-		<string>eshortanusvaradeva</string>
-		<string>iivowelsignanusvaradeva</string>
-		<string>jajadeva</string>
-		<string>tanadeva</string>
-		<string>evowelsignanusvaradeva</string>
-		<string>auvowelsignrephdeva</string>
-		<string>jasadeva</string>
-		<string>auvowelsignanusvaradeva</string>
-		<string>vattuuudeva</string>
-		<string>eshortvowelsigncandrabindudeva</string>
-		<string>aivowelsignanusvaradeva</string>
-		<string>takhadeva</string>
-		<string>vattuudeva</string>
-		<string>lajadeva</string>
-		<string>ecandravowelsignrephanusdeva</string>
-		<string>ocandravowelsignrephanusdeva</string>
-		<string>iivowelsignanusvara3deva</string>
-		<string>iivowelsignrephanusvara4deva</string>
-		<string>iivowelsignreph3deva</string>
-		<string>aivowelsigncandrabindudeva</string>
-		<string>jathadeva</string>
-		<string>labhadeva</string>
-		<string>aivowelsignrephdeva</string>
-		<string>januktasadeva</string>
-		<string>ocandraanusvaradeva</string>
-		<string>januktathadeva</string>
-		<string>lazadeva</string>
-		<string>acandraanusvaradeva</string>
-		<string>vattuviramadeva</string>
-		<string>iivowelsignrephdeva</string>
-		<string>lathadeva</string>
-		<string>oanusvaradeva</string>
-		<string>aivowelsignrephanusvaradeva</string>
-		<string>vattuuulowdeva</string>
-		<string>iivowelsignrephanusvara2deva</string>
-		<string>tathadeva</string>
-		<string>iivowelsignrephanusvara3deva</string>
-		<string>ecandravowelsignrephdeva</string>
-		<string>vattullvocalicdeva</string>
-		<string>iivowelcandrabindu2deva</string>
-		<string>oshortvowelsignrephdeva</string>
-		<string>eshortvowelsignrephdeva</string>
-		<string>auanusvaradeva</string>
-		<string>ovowelsignrephdeva</string>
-		<string>auvowelsignrephanusvaradeva</string>
-		<string>iivowelsignrephanusvaradeva</string>
-		<string>namadeva</string>
-		<string>vattuviramalowdeva</string>
-		<string>oshortvowelsignanusvaradeva</string>
-		<string>oshortvowelsigncandrabindudeva</string>
-		<string>eshortvowelsignanusvaradeva</string>
-		<string>iivowelcandrabindu3deva</string>
-		<string>iivowelsignreph4deva</string>
-		<string>oshortanusvaradeva</string>
-		<string>iivowelsignanusvara4deva</string>
-		<string>eshortvowelsignrephanusdeva</string>
-		<string>iivowelsignreph2deva</string>
-		<string>ovowelsignanusvaradeva</string>
-		<string>januktayadeva</string>
-		<string>iivowelcandrabindudeva</string>
-		<string>auvowelsigncandrabindudeva</string>
-		<string>vatturrvocalicdeva</string>
+		<string>ttattadeva.copy_1</string>
 		<string>ocandravowelsignrephdeva</string>
 		<string>evowelsignrephdeva</string>
 		<string>vattulvocalicdeva</string>

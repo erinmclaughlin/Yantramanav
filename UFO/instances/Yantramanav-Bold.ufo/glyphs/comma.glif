@@ -4,12 +4,12 @@
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="346" y="9" type="line"/>
-      <point x="203" y="-273" type="line"/>
-      <point x="48" y="-273" type="line"/>
-      <point x="111" y="18" type="line"/>
-      <point x="111" y="219" type="line"/>
-      <point x="346" y="219" type="line"/>
+      <point x="346" y="-21" type="line"/>
+      <point x="204" y="-304" type="line"/>
+      <point x="48" y="-304" type="line"/>
+      <point x="111" y="-13" type="line"/>
+      <point x="111" y="189" type="line"/>
+      <point x="346" y="189" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>345</integer>
+          <integer>487</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -58,11 +58,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>345</integer>
+          <integer>487</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

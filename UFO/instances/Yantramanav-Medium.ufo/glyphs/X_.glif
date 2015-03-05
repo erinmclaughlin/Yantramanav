@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="1168"/>
+  <advance width="1169"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
@@ -14,7 +14,7 @@
       <point x="301" y="0" type="line"/>
       <point x="45" y="0" type="line"/>
       <point x="458" y="661" type="line"/>
-      <point x="54" y="1310" type="line"/>
+      <point x="55" y="1310" type="line"/>
       <point x="308" y="1310" type="line"/>
     </contour>
   </outline>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1101</integer>
+          <integer>1176</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -64,11 +64,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1101</integer>
+          <integer>1176</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

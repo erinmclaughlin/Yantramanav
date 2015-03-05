@@ -2,8 +2,8 @@
 <glyph name="ocandravowelsignanusvaradeva" format="1">
   <advance width="528"/>
   <outline>
-    <component base="ecandravowelsignanusvaradeva" xOffset="532" yOffset="1"/>
     <component base="aavowelsigndeva"/>
+    <component base="ecandravowelsignanusvaradeva" xOffset="772" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>502</integer>
+          <integer>616</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>502</integer>
+          <integer>616</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

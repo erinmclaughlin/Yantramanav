@@ -62,7 +62,7 @@ feature kern {
     @MMK_R_R_Ga = [gabardeva gadeva ganuktaprehalfdeva ganuktaradeva ganuktaraprehalfdeva gaprehalfdeva garadeva garaprehalfdeva ghhadeva];
     @MMK_R_R_Gha = [dhadeva dhaprehalfdeva dharadeva dharaprehalfdeva ghadeva ghaprehalfdeva gharadeva gharaprehalfdeva];
     @MMK_R_R_Ha = [dadadeva damadeva dayadeva dayaprehalfdeva hadeva haladeva hamadeva hanadeva hannadeva haprehalfdeva haradeva haraprehalfdeva haraudeva harauudeva harrvocalicdeva harvocalicdeva haudeva hauudeva havadeva hayadeva];
-    @MMK_R_R_I = [ddaddadeva ddaddhadeva ddhaddhadeva ideva iianusvaradeva iideva jhadeva jhaprehalfdeva jharadeva jharaprehalfdeva ssattadeva ssatthadeva ttattadeva ttatthadeva tthatthadeva];
+    @MMK_R_R_I = [ddaddadeva ddaddhadeva ddhaddhadeva ideva iianusvaradeva iideva jhadeva jhaprehalfdeva jharadeva jharaprehalfdeva ssattadeva ssatthadeva ttattadeva ttatthadeva ttavadeva tthatthadeva];
     @MMK_R_R_Ja = [jabardeva jadeva januktaprehalfdeva januktaradeva januktaraprehalfdeva janyadeva janyaprehalfdeva janyaradeva janyaraprehalfdeva japrehalfdeva jaradeva jaraprehalfdeva zadeva zhadeva];
     @MMK_R_R_Ka = [kadeva kanuktaprehalfdeva kanuktaradeva kanuktaraprehalfdeva kaprehalfdeva karadeva karaprehalfdeva qadeva];
     @MMK_R_R_KaSsa = [kassadeva kassaprehalfdeva kassaradeva kassaraprehalfdeva];

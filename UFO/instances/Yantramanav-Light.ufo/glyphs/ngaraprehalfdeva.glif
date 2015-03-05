@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1157</integer>
+          <integer>1337</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -51,7 +51,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1157</integer>
+          <integer>1337</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

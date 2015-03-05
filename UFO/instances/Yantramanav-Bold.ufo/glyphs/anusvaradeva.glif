@@ -24,9 +24,9 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <integer>-289</integer>
+          <integer>-339</integer>
           <key>y</key>
-          <integer>1432</integer>
+          <integer>1191</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -63,51 +63,6 @@
           </array>
           <key>contours</key>
           <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>-224</integer>
-                  <key>y</key>
-                  <integer>1492</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>-301</integer>
-                  <key>y</key>
-                  <integer>1492</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>-301</integer>
-                  <key>y</key>
-                  <integer>1649</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>-224</integer>
-                  <key>y</key>
-                  <integer>1649</integer>
-                </dict>
-              </array>
-            </dict>
           </array>
           <key>lib</key>
           <dict>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vattulowdeva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-248" y="40" type="line"/>
+      <point x="53" y="-122" type="line"/>
+      <point x="30" y="-159" type="line"/>
+      <point x="-274" y="3" type="line"/>
+      <point x="-245" y="4" type="line"/>
+      <point x="-543" y="-156" type="line"/>
+      <point x="-568" y="-120" type="line"/>
+      <point x="-272" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="-370" y="12" type="move" name="_btm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>vattulowdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>vattulowdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,255 @@
+           # --------- ExBold I vowelsign lengths --------
+            
+             lookup IvowelAnusvara {
+                
+                sub ivowelsigndeva @allbase anusvaradeva' by anusvaradeva2;
+                
+            } IvowelAnusvara;
+
+            lookup IVowelHalfHalfHalfHalfCons { 
+
+                 sub ivowelsigndeva' [@ih_05_yaha @ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ic_07 @ic_08 @ic_09 @ic_10] by ivowelsign13deva;
+   
+            } IVowelHalfHalfHalfHalfCons;   
+            
+
+            lookup IVowelHalfHalfHalfCons { 
+
+                 sub ivowelsigndeva' [@ih_05_yaha @ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ic_07 @ic_08 @ic_09 @ic_10] by ivowelsign13deva;
+   
+            } IVowelHalfHalfHalfCons; 
+
+
+            lookup IVowelHalfHalfCons { 
+
+                # ih_05_yaha + ih + ic
+ 
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 @ic_02 by ivowelsign09deva;
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 @ic_03 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 @ic_04 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 @ic_05 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 @ic_06 by ivowelsign12deva;                 
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 @ic_07 by ivowelsign12deva;                 
+                 sub ivowelsigndeva' @ih_05_yaha @ih_08 [@ic_08 @ic_09 @ic_10] by ivowelsign13deva;
+
+
+                # ih_06 + ih + ic
+                
+                 sub ivowelsigndeva' @ih_06 [@ih_06 @ih_07] @ic_02 by ivowelsign09deva;
+                 sub ivowelsigndeva' @ih_06 @ih_08 @ic_02 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_06 @ih_09 @ic_02 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_10 @ih_11] @ic_02 by ivowelsign13deva;
+                 
+                 sub ivowelsigndeva' @ih_06 [@ih_06 @ih_07] @ic_03 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_08 @ih_09] @ic_03 by ivowelsign11deva;                 
+                 sub ivowelsigndeva' @ih_06 [@ih_10 @ih_11] @ic_03 by ivowelsign13deva;
+ 
+                 sub ivowelsigndeva' @ih_06 [@ih_06 @ih_07] @ic_04 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_08] @ic_04 by ivowelsign12deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_09 @ih_10 @ih_11] @ic_04 by ivowelsign13deva;
+ 
+                 sub ivowelsigndeva' @ih_06 @ih_06 @ic_05 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_07 @ih_08] @ic_05 by ivowelsign12deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_09 @ih_10 @ih_11] @ic_05 by ivowelsign13deva; 
+ 
+                 sub ivowelsigndeva' @ih_06 [@ih_06 @ih_07] @ic_06 by ivowelsign12deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_08 @ih_09 @ih_10 @ih_11] @ic_06 by ivowelsign13deva;
+
+                 sub ivowelsigndeva' @ih_06 [@ih_06 @ih_07] @ic_07 by ivowelsign12deva;
+                 sub ivowelsigndeva' @ih_06 [@ih_08 @ih_09 @ih_10 @ih_11] @ic_07 by ivowelsign13deva;
+                 
+                 sub ivowelsigndeva' @ih_06 [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10 @ih_11] [@ic_08 @ic_09 @ic_10] by ivowelsign13deva;                              
+ 
+ 
+                # ih_07 + ih + ic 
+ 
+                 sub ivowelsigndeva' @ih_07 @ih_06 @ic_02 by ivowelsign09deva;
+                 sub ivowelsigndeva' @ih_07 [@ih_08 @ih_07] @ic_02 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_07 @ih_09 @ic_02 by ivowelsign11deva;                           
+                 sub ivowelsigndeva' @ih_07 [@ih_10 @ih_11] @ic_02 by ivowelsign12deva;
+                 
+                 sub ivowelsigndeva' @ih_07 [@ih_06 @ih_07 @ih_08] @ic_03 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_07 @ih_09 @ic_03 by ivowelsign12deva;                         
+                 sub ivowelsigndeva' @ih_07 [@ih_10 @ih_11] @ic_03 by ivowelsign13deva;
+
+                 sub ivowelsigndeva' @ih_07 @ih_06 @ic_04 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_07 [@ih_07 @ih_08] @ic_04 by ivowelsign11deva;                           
+                 sub ivowelsigndeva' @ih_07 [@ic_09 @ih_10 @ih_11] @ic_04 by ivowelsign13deva;
+
+                 sub ivowelsigndeva' @ih_07 [@ih_06 @ih_07] @ic_05 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_07 @ih_08 @ic_05 by ivowelsign12deva;                           
+                 sub ivowelsigndeva' @ih_07 [@ic_09 @ih_10 @ih_11] @ic_05 by ivowelsign13deva;
+
+                 sub ivowelsigndeva' @ih_07 [@ih_06 @ih_07 @ih_08] @ic_06 by ivowelsign12deva;                           
+                 sub ivowelsigndeva' @ih_07 [@ic_09 @ih_10 @ih_11] @ic_06 by ivowelsign13deva;
+
+                 sub ivowelsigndeva' @ih_07 @ih_06 @ic_07 by ivowelsign12deva;                           
+                 sub ivowelsigndeva' @ih_07 [@ih_07 @ih_08 @ic_09 @ih_10 @ih_11] @ic_07 by ivowelsign13deva;
+
+
+                 sub ivowelsigndeva' @ih_07 [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10 @ih_11] [@ic_08 @ic_09 @ic_10] by ivowelsign13deva;
+                                  
+
+                # ih_08 + ih + ic 
+
+                 sub ivowelsigndeva' @ih_08 @ih_06 @ic_02 by ivowelsign10deva; 
+                 sub ivowelsigndeva' @ih_08 [@ih_07 @ih_08] @ic_02 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_08 @ih_09 @ic_02 by ivowelsign12deva;
+                 sub ivowelsigndeva' @ih_08 [@ih_10 @ih_11] @ic_02 by ivowelsign13deva;                 
+                 
+                 sub ivowelsigndeva' @ih_08 @ih_06 @ic_03 by ivowelsign10deva;
+                 sub ivowelsigndeva' @ih_08 [@ih_07 @ih_08] @ic_03 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_08 @ih_09 @ic_03 by ivowelsign12deva;                 
+                 sub ivowelsigndeva' @ih_08 [@ih_10 @ih_11] @ic_03 by ivowelsign13deva;                 
+                 
+                 sub ivowelsigndeva' @ih_08 @ih_06 @ic_04 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_08 [@ih_07 @ih_08] @ic_04 by ivowelsign12deva;             
+                 sub ivowelsigndeva' @ih_08 [@ih_09 @ih_10 @ih_11] @ic_04 by ivowelsign13deva; 
+
+                 sub ivowelsigndeva' @ih_08 [@ih_06 @ih_07] @ic_05 by ivowelsign12deva;                
+                 sub ivowelsigndeva' @ih_08 [@ih_08 @ih_09 @ih_10 @ih_11] @ic_05 by ivowelsign13deva; 
+
+                 sub ivowelsigndeva' @ih_08 @ih_06 @ic_06 by ivowelsign12deva;                
+                 sub ivowelsigndeva' @ih_08 [@ih_07 @ih_08 @ih_09 @ih_10 @ih_11] @ic_06 by ivowelsign13deva; 
+                              
+                 sub ivowelsigndeva' @ih_08 [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10 @ih_11] [@ic_07 @ic_08 @ic_09 @ic_10] by ivowelsign13deva;                  
+                                  
+
+                 # ih_09 + ih + ic   
+ 
+                 sub ivowelsigndeva' @ih_09 [@ih_06 @ih_07] @ic_02 by ivowelsign11deva; 
+                 sub ivowelsigndeva' @ih_09 @ih_08 @ic_02 by ivowelsign12deva;
+                 sub ivowelsigndeva' @ih_09 [@ih_09 @ih_10 @ih_11] @ic_02 by ivowelsign13deva;                 
+                 
+                 sub ivowelsigndeva' @ih_09 @ih_06 @ic_03 by ivowelsign11deva;
+                 sub ivowelsigndeva' @ih_09 [@ih_07 @ih_08] @ic_03 by ivowelsign12deva;                 
+                 sub ivowelsigndeva' @ih_09 [@ih_09 @ih_10 @ih_11] @ic_03 by ivowelsign13deva;                 
+                 
+                 sub ivowelsigndeva' @ih_09 [@ih_06 @ih_07] @ic_04 by ivowelsign12deva;           
+                 sub ivowelsigndeva' @ih_09 [@ih_08 @ih_09 @ih_10 @ih_11] @ic_04 by ivowelsign13deva; 
+
+                 sub ivowelsigndeva' @ih_09 [@ih_06 @ih_07] @ic_05 by ivowelsign12deva;                
+                 sub ivowelsigndeva' @ih_09 [@ih_08 @ih_09 @ih_10 @ih_11] @ic_05 by ivowelsign13deva; 
+               
+                 sub ivowelsigndeva' @ih_09 [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10 @ih_11] [@ic_06 @ic_07 @ic_08 @ic_09 @ic_10] by ivowelsign13deva;                
+                   
+
+                 # ih_10 + ih + ic                 
+                 
+                 sub ivowelsigndeva' @ih_10 [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10 @ih_11] [@ic_02 @ic_03 @ic_04 @ic_05 @ic_06 @ic_07 @ic_08 @ic_09 @ic_10] by ivowelsign13deva;
+
+
+                 # ih_11 + ih + ic                 
+                 
+                 sub ivowelsigndeva' @ih_11 [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10 @ih_11] [@ic_02 @ic_03 @ic_04 @ic_05 @ic_06 @ic_07 @ic_08 @ic_09 @ic_10] by ivowelsign13deva;
+                            
+            } IVowelHalfHalfCons;
+            
+            
+            
+            lookup IVowelHalfCons {
+
+           # raprehalfdevaMAR to ha and ya 
+                sub ivowelsigndeva' @ih_05_yaha @ic_02 by ivowelsign05deva;
+                sub ivowelsigndeva' @ih_05_yaha @ic_03 by ivowelsign07deva;
+                sub ivowelsigndeva' @ih_05_yaha @ic_05 by ivowelsign08deva;    
+            
+            # halfs - to - 02
+                
+                sub ivowelsigndeva' @ih_06 @ic_02 by ivowelsign06deva;
+                sub ivowelsigndeva' @ih_07 @ic_02 by ivowelsign07deva;
+                sub ivowelsigndeva' @ih_08 @ic_02 by ivowelsign08deva;
+                sub ivowelsigndeva' @ih_09 @ic_02 by ivowelsign09deva;
+                sub ivowelsigndeva' @ih_10 @ic_02 by ivowelsign10deva;
+                sub ivowelsigndeva' @ih_11 @ic_02 by ivowelsign11deva;
+                                
+            # halfs - to - 03
+                
+                sub ivowelsigndeva' @ih_06 @ic_03 by ivowelsign07deva;
+                sub ivowelsigndeva' @ih_07 @ic_03 by ivowelsign07deva;
+                sub ivowelsigndeva' @ih_08 @ic_03 by ivowelsign08deva;
+                sub ivowelsigndeva' @ih_09 @ic_03 by ivowelsign09deva;
+                sub ivowelsigndeva' @ih_10 @ic_03 by ivowelsign11deva;                
+                sub ivowelsigndeva' @ih_11 @ic_03 by ivowelsign12deva;                
+           
+            # halfs - to - 04
+                
+                sub ivowelsigndeva' @ih_06 @ic_04 by ivowelsign07deva;
+                sub ivowelsigndeva' @ih_07 @ic_04 by ivowelsign08deva;
+                sub ivowelsigndeva' @ih_08 @ic_04 by ivowelsign08deva;
+                sub ivowelsigndeva' @ih_09 @ic_04 by ivowelsign09deva;
+                sub ivowelsigndeva' @ih_10 @ic_04 by ivowelsign11deva; 
+                sub ivowelsigndeva' @ih_11 @ic_04 by ivowelsign12deva; 
+                           
+            # halfs - to - 05
+                
+                sub ivowelsigndeva' @ih_06 @ic_05 by ivowelsign08deva;
+                sub ivowelsigndeva' @ih_07 @ic_05 by ivowelsign08deva;
+                sub ivowelsigndeva' @ih_08 @ic_05 by ivowelsign09deva;
+                sub ivowelsigndeva' @ih_09 @ic_05 by ivowelsign10deva;
+                sub ivowelsigndeva' @ih_10 @ic_05 by ivowelsign12deva; 
+                sub ivowelsigndeva' @ih_11 @ic_05 by ivowelsign13deva; 
+                           
+            # halfs - to - 06
+                
+                sub ivowelsigndeva' @ih_06 @ic_06 by ivowelsign09deva;
+                sub ivowelsigndeva' @ih_07 @ic_06 by ivowelsign09deva;
+                sub ivowelsigndeva' @ih_08 @ic_06 by ivowelsign10deva;
+                sub ivowelsigndeva' @ih_09 @ic_06 by ivowelsign11deva;
+                sub ivowelsigndeva' @ih_10 @ic_06 by ivowelsign13deva; 
+                sub ivowelsigndeva' @ih_11 @ic_06 by ivowelsign13deva; 
+                           
+            # halfs - to - 07
+                
+                sub ivowelsigndeva' @ih_06 @ic_07 by ivowelsign10deva;
+                sub ivowelsigndeva' @ih_07 @ic_07 by ivowelsign10deva;
+                sub ivowelsigndeva' @ih_08 @ic_07 by ivowelsign11deva;
+                sub ivowelsigndeva' @ih_09 @ic_07 by ivowelsign12deva;
+                sub ivowelsigndeva' @ih_10 @ic_07 by ivowelsign13deva; 
+                sub ivowelsigndeva' @ih_11 @ic_07 by ivowelsign13deva;  
+
+             # halfs - to - 08
+                
+                sub ivowelsigndeva' @ih_06 @ic_08 by ivowelsign11deva;
+                sub ivowelsigndeva' @ih_07 @ic_08 by ivowelsign11deva;
+                sub ivowelsigndeva' @ih_08 @ic_08 by ivowelsign12deva;
+                sub ivowelsigndeva' @ih_09 @ic_08 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_10 @ic_08 by ivowelsign13deva;                
+                sub ivowelsigndeva' @ih_11 @ic_08 by ivowelsign13deva;                 
+
+             # halfs - to - 09
+                
+                sub ivowelsigndeva' @ih_06 @ic_09 by ivowelsign12deva;
+                sub ivowelsigndeva' @ih_07 @ic_09 by ivowelsign12deva;
+                sub ivowelsigndeva' @ih_08 @ic_09 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_09 @ic_09 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_10 @ic_09 by ivowelsign13deva;  
+                sub ivowelsigndeva' @ih_11 @ic_09 by ivowelsign13deva; 
+                                                
+              # halfs - to - 10
+                
+                sub ivowelsigndeva' @ih_06 @ic_10 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_07 @ic_10 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_08 @ic_10 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_09 @ic_10 by ivowelsign13deva;
+                sub ivowelsigndeva' @ih_10 @ic_10 by ivowelsign13deva;  
+                sub ivowelsigndeva' @ih_11 @ic_10 by ivowelsign13deva;  
+            } IVowelHalfCons;
+           
+            lookup IVowelCons { 
+                         
+                sub ivowelsigndeva' @ic_01 by ivowelsign01deva;
+                sub ivowelsigndeva' @ic_02 by ivowelsign02deva;
+                sub ivowelsigndeva' @ic_03 by ivowelsign03deva;
+                sub ivowelsigndeva' @ic_04 by ivowelsign04deva;
+                sub ivowelsigndeva' @ic_05 by ivowelsign05deva;
+                sub ivowelsigndeva' @ic_06 by ivowelsign06deva;
+                sub ivowelsigndeva' @ic_07 by ivowelsign07deva;
+                sub ivowelsigndeva' @ic_08 by ivowelsign08deva;
+                sub ivowelsigndeva' @ic_09 by ivowelsign09deva;
+                sub ivowelsigndeva' @ic_10 by ivowelsign10deva;
+                                    
+            } IVowelCons;
+                       
+
+} pres;

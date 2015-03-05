@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="827"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="299" y="919" type="line"/>
+      <point x="23" y="1000" type="line"/>
+      <point x="78" y="1169" type="line"/>
+      <point x="347" y="1052" type="line"/>
+      <point x="327" y="1367" type="line"/>
+      <point x="507" y="1367" type="line"/>
+      <point x="484" y="1046" type="line"/>
+      <point x="746" y="1160" type="line"/>
+      <point x="800" y="989" type="line"/>
+      <point x="522" y="908" type="line"/>
+      <point x="707" y="670" type="line"/>
+      <point x="562" y="565" type="line"/>
+      <point x="406" y="829" type="line"/>
+      <point x="252" y="574" type="line"/>
+      <point x="106" y="675" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>827</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>827</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

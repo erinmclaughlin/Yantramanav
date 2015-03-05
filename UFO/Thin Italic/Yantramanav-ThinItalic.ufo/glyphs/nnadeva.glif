@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnadeva" format="1">
+  <advance width="1404"/>
+  <unicode hex="0923"/>
+  <outline>
+    <contour>
+      <point x="662" y="1237" type="line"/>
+      <point x="711" y="1237" type="line"/>
+      <point x="711" y="785" type="line" smooth="yes"/>
+      <point x="711" y="641"/>
+      <point x="582" y="481"/>
+      <point x="448" y="481" type="qcurve" smooth="yes"/>
+      <point x="319" y="481"/>
+      <point x="177" y="637"/>
+      <point x="177" y="782" type="qcurve" smooth="yes"/>
+      <point x="177" y="1237" type="line"/>
+      <point x="226" y="1237" type="line"/>
+      <point x="226" y="776" type="line" smooth="yes"/>
+      <point x="226" y="648"/>
+      <point x="347" y="530"/>
+      <point x="443" y="530" type="qcurve" smooth="yes"/>
+      <point x="549" y="530"/>
+      <point x="662" y="651"/>
+      <point x="662" y="786" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-30" y="1274" type="line"/>
+      <point x="1434" y="1274" type="line"/>
+      <point x="1434" y="1225" type="line"/>
+      <point x="-30" y="1225" type="line"/>
+    </contour>
+    <contour>
+      <point x="1100" y="1235" type="line"/>
+      <point x="1149" y="1235" type="line"/>
+      <point x="1149" y="0" type="line"/>
+      <point x="1100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="642" y="1256" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>654</integer>
+          <key>y</key>
+          <integer>1272</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nnadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1404</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>nnadeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1404</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

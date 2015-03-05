@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixdeva" format="1">
+  <advance width="927.0"/>
+  <unicode hex="096C"/>
+  <outline>
+    <contour>
+      <point x="768" y="828" type="qcurve"/>
+      <point x="703" y="710" type="line"/>
+      <point x="520" y="710"/>
+      <point x="339" y="863"/>
+      <point x="367" y="993" type="qcurve" smooth="yes"/>
+      <point x="394" y="1121"/>
+      <point x="613" y="1263"/>
+      <point x="771" y="1263" type="qcurve" smooth="yes"/>
+      <point x="838" y="1263"/>
+      <point x="966" y="1241"/>
+      <point x="1025" y="1216" type="qcurve"/>
+      <point x="974" y="1083" type="line"/>
+      <point x="921" y="1104"/>
+      <point x="828" y="1122"/>
+      <point x="763" y="1122" type="qcurve" smooth="yes"/>
+      <point x="673" y="1122"/>
+      <point x="557" y="1043"/>
+      <point x="543" y="978" type="qcurve" smooth="yes"/>
+      <point x="526" y="900"/>
+      <point x="653" y="818"/>
+    </contour>
+    <contour>
+      <point x="565" y="180" type="qcurve" smooth="yes"/>
+      <point x="402" y="180"/>
+      <point x="212" y="348"/>
+      <point x="244" y="500" type="qcurve" smooth="yes"/>
+      <point x="274" y="641"/>
+      <point x="542" y="831"/>
+      <point x="803" y="831" type="qcurve" smooth="yes"/>
+      <point x="867" y="831" type="line"/>
+      <point x="837" y="690" type="line"/>
+      <point x="782" y="690" type="line" smooth="yes"/>
+      <point x="604" y="690"/>
+      <point x="441" y="582"/>
+      <point x="422" y="495" type="qcurve" smooth="yes"/>
+      <point x="404" y="409"/>
+      <point x="504" y="325"/>
+      <point x="571" y="325" type="qcurve" smooth="yes"/>
+      <point x="601" y="325"/>
+      <point x="658" y="338"/>
+      <point x="694" y="350" type="qcurve"/>
+      <point x="622" y="289" type="line"/>
+      <point x="615" y="324"/>
+      <point x="603" y="368"/>
+      <point x="611" y="404" type="qcurve" smooth="yes"/>
+      <point x="620" y="448"/>
+      <point x="696" y="502"/>
+      <point x="755" y="502" type="qcurve" smooth="yes"/>
+      <point x="835" y="502"/>
+      <point x="954" y="422"/>
+      <point x="940" y="357" type="qcurve" smooth="yes"/>
+      <point x="928" y="300"/>
+      <point x="748" y="180"/>
+    </contour>
+    <contour>
+      <point x="646" y="251" type="line"/>
+      <point x="801" y="317" type="line"/>
+      <point x="895" y="20" type="line"/>
+      <point x="736" y="-44" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>642</integer>
+          <key>y</key>
+          <integer>1280</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>754</integer>
+          <key>y</key>
+          <integer>1203</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>sixdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>927.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>sixdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>927.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

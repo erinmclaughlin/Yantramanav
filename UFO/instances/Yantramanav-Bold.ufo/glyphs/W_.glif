@@ -6,10 +6,10 @@
     <contour>
       <point x="455" y="560" type="line"/>
       <point x="457" y="424" type="line"/>
-      <point x="461" y="423" type="line"/>
-      <point x="484" y="560" type="line"/>
+      <point x="463" y="423" type="line"/>
+      <point x="483" y="560" type="line"/>
       <point x="677" y="1310" type="line"/>
-      <point x="902" y="1310" type="line"/>
+      <point x="903" y="1310" type="line"/>
       <point x="1101" y="560" type="line"/>
       <point x="1123" y="416" type="line"/>
       <point x="1128" y="416" type="line"/>
@@ -20,9 +20,9 @@
       <point x="1018" y="0" type="line"/>
       <point x="806" y="785" type="line"/>
       <point x="796" y="895" type="line"/>
-      <point x="790" y="895" type="line"/>
+      <point x="789" y="895" type="line"/>
       <point x="781" y="785" type="line"/>
-      <point x="562" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
       <point x="334" y="0" type="line"/>
       <point x="45" y="1310" type="line"/>
       <point x="303" y="1310" type="line"/>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1669</integer>
+          <integer>1670</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -74,11 +74,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1669</integer>
+          <integer>1670</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

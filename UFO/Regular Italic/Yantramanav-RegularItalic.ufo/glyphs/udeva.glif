@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udeva" format="1">
+  <advance width="953.0"/>
+  <unicode hex="0909"/>
+  <outline>
+    <contour>
+      <point x="212" y="1138" type="line"/>
+      <point x="242" y="1279" type="line"/>
+      <point x="1255" y="1279" type="line"/>
+      <point x="1225" y="1138" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="617" type="line"/>
+      <point x="389" y="764" type="line"/>
+      <point x="409" y="764" type="line" smooth="yes"/>
+      <point x="583" y="764"/>
+      <point x="743" y="880"/>
+      <point x="763" y="972" type="qcurve" smooth="yes"/>
+      <point x="777" y="1042"/>
+      <point x="698" y="1139"/>
+      <point x="606" y="1139" type="qcurve" smooth="yes"/>
+      <point x="412" y="1139" type="line"/>
+      <point x="419" y="1260" type="line"/>
+      <point x="632" y="1260" type="line" smooth="yes"/>
+      <point x="786" y="1260"/>
+      <point x="952" y="1104"/>
+      <point x="923" y="969" type="qcurve" smooth="yes"/>
+      <point x="888" y="806"/>
+      <point x="619" y="617"/>
+      <point x="399" y="617" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="555" y="769" type="line"/>
+      <point x="732" y="779"/>
+      <point x="931" y="568"/>
+      <point x="899" y="419" type="qcurve" smooth="yes"/>
+      <point x="863" y="247"/>
+      <point x="606" y="63"/>
+      <point x="424" y="63" type="qcurve" smooth="yes"/>
+      <point x="352" y="63"/>
+      <point x="199" y="96"/>
+      <point x="109" y="135" type="qcurve"/>
+      <point x="164" y="279" type="line"/>
+      <point x="240" y="242"/>
+      <point x="356" y="209"/>
+      <point x="433" y="209" type="qcurve" smooth="yes"/>
+      <point x="552" y="209"/>
+      <point x="711" y="320"/>
+      <point x="734" y="427" type="qcurve" smooth="yes"/>
+      <point x="752" y="511"/>
+      <point x="630" y="639"/>
+      <point x="502" y="639" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="725" y="1291" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1258</integer>
+          <key>y</key>
+          <integer>-11</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>1431</integer>
+          <key>y</key>
+          <integer>1036</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>udeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>953.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>udeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>953.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

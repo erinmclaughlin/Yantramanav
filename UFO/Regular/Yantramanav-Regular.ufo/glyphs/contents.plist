@@ -278,10 +278,6 @@
 	<string>ecandraanusvaradeva.glif</string>
 	<key>ecandradeva</key>
 	<string>ecandradeva.glif</string>
-	<key>ecandravowelsignanusvaradeva</key>
-	<string>ecandravowelsignanusvaradeva.glif</string>
-	<key>ecandravowelsigncandrabindudeva</key>
-	<string>ecandravowelsigncandrabindudeva.glif</string>
 	<key>ecandravowelsigndeva</key>
 	<string>ecandravowelsigndeva.glif</string>
 	<key>edeva</key>
@@ -640,10 +636,6 @@
 	<string>o.glif</string>
 	<key>ocandradeva</key>
 	<string>ocandradeva.glif</string>
-	<key>ocandravowelsignanusvaradeva</key>
-	<string>ocandravowelsignanusvaradeva.glif</string>
-	<key>ocandravowelsigncandrabindudeva</key>
-	<string>ocandravowelsigncandrabindudeva.glif</string>
 	<key>ocandravowelsigndeva</key>
 	<string>ocandravowelsigndeva.glif</string>
 	<key>odeva</key>
@@ -858,6 +850,8 @@
 	<string>ttattadeva.glif</string>
 	<key>ttatthadeva</key>
 	<string>ttatthadeva.glif</string>
+	<key>ttavadeva</key>
+	<string>ttavadeva.glif</string>
 	<key>ttayadeva</key>
 	<string>ttayadeva.glif</string>
 	<key>tthadeva</key>

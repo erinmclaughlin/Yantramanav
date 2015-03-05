@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1168"/>
+  <advance width="1169"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
@@ -40,7 +40,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1101</integer>
+          <integer>1175</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -62,11 +62,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1101</integer>
+          <integer>1175</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

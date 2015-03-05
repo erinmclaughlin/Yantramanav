@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1353"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="902" y="230" type="line"/>
+      <point x="1212" y="974" type="line"/>
+      <point x="1381" y="974" type="line"/>
+      <point x="937" y="0" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="704" y="736" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="115" y="974" type="line"/>
+      <point x="271" y="974" type="line"/>
+      <point x="330" y="248" type="line"/>
+      <point x="676" y="974" type="line"/>
+      <point x="807" y="974" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1353</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1353</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

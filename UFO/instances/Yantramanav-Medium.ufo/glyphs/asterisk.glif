@@ -4,21 +4,21 @@
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="294" y="877" type="line"/>
-      <point x="24" y="958" type="line"/>
-      <point x="72" y="1105" type="line"/>
-      <point x="339" y="1001" type="line"/>
-      <point x="327" y="1310" type="line"/>
-      <point x="483" y="1310" type="line"/>
-      <point x="469" y="995" type="line"/>
-      <point x="732" y="1098" type="line"/>
-      <point x="778" y="949" type="line"/>
-      <point x="505" y="869" type="line"/>
-      <point x="682" y="627" type="line"/>
-      <point x="556" y="535" type="line"/>
-      <point x="396" y="795" type="line"/>
-      <point x="238" y="542" type="line"/>
-      <point x="111" y="631" type="line"/>
+      <point x="294" y="937" type="line"/>
+      <point x="24" y="1018" type="line"/>
+      <point x="72" y="1165" type="line"/>
+      <point x="339" y="1060" type="line"/>
+      <point x="327" y="1370" type="line"/>
+      <point x="483" y="1370" type="line"/>
+      <point x="469" y="1054" type="line"/>
+      <point x="732" y="1158" type="line"/>
+      <point x="779" y="1009" type="line"/>
+      <point x="505" y="928" type="line"/>
+      <point x="682" y="686" type="line"/>
+      <point x="556" y="594" type="line"/>
+      <point x="396" y="854" type="line"/>
+      <point x="238" y="602" type="line"/>
+      <point x="111" y="691" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
+          <integer>827</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -67,11 +67,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
+          <integer>827</integer>
         </dict>
       </dict>
-      <key>org.robofab.fontlab.mark</key>
-      <integer>170</integer>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

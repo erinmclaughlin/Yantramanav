@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="593"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="458" y="1208" type="line"/>
+      <point x="417" y="972" type="line"/>
+      <point x="594" y="972" type="line"/>
+      <point x="572" y="843" type="line"/>
+      <point x="395" y="843" type="line"/>
+      <point x="293" y="238" type="line"/>
+      <point x="292" y="226" name="inserted"/>
+      <point x="292" y="204"/>
+      <point x="293" y="194" type="qcurve" smooth="yes"/>
+      <point x="296" y="159" name="inserted"/>
+      <point x="334" y="124"/>
+      <point x="369" y="124" type="qcurve" smooth="yes"/>
+      <point x="384" y="124" name="inserted"/>
+      <point x="423" y="129"/>
+      <point x="448" y="133" type="qcurve"/>
+      <point x="436" y="-3" type="line"/>
+      <point x="406" y="-11" name="inserted"/>
+      <point x="347" y="-19"/>
+      <point x="317" y="-19" type="qcurve" smooth="yes"/>
+      <point x="220" y="-17"/>
+      <point x="122" y="122"/>
+      <point x="133" y="240" type="qcurve"/>
+      <point x="232" y="843" type="line"/>
+      <point x="60" y="843" type="line"/>
+      <point x="83" y="972" type="line"/>
+      <point x="255" y="972" type="line"/>
+      <point x="296" y="1208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>t</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>593</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>t</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>593</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.794</real>
+        <real>0.975</real>
+        <real>0.8356</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
