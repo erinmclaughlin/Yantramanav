@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="1">
+  <advance width="472"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="321" y="-140" type="line" smooth="yes"/>
+      <point x="321" y="-286"/>
+      <point x="174" y="-437"/>
+      <point x="32" y="-437" type="qcurve" smooth="yes"/>
+      <point x="6" y="-437" name="inserted"/>
+      <point x="-46" y="-428"/>
+      <point x="-72" y="-419" type="qcurve"/>
+      <point x="-56" y="-289" type="line"/>
+      <point x="-35" y="-294" name="inserted"/>
+      <point x="0" y="-300"/>
+      <point x="15" y="-300" type="qcurve" smooth="yes"/>
+      <point x="85" y="-300" name="inserted"/>
+      <point x="155" y="-221"/>
+      <point x="155" y="-141" type="qcurve" smooth="yes"/>
+      <point x="155" y="1034" type="line" smooth="yes"/>
+      <point x="155" y="1187"/>
+      <point x="314" y="1358"/>
+      <point x="459" y="1358" type="qcurve" smooth="yes"/>
+      <point x="486" y="1358" name="inserted"/>
+      <point x="551" y="1348"/>
+      <point x="589" y="1339" type="qcurve"/>
+      <point x="567" y="1211" type="line"/>
+      <point x="550" y="1216" name="inserted"/>
+      <point x="509" y="1221"/>
+      <point x="485" y="1221" type="qcurve" smooth="yes"/>
+      <point x="403" y="1221" name="inserted"/>
+      <point x="321" y="1122"/>
+      <point x="321" y="1024" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>integral</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>472</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>integral</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>472</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

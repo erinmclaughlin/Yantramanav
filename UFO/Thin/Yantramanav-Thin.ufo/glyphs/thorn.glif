@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="1">
+  <advance width="1009"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="899" y="436" type="line" smooth="yes"/>
+      <point x="899" y="209"/>
+      <point x="703" y="-60"/>
+      <point x="534" y="-60" type="qcurve" smooth="yes"/>
+      <point x="423" y="-60"/>
+      <point x="250" y="30"/>
+      <point x="202" y="110" type="qcurve"/>
+      <point x="202" y="-416" type="line"/>
+      <point x="153" y="-416" type="line"/>
+      <point x="153" y="1341" type="line"/>
+      <point x="202" y="1341" type="line"/>
+      <point x="202" y="759" type="line"/>
+      <point x="252" y="851"/>
+      <point x="423" y="950"/>
+      <point x="532" y="950" type="qcurve" smooth="yes"/>
+      <point x="703" y="950"/>
+      <point x="899" y="688"/>
+      <point x="899" y="452" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="850" y="455" type="qcurve" smooth="yes"/>
+      <point x="850" y="665"/>
+      <point x="683" y="902"/>
+      <point x="533" y="902" type="qcurve" smooth="yes"/>
+      <point x="410" y="902"/>
+      <point x="239" y="775"/>
+      <point x="202" y="656" type="qcurve"/>
+      <point x="202" y="201" type="line"/>
+      <point x="239" y="100"/>
+      <point x="411" y="-11"/>
+      <point x="535" y="-11" type="qcurve" smooth="yes"/>
+      <point x="684" y="-11"/>
+      <point x="850" y="227"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1009</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

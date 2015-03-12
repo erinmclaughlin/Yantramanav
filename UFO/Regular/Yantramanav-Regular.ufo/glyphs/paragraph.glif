@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="paragraph" format="1">
+  <advance width="901"/>
+  <unicode hex="00B6"/>
+  <outline>
+    <contour>
+      <point x="581" y="0" type="line"/>
+      <point x="581" y="468" type="line"/>
+      <point x="506" y="468" type="line" smooth="yes"/>
+      <point x="299" y="468"/>
+      <point x="60" y="697"/>
+      <point x="60" y="889" type="qcurve" smooth="yes"/>
+      <point x="60" y="1081"/>
+      <point x="300" y="1310"/>
+      <point x="507" y="1310" type="qcurve" smooth="yes"/>
+      <point x="749" y="1310" type="line"/>
+      <point x="749" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>paragraph</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>901</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>paragraph</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>901</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

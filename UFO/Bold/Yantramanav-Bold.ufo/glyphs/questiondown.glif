@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="917"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="599" y="540" type="line"/>
+      <point x="599" y="421"/>
+      <point x="544" y="273"/>
+      <point x="472" y="206" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="401" y="140"/>
+      <point x="349" y="75"/>
+      <point x="336" y="42" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="330" y="25" name="inserted"/>
+      <point x="323" y="-12"/>
+      <point x="323" y="-31" type="qcurve" smooth="yes"/>
+      <point x="323" y="-102" name="inserted"/>
+      <point x="392" y="-173"/>
+      <point x="462" y="-173" type="qcurve" smooth="yes"/>
+      <point x="531" y="-173"/>
+      <point x="613" y="-92"/>
+      <point x="615" y="-19" type="qcurve"/>
+      <point x="875" y="-19" type="line"/>
+      <point x="873" y="-192"/>
+      <point x="655" y="-385"/>
+      <point x="466" y="-385" type="qcurve" smooth="yes"/>
+      <point x="275" y="-385"/>
+      <point x="62" y="-202"/>
+      <point x="62" y="-33" type="qcurve" smooth="yes"/>
+      <point x="62" y="38" name="inserted"/>
+      <point x="131" y="179"/>
+      <point x="200" y="248" type="qcurve" smooth="yes"/>
+      <point x="287" y="331" type="line" smooth="yes"/>
+      <point x="332" y="372"/>
+      <point x="367" y="460"/>
+      <point x="369" y="540" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="632" y="816" type="qcurve" smooth="yes"/>
+      <point x="632" y="755"/>
+      <point x="549" y="678"/>
+      <point x="486" y="678" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="423" y="678"/>
+      <point x="340" y="755"/>
+      <point x="340" y="816" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="340" y="876"/>
+      <point x="420" y="953"/>
+      <point x="486" y="953" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="552" y="953"/>
+      <point x="632" y="876"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

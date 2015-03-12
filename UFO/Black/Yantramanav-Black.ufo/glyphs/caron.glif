@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="887"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="443" y="1387" type="line"/>
+      <point x="575" y="1508" type="line"/>
+      <point x="833" y="1508" type="line"/>
+      <point x="833" y="1498" type="line"/>
+      <point x="540" y="1243" type="line"/>
+      <point x="345" y="1243" type="line"/>
+      <point x="50" y="1500" type="line"/>
+      <point x="50" y="1508" type="line"/>
+      <point x="311" y="1508" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>887</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>887</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

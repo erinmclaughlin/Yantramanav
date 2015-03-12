@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="992"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="619" y="877" type="line"/>
+      <point x="900" y="877" type="line"/>
+      <point x="900" y="633" type="line"/>
+      <point x="619" y="633" type="line"/>
+      <point x="619" y="320" type="line"/>
+      <point x="355" y="320" type="line"/>
+      <point x="355" y="633" type="line"/>
+      <point x="76" y="633" type="line"/>
+      <point x="76" y="877" type="line"/>
+      <point x="355" y="877" type="line"/>
+      <point x="355" y="1164" type="line"/>
+      <point x="619" y="1164" type="line"/>
+    </contour>
+    <contour>
+      <point x="881" y="1" type="line"/>
+      <point x="91" y="1" type="line"/>
+      <point x="91" y="239" type="line"/>
+      <point x="881" y="239" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>992</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>992</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="1202"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="677" y="1267" type="line"/>
+      <point x="1178" y="-43" type="line"/>
+      <point x="1144" y="-43" type="line"/>
+      <point x="1092" y="-84" type="line" smooth="yes"/>
+      <point x="1041" y="-125" name="inserted"/>
+      <point x="990" y="-204"/>
+      <point x="990" y="-243" type="qcurve" smooth="yes"/>
+      <point x="990" y="-276" name="inserted"/>
+      <point x="1025" y="-308"/>
+      <point x="1060" y="-308" type="qcurve" smooth="yes"/>
+      <point x="1082" y="-308" name="inserted"/>
+      <point x="1127" y="-296"/>
+      <point x="1150" y="-285" type="qcurve"/>
+      <point x="1162" y="-393" type="line"/>
+      <point x="1130" y="-413" name="inserted"/>
+      <point x="1058" y="-433"/>
+      <point x="1018" y="-433" type="qcurve" smooth="yes"/>
+      <point x="938" y="-433"/>
+      <point x="845" y="-339"/>
+      <point x="845" y="-262" type="qcurve" smooth="yes"/>
+      <point x="845" y="-197" name="inserted"/>
+      <point x="921" y="-84"/>
+      <point x="997" y="-35" type="qcurve"/>
+      <point x="876" y="299" type="line"/>
+      <point x="327" y="299" type="line"/>
+      <point x="203" y="-43" type="line"/>
+      <point x="25" y="-43" type="line"/>
+      <point x="526" y="1267" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="441" type="line"/>
+      <point x="824" y="441" type="line"/>
+      <point x="601" y="1054" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Aogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1202</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Aogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1202</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

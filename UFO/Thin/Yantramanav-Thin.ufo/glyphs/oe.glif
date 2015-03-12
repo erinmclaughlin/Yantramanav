@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <advance width="1732"/>
+  <unicode hex="0153"/>
+  <outline>
+    <contour>
+      <point x="83" y="504" type="line" smooth="yes"/>
+      <point x="83" y="643"/>
+      <point x="190" y="866"/>
+      <point x="288" y="928" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="336" y="959" name="inserted"/>
+      <point x="447" y="990"/>
+      <point x="509" y="990" type="qcurve" smooth="yes"/>
+      <point x="658" y="990"/>
+      <point x="871" y="819"/>
+      <point x="914" y="670" type="qcurve"/>
+      <point x="955" y="815"/>
+      <point x="1162" y="990"/>
+      <point x="1297" y="990" type="qcurve" smooth="yes"/>
+      <point x="1463" y="990"/>
+      <point x="1670" y="772"/>
+      <point x="1670" y="588" type="qcurve" smooth="yes"/>
+      <point x="1670" y="517" type="line"/>
+      <point x="940" y="517" type="line"/>
+      <point x="940" y="448" type="line" smooth="yes"/>
+      <point x="940" y="335"/>
+      <point x="1034" y="140"/>
+      <point x="1118" y="84" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1160" y="57" name="inserted"/>
+      <point x="1251" y="29"/>
+      <point x="1300" y="29" type="qcurve" smooth="yes"/>
+      <point x="1404" y="29" name="inserted"/>
+      <point x="1557" y="88"/>
+      <point x="1607" y="147" type="qcurve"/>
+      <point x="1634" y="109" type="line"/>
+      <point x="1576" y="44" name="inserted"/>
+      <point x="1409" y="-20"/>
+      <point x="1300" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1167" y="-20"/>
+      <point x="953" y="155"/>
+      <point x="912" y="296" type="qcurve"/>
+      <point x="869" y="146"/>
+      <point x="653" y="-20"/>
+      <point x="510" y="-20" type="qcurve" smooth="yes"/>
+      <point x="387" y="-20"/>
+      <point x="192" y="102"/>
+      <point x="138" y="213" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="111" y="268" name="inserted"/>
+      <point x="83" y="392"/>
+      <point x="83" y="461" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="131" y="466" type="line" smooth="yes"/>
+      <point x="131" y="345"/>
+      <point x="228" y="142"/>
+      <point x="314" y="85" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="357" y="57" name="inserted"/>
+      <point x="455" y="29"/>
+      <point x="510" y="29" type="qcurve" smooth="yes"/>
+      <point x="677" y="29"/>
+      <point x="887" y="279"/>
+      <point x="887" y="476" type="qcurve" smooth="yes"/>
+      <point x="887" y="504" type="line" smooth="yes"/>
+      <point x="887" y="624"/>
+      <point x="789" y="827"/>
+      <point x="703" y="884" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="660" y="913" name="inserted"/>
+      <point x="563" y="941"/>
+      <point x="509" y="941" type="qcurve" smooth="yes"/>
+      <point x="342" y="941"/>
+      <point x="131" y="687"/>
+      <point x="131" y="495" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1297" y="941" type="qcurve" smooth="yes"/>
+      <point x="1155" y="941"/>
+      <point x="959" y="732"/>
+      <point x="942" y="566" type="qcurve"/>
+      <point x="1621" y="566" type="line"/>
+      <point x="1621" y="596" type="line" smooth="yes"/>
+      <point x="1621" y="748"/>
+      <point x="1438" y="941"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oe</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1732</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oe</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1732</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

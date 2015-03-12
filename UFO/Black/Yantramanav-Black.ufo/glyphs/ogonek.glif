@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="581"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="371" y="-42" type="line"/>
+      <point x="301" y="-77"/>
+      <point x="240" y="-141"/>
+      <point x="240" y="-187" type="qcurve" smooth="yes"/>
+      <point x="240" y="-215" name="inserted"/>
+      <point x="267" y="-242"/>
+      <point x="294" y="-242" type="qcurve" smooth="yes"/>
+      <point x="308" y="-242" name="inserted"/>
+      <point x="339" y="-234"/>
+      <point x="356" y="-226" type="qcurve"/>
+      <point x="391" y="-377" type="line"/>
+      <point x="358" y="-397" name="inserted"/>
+      <point x="283" y="-417"/>
+      <point x="241" y="-417" type="qcurve" smooth="yes"/>
+      <point x="142" y="-417"/>
+      <point x="23" y="-313"/>
+      <point x="23" y="-224" type="qcurve" smooth="yes"/>
+      <point x="23" y="-147" name="inserted"/>
+      <point x="113" y="-28"/>
+      <point x="203" y="12" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>581</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>581</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

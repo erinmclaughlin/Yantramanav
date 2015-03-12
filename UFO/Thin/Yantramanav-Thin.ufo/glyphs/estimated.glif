@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estimated" format="1">
+  <advance width="1164"/>
+  <unicode hex="212E"/>
+  <outline>
+    <contour>
+      <point x="937" y="83" type="line"/>
+      <point x="855" y="31" name="inserted"/>
+      <point x="688" y="-20"/>
+      <point x="604" y="-20" type="qcurve" smooth="yes"/>
+      <point x="473" y="-20"/>
+      <point x="254" y="121"/>
+      <point x="193" y="237" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="163" y="295" name="inserted"/>
+      <point x="132" y="419"/>
+      <point x="132" y="485" type="qcurve" smooth="yes"/>
+      <point x="132" y="614"/>
+      <point x="262" y="847"/>
+      <point x="374" y="918" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="429" y="954" name="inserted"/>
+      <point x="545" y="990"/>
+      <point x="604" y="990" type="qcurve" smooth="yes"/>
+      <point x="724" y="990"/>
+      <point x="928" y="865"/>
+      <point x="987" y="755" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1017" y="701" name="inserted"/>
+      <point x="1048" y="581"/>
+      <point x="1049" y="516" type="qcurve" smooth="yes"/>
+      <point x="1049" y="461" type="line"/>
+      <point x="358" y="461" type="line"/>
+      <point x="358" y="165" type="line"/>
+      <point x="412" y="116" name="inserted"/>
+      <point x="535" y="66"/>
+      <point x="604" y="66" type="qcurve" smooth="yes"/>
+      <point x="692" y="66" name="inserted"/>
+      <point x="858" y="121"/>
+      <point x="935" y="176" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="604" y="905" type="qcurve" smooth="yes"/>
+      <point x="536" y="905" name="inserted"/>
+      <point x="413" y="850"/>
+      <point x="358" y="795" type="qcurve"/>
+      <point x="358" y="546" type="line"/>
+      <point x="844" y="546" type="line"/>
+      <point x="844" y="804" type="line"/>
+      <point x="792" y="854" name="inserted"/>
+      <point x="672" y="905"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>estimated</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1164</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>estimated</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1164</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1086"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="971" y="1310" type="line"/>
+      <point x="1031" y="1310" type="line"/>
+      <point x="590" y="608" type="line"/>
+      <point x="972" y="608" type="line"/>
+      <point x="972" y="559" type="line"/>
+      <point x="565" y="559" type="line"/>
+      <point x="565" y="343" type="line"/>
+      <point x="972" y="343" type="line"/>
+      <point x="972" y="293" type="line"/>
+      <point x="565" y="293" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="293" type="line"/>
+      <point x="112" y="293" type="line"/>
+      <point x="112" y="343" type="line"/>
+      <point x="517" y="343" type="line"/>
+      <point x="517" y="559" type="line"/>
+      <point x="112" y="559" type="line"/>
+      <point x="112" y="608" type="line"/>
+      <point x="491" y="608" type="line"/>
+      <point x="52" y="1310" type="line"/>
+      <point x="111" y="1310" type="line"/>
+      <point x="518" y="664" type="line"/>
+      <point x="539" y="618" type="line"/>
+      <point x="544" y="618" type="line"/>
+      <point x="565" y="664" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1086</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>yen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1086</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

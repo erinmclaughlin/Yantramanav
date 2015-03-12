@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="472"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="107" y="-270" type="line"/>
+      <point x="107" y="446" type="line"/>
+      <point x="370" y="446" type="line"/>
+      <point x="370" y="-270" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="601" type="line"/>
+      <point x="107" y="601" type="line"/>
+      <point x="107" y="1283" type="line"/>
+      <point x="370" y="1283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>brokenbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>472</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>brokenbar</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>472</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="380"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="140" y="1392" type="qcurve" smooth="yes"/>
+      <point x="140" y="1412"/>
+      <point x="169" y="1442"/>
+      <point x="190" y="1442" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="211" y="1442"/>
+      <point x="240" y="1412"/>
+      <point x="240" y="1392" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="240" y="1371"/>
+      <point x="211" y="1342"/>
+      <point x="190" y="1342" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="169" y="1342"/>
+      <point x="140" y="1371"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>380</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>380</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

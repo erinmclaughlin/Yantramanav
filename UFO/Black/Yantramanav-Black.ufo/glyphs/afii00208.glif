@@ -53,13 +53,6 @@
           <integer>1751</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8891</real>
-        <real>0.9578</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

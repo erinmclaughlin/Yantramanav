@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="698"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="159" y="-318" type="qcurve"/>
+      <point x="45" y="-248" type="line"/>
+      <point x="83" y="-186" name="inserted"/>
+      <point x="123" y="-54"/>
+      <point x="124" y="17" type="qcurve" smooth="yes"/>
+      <point x="124" y="198" type="line"/>
+      <point x="320" y="198" type="line"/>
+      <point x="320" y="30" type="line"/>
+      <point x="320" y="-18" name="inserted"/>
+      <point x="295" y="-118"/>
+      <point x="270" y="-170" type="qcurve" smooth="yes"/>
+      <point x="248" y="-215" name="inserted"/>
+      <point x="193" y="-289"/>
+    </contour>
+    <contour>
+      <point x="449" y="-318" type="qcurve"/>
+      <point x="335" y="-248" type="line"/>
+      <point x="374" y="-184" name="inserted"/>
+      <point x="416" y="-53"/>
+      <point x="418" y="15" type="qcurve" smooth="yes"/>
+      <point x="418" y="198" type="line"/>
+      <point x="614" y="198" type="line"/>
+      <point x="614" y="34" type="line" smooth="yes"/>
+      <point x="614" y="-55"/>
+      <point x="522" y="-254"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

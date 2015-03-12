@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcommaaccent" format="1">
+  <advance width="1255"/>
+  <unicode hex="0122"/>
+  <outline>
+    <component base="G" xOffset="-10"/>
+    <component base="uniF6C3" xOffset="434" yOffset="-366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="1143.0"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="980" y="-272" type="line"/>
+      <point x="932" y="-272" type="line"/>
+      <point x="932" y="1235" type="line"/>
+      <point x="211" y="1235" type="line"/>
+      <point x="211" y="-272" type="line"/>
+      <point x="162" y="-272" type="line"/>
+      <point x="162" y="1283" type="line"/>
+      <point x="980" y="1283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>product</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1143.0</real>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>product</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1143.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

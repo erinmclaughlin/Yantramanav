@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="844"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="105" y="1078" type="line" smooth="yes"/>
+      <point x="105" y="1222"/>
+      <point x="277" y="1397"/>
+      <point x="417" y="1397" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="556" y="1397"/>
+      <point x="729" y="1223"/>
+      <point x="729" y="1073" type="qcurve" smooth="yes"/>
+      <point x="729" y="1009" type="line" smooth="yes"/>
+      <point x="729" y="866"/>
+      <point x="560" y="690"/>
+      <point x="419" y="690" type="qcurve" smooth="yes"/>
+      <point x="276" y="690"/>
+      <point x="105" y="866"/>
+      <point x="105" y="1013" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="263" y="1009" type="line" smooth="yes"/>
+      <point x="263" y="920"/>
+      <point x="347" y="821"/>
+      <point x="419" y="821" type="qcurve" smooth="yes"/>
+      <point x="489" y="821"/>
+      <point x="571" y="919"/>
+      <point x="572" y="1006" type="qcurve" smooth="yes"/>
+      <point x="572" y="1078" type="line" smooth="yes"/>
+      <point x="572" y="1165"/>
+      <point x="488" y="1264"/>
+      <point x="417" y="1264" type="qcurve" smooth="yes"/>
+      <point x="347" y="1264"/>
+      <point x="263" y="1166"/>
+      <point x="263" y="1074" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>844</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>844</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

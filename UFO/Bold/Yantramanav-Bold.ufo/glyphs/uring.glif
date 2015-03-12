@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="1">
+  <advance width="1031"/>
+  <unicode hex="016F"/>
+  <outline>
+    <component base="u" xOffset="-10"/>
+    <component base="ring" xOffset="221" yOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

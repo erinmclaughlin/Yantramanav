@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <advance width="1665.0"/>
+  <unicode hex="0153"/>
+  <outline>
+    <contour>
+      <point x="82" y="494" type="line" smooth="yes"/>
+      <point x="82" y="717"/>
+      <point x="326" y="990"/>
+      <point x="527" y="990" type="qcurve" smooth="yes"/>
+      <point x="639" y="990" name="inserted"/>
+      <point x="812" y="910"/>
+      <point x="872" y="831" type="qcurve"/>
+      <point x="931" y="906"/>
+      <point x="1095" y="991"/>
+      <point x="1193" y="990" type="qcurve" smooth="yes"/>
+      <point x="1386" y="990"/>
+      <point x="1600" y="757"/>
+      <point x="1600" y="544" type="qcurve" smooth="yes"/>
+      <point x="1600" y="422" type="line"/>
+      <point x="986" y="422" type="line"/>
+      <point x="996" y="297"/>
+      <point x="1127" y="155"/>
+      <point x="1232" y="155" type="qcurve" smooth="yes"/>
+      <point x="1312" y="155"/>
+      <point x="1441" y="192"/>
+      <point x="1505" y="237" type="qcurve"/>
+      <point x="1576" y="95" type="line"/>
+      <point x="1512" y="39"/>
+      <point x="1328" y="-20"/>
+      <point x="1220" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1108" y="-20" name="inserted"/>
+      <point x="934" y="58"/>
+      <point x="871" y="137" type="qcurve"/>
+      <point x="811" y="58" name="inserted"/>
+      <point x="640" y="-20"/>
+      <point x="529" y="-20" type="qcurve" smooth="yes"/>
+      <point x="325" y="-20"/>
+      <point x="82" y="251"/>
+      <point x="82" y="483" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="300" y="475" type="qcurve" smooth="yes"/>
+      <point x="300" y="322"/>
+      <point x="420" y="155"/>
+      <point x="529" y="155" type="qcurve" smooth="yes"/>
+      <point x="636" y="155"/>
+      <point x="757" y="321"/>
+      <point x="757" y="494" type="qcurve" smooth="yes"/>
+      <point x="757" y="643"/>
+      <point x="635" y="814"/>
+      <point x="527" y="814" type="qcurve" smooth="yes"/>
+      <point x="422" y="814"/>
+      <point x="300" y="647"/>
+    </contour>
+    <contour>
+      <point x="1193" y="814" type="qcurve" smooth="yes"/>
+      <point x="1117" y="814"/>
+      <point x="1009" y="691"/>
+      <point x="991" y="582" type="qcurve"/>
+      <point x="1384" y="582" type="line"/>
+      <point x="1384" y="605" type="line" smooth="yes"/>
+      <point x="1384" y="705"/>
+      <point x="1283" y="814"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -4,13 +4,13 @@
   <unicode hex="0952"/>
   <outline>
     <contour>
-      <point x="-948" y="-213" type="line"/>
-      <point x="-924" y="-77" type="line"/>
-      <point x="-229" y="-77" type="line"/>
-      <point x="-252" y="-213" type="line"/>
+      <point x="-924" y="-213" type="line"/>
+      <point x="-901" y="-77" type="line"/>
+      <point x="-223" y="-77" type="line"/>
+      <point x="-246" y="-213" type="line"/>
     </contour>
     <contour>
-      <point x="-362" y="12" type="move" name="_btm"/>
+      <point x="-353" y="12" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>
@@ -43,12 +43,65 @@
         <dict>
           <key>anchors</key>
           <array>
+            <dict>
+              <key>name</key>
+              <string>_btm</string>
+              <key>x</key>
+              <integer>-353</integer>
+              <key>y</key>
+              <integer>12</integer>
+            </dict>
           </array>
           <key>components</key>
           <array>
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-924</integer>
+                  <key>y</key>
+                  <integer>-213</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-901</integer>
+                  <key>y</key>
+                  <integer>-77</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-223</integer>
+                  <key>y</key>
+                  <integer>-77</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-246</integer>
+                  <key>y</key>
+                  <integer>-213</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

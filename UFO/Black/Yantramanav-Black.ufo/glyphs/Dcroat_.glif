@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="1219"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="126" y="0" type="line"/>
+      <point x="126" y="572" type="line"/>
+      <point x="-27" y="572" type="line"/>
+      <point x="-27" y="743" type="line"/>
+      <point x="126" y="743" type="line"/>
+      <point x="126" y="1310" type="line"/>
+      <point x="548" y="1310" type="line" smooth="yes"/>
+      <point x="722" y="1310"/>
+      <point x="999" y="1153"/>
+      <point x="1077" y="1009" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1116" y="938" name="inserted"/>
+      <point x="1155" y="777"/>
+      <point x="1156" y="688" type="qcurve" smooth="yes"/>
+      <point x="1156" y="627" type="line" smooth="yes"/>
+      <point x="1156" y="447"/>
+      <point x="1004" y="162"/>
+      <point x="865" y="81" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="796" y="41" name="inserted"/>
+      <point x="642" y="0"/>
+      <point x="557" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="630" y="572" type="line"/>
+      <point x="442" y="572" type="line"/>
+      <point x="442" y="243" type="line"/>
+      <point x="552" y="243" type="line" smooth="yes"/>
+      <point x="688" y="243"/>
+      <point x="833" y="437"/>
+      <point x="833" y="627" type="qcurve" smooth="yes"/>
+      <point x="833" y="684" type="line" smooth="yes"/>
+      <point x="833" y="874"/>
+      <point x="688" y="1067"/>
+      <point x="548" y="1067" type="qcurve" smooth="yes"/>
+      <point x="442" y="1067" type="line"/>
+      <point x="442" y="743" type="line"/>
+      <point x="630" y="743" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Dcroat</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1219</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Dcroat</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1219</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

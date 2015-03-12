@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="682"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="648" y="720" type="line"/>
+      <point x="455" y="720" type="line"/>
+      <point x="454" y="-78" type="line" smooth="yes"/>
+      <point x="453" y="-249"/>
+      <point x="272" y="-437"/>
+      <point x="106" y="-437" type="qcurve" smooth="yes"/>
+      <point x="66" y="-437" name="inserted"/>
+      <point x="-6" y="-429"/>
+      <point x="-38" y="-422" type="qcurve"/>
+      <point x="-24" y="-192" type="line"/>
+      <point x="-8" y="-198" name="inserted"/>
+      <point x="31" y="-203"/>
+      <point x="54" y="-203" type="qcurve" smooth="yes"/>
+      <point x="107" y="-203"/>
+      <point x="150" y="-147"/>
+      <point x="150" y="-78" type="qcurve" smooth="yes"/>
+      <point x="150" y="720" type="line"/>
+      <point x="10" y="720" type="line"/>
+      <point x="10" y="930" type="line"/>
+      <point x="150" y="930" type="line"/>
+      <point x="150" y="1008" type="line" smooth="yes"/>
+      <point x="150" y="1176"/>
+      <point x="350" y="1358"/>
+      <point x="536" y="1358" type="qcurve" smooth="yes"/>
+      <point x="567" y="1358" name="inserted"/>
+      <point x="642" y="1348"/>
+      <point x="687" y="1339" type="qcurve"/>
+      <point x="664" y="1115" type="line"/>
+      <point x="644" y="1119" name="inserted"/>
+      <point x="598" y="1124"/>
+      <point x="573" y="1124" type="qcurve" smooth="yes"/>
+      <point x="514" y="1124" name="inserted"/>
+      <point x="455" y="1064"/>
+      <point x="455" y="1005" type="qcurve" smooth="yes"/>
+      <point x="455" y="930" type="line"/>
+      <point x="648" y="930" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>florin</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>682</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>florin</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>682</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

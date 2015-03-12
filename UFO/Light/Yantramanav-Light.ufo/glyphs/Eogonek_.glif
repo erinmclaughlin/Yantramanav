@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="1049"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="889" y="587" type="line"/>
+      <point x="276" y="587" type="line"/>
+      <point x="276" y="52" type="line"/>
+      <point x="981" y="52" type="line"/>
+      <point x="981" y="-41" type="line"/>
+      <point x="922" y="-41" type="line"/>
+      <point x="827" y="-113"/>
+      <point x="761" y="-208"/>
+      <point x="761" y="-252" type="qcurve" smooth="yes"/>
+      <point x="761" y="-290" name="inserted"/>
+      <point x="799" y="-328"/>
+      <point x="837" y="-328" type="qcurve" smooth="yes"/>
+      <point x="861" y="-328" name="inserted"/>
+      <point x="909" y="-313"/>
+      <point x="932" y="-298" type="qcurve"/>
+      <point x="945" y="-373" type="line"/>
+      <point x="916" y="-393" name="inserted"/>
+      <point x="851" y="-413"/>
+      <point x="816" y="-413" type="qcurve" smooth="yes"/>
+      <point x="744" y="-413"/>
+      <point x="663" y="-333"/>
+      <point x="663" y="-261" type="qcurve" smooth="yes"/>
+      <point x="663" y="-203"/>
+      <point x="744" y="-90"/>
+      <point x="815" y="-41" type="qcurve"/>
+      <point x="166" y="-41" type="line"/>
+      <point x="166" y="1269" type="line"/>
+      <point x="977" y="1269" type="line"/>
+      <point x="977" y="1175" type="line"/>
+      <point x="276" y="1175" type="line"/>
+      <point x="276" y="681" type="line"/>
+      <point x="889" y="681" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

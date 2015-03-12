@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0971" format="1">
-  <advance width="677"/>
+  <advance width="660"/>
   <unicode hex="0971"/>
   <outline>
-    <component base="anusvaradeva" xOffset="825" yOffset="-350"/>
+    <component base="anusvaradeva" xOffset="808" yOffset="-350"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>677</integer>
+          <integer>660</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -41,6 +41,51 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>839</integer>
+                  <key>y</key>
+                  <integer>1110</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>669</integer>
+                  <key>y</key>
+                  <integer>1110</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>699</integer>
+                  <key>y</key>
+                  <integer>1292</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>869</integer>
+                  <key>y</key>
+                  <integer>1292</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -51,7 +96,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>677</integer>
+          <integer>660</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

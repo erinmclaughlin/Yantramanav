@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nonbreakingspace" format="1">
   <advance width="520"/>
-  <unicode hex="00A0"/>
   <outline>
   </outline>
   <lib>
@@ -53,13 +52,6 @@
           <integer>520</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.8891</real>
-        <real>0.9578</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

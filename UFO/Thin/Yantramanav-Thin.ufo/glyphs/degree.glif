@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="705"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="140" y="1212" type="qcurve" smooth="yes"/>
+      <point x="140" y="1300"/>
+      <point x="265" y="1428"/>
+      <point x="353" y="1428" type="qcurve" smooth="yes"/>
+      <point x="439" y="1428"/>
+      <point x="562" y="1300"/>
+      <point x="562" y="1212" type="qcurve" smooth="yes"/>
+      <point x="562" y="1124"/>
+      <point x="439" y="999"/>
+      <point x="353" y="999" type="qcurve" smooth="yes"/>
+      <point x="265" y="999"/>
+      <point x="140" y="1123"/>
+    </contour>
+    <contour>
+      <point x="190" y="1212" type="qcurve" smooth="yes"/>
+      <point x="190" y="1143"/>
+      <point x="282" y="1049"/>
+      <point x="353" y="1049" type="qcurve" smooth="yes"/>
+      <point x="421" y="1049"/>
+      <point x="511" y="1140"/>
+      <point x="511" y="1212" type="qcurve" smooth="yes"/>
+      <point x="511" y="1286"/>
+      <point x="420" y="1379"/>
+      <point x="353" y="1379" type="qcurve" smooth="yes"/>
+      <point x="283" y="1379"/>
+      <point x="190" y="1283"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>705</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>705</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

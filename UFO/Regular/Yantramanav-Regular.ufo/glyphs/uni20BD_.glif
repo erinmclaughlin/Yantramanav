@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BD" format="1">
+  <advance width="1223"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="688" y="248" type="line"/>
+      <point x="386" y="248" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="248" type="line"/>
+      <point x="28" y="248" type="line"/>
+      <point x="28" y="390" type="line"/>
+      <point x="214" y="390" type="line"/>
+      <point x="214" y="513" type="line"/>
+      <point x="28" y="513" type="line"/>
+      <point x="28" y="654" type="line"/>
+      <point x="214" y="654" type="line"/>
+      <point x="214" y="1310" type="line"/>
+      <point x="698" y="1310" type="line" smooth="yes"/>
+      <point x="908" y="1310"/>
+      <point x="1155" y="1096"/>
+      <point x="1155" y="914" type="qcurve" smooth="yes"/>
+      <point x="1155" y="722"/>
+      <point x="918" y="514"/>
+      <point x="700" y="513" type="qcurve" smooth="yes"/>
+      <point x="386" y="513" type="line"/>
+      <point x="386" y="390" type="line"/>
+      <point x="688" y="390" type="line"/>
+    </contour>
+    <contour>
+      <point x="386" y="654" type="line"/>
+      <point x="698" y="654" type="line" smooth="yes"/>
+      <point x="837" y="654"/>
+      <point x="983" y="786"/>
+      <point x="983" y="912" type="qcurve" smooth="yes"/>
+      <point x="983" y="1026"/>
+      <point x="832" y="1167"/>
+      <point x="703" y="1168" type="qcurve" smooth="yes"/>
+      <point x="386" y="1168" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20BD</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1223</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni20BD</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1223</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

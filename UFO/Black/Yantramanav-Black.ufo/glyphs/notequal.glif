@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="1079"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="949" y="262" type="line"/>
+      <point x="441" y="262" type="line"/>
+      <point x="346" y="76" type="line"/>
+      <point x="230" y="132" type="line"/>
+      <point x="296" y="262" type="line"/>
+      <point x="115" y="262" type="line"/>
+      <point x="115" y="496" type="line"/>
+      <point x="417" y="496" type="line"/>
+      <point x="499" y="657" type="line"/>
+      <point x="115" y="657" type="line"/>
+      <point x="115" y="891" type="line"/>
+      <point x="620" y="891" type="line"/>
+      <point x="711" y="1068" type="line"/>
+      <point x="827" y="1011" type="line"/>
+      <point x="765" y="891" type="line"/>
+      <point x="949" y="891" type="line"/>
+      <point x="949" y="657" type="line"/>
+      <point x="644" y="657" type="line"/>
+      <point x="562" y="496" type="line"/>
+      <point x="949" y="496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>notequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1079</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>notequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1079</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

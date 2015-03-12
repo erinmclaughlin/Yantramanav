@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="1556"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="1136" y="-20" type="qcurve" smooth="yes"/>
+      <point x="1018" y="-20" name="inserted"/>
+      <point x="840" y="61"/>
+      <point x="779" y="142" type="qcurve"/>
+      <point x="720" y="65"/>
+      <point x="517" y="-20"/>
+      <point x="390" y="-20" type="qcurve" smooth="yes"/>
+      <point x="239" y="-20"/>
+      <point x="70" y="136"/>
+      <point x="70" y="272" type="qcurve" smooth="yes"/>
+      <point x="70" y="413"/>
+      <point x="275" y="570"/>
+      <point x="473" y="570" type="qcurve" smooth="yes"/>
+      <point x="674" y="570" type="line"/>
+      <point x="674" y="646" type="line" smooth="yes"/>
+      <point x="674" y="742"/>
+      <point x="575" y="853"/>
+      <point x="482" y="853" type="qcurve" smooth="yes"/>
+      <point x="387" y="853"/>
+      <point x="261" y="754"/>
+      <point x="261" y="681" type="qcurve"/>
+      <point x="95" y="698" type="line"/>
+      <point x="95" y="827"/>
+      <point x="313" y="990"/>
+      <point x="482" y="990" type="qcurve" smooth="yes"/>
+      <point x="585" y="990"/>
+      <point x="743" y="915"/>
+      <point x="788" y="840" type="qcurve"/>
+      <point x="845" y="912"/>
+      <point x="1002" y="990"/>
+      <point x="1096" y="990" type="qcurve" smooth="yes"/>
+      <point x="1285" y="990"/>
+      <point x="1494" y="759"/>
+      <point x="1494" y="549" type="qcurve" smooth="yes"/>
+      <point x="1494" y="445" type="line"/>
+      <point x="839" y="445" type="line"/>
+      <point x="845" y="287"/>
+      <point x="1002" y="115"/>
+      <point x="1136" y="115" type="qcurve" smooth="yes"/>
+      <point x="1202" y="115" name="inserted"/>
+      <point x="1323" y="149"/>
+      <point x="1378" y="183" type="qcurve" smooth="yes"/>
+      <point x="1420" y="211" type="line"/>
+      <point x="1478" y="89" type="line"/>
+      <point x="1407" y="34" name="inserted"/>
+      <point x="1236" y="-20"/>
+    </contour>
+    <contour>
+      <point x="422" y="115" type="qcurve" smooth="yes"/>
+      <point x="487" y="115"/>
+      <point x="629" y="182"/>
+      <point x="674" y="230" type="qcurve"/>
+      <point x="674" y="444" type="line"/>
+      <point x="469" y="444" type="line" smooth="yes"/>
+      <point x="364" y="442"/>
+      <point x="238" y="343"/>
+      <point x="238" y="268" type="qcurve" smooth="yes"/>
+      <point x="238" y="199"/>
+      <point x="333" y="115"/>
+    </contour>
+    <contour>
+      <point x="1096" y="853" type="qcurve" smooth="yes"/>
+      <point x="993" y="853"/>
+      <point x="859" y="699"/>
+      <point x="843" y="574" type="qcurve"/>
+      <point x="1328" y="574" type="line"/>
+      <point x="1328" y="602" type="line" smooth="yes"/>
+      <point x="1328" y="721"/>
+      <point x="1207" y="853"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ae</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1556</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ae</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1556</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="942"/>
+  <unicode hex="2264"/>
+  <outline>
+    <component base="less" yScale="0.900024414062" xOffset="-7" yOffset="94"/>
+    <component base="minus" xOffset="-103" yOffset="-685"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

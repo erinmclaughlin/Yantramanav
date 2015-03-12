@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BC" format="1">
-  <advance width="640"/>
+  <advance width="624"/>
   <unicode hex="02BC"/>
   <outline>
     <contour>
-      <point x="740" y="1466" type="line"/>
-      <point x="501" y="1008" type="line"/>
-      <point x="343" y="1008" type="line"/>
-      <point x="519" y="1497" type="line"/>
-      <point x="730" y="1497" type="line"/>
+      <point x="721" y="1466" type="line"/>
+      <point x="489" y="1008" type="line"/>
+      <point x="334" y="1008" type="line"/>
+      <point x="506" y="1497" type="line"/>
+      <point x="711" y="1497" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>640</integer>
+          <integer>624</integer>
         </dict>
         <key>layer1</key>
         <dict>
@@ -47,6 +47,61 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>721</integer>
+                  <key>y</key>
+                  <integer>1466</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>489</integer>
+                  <key>y</key>
+                  <integer>1008</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>334</integer>
+                  <key>y</key>
+                  <integer>1008</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>506</integer>
+                  <key>y</key>
+                  <integer>1497</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>711</integer>
+                  <key>y</key>
+                  <integer>1497</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>
@@ -57,7 +112,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>640</integer>
+          <integer>624</integer>
         </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>

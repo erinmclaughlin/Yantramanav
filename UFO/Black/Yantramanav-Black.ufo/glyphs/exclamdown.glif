@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="554"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="154" y="524" type="line"/>
+      <point x="400" y="524" type="line"/>
+      <point x="438" y="-372" type="line"/>
+      <point x="115" y="-372" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="803" type="qcurve" smooth="yes"/>
+      <point x="447" y="736"/>
+      <point x="351" y="650"/>
+      <point x="279" y="650" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="207" y="650"/>
+      <point x="111" y="736"/>
+      <point x="111" y="803" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="111" y="869"/>
+      <point x="207" y="955"/>
+      <point x="279" y="955" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="351" y="955"/>
+      <point x="447" y="869"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>exclamdown</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>554</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>exclamdown</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>554</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

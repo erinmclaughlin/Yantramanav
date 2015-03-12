@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="923"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="790" y="1290" type="line"/>
+      <point x="133" y="1290" type="line"/>
+      <point x="133" y="1440" type="line"/>
+      <point x="790" y="1440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

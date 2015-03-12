@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1431.0"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="fraction" xOffset="374" yOffset="8"/>
+    <component base="glyph00472" xOffset="772"/>
+    <component base="glyph00471" xOffset="-1" yOffset="665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

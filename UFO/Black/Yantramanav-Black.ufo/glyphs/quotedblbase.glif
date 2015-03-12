@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="788"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="218" y="-330" type="qcurve"/>
+      <point x="75" y="-258" type="line"/>
+      <point x="107" y="-198" name="inserted"/>
+      <point x="140" y="-63"/>
+      <point x="141" y="11" type="qcurve" smooth="yes"/>
+      <point x="141" y="209" type="line"/>
+      <point x="374" y="209" type="line"/>
+      <point x="373" y="23" type="line"/>
+      <point x="373" y="-65"/>
+      <point x="286" y="-263"/>
+    </contour>
+    <contour>
+      <point x="534" y="-330" type="qcurve"/>
+      <point x="390" y="-258" type="line"/>
+      <point x="427" y="-189" name="inserted"/>
+      <point x="465" y="-56"/>
+      <point x="466" y="9" type="qcurve" smooth="yes"/>
+      <point x="466" y="209" type="line"/>
+      <point x="699" y="209" type="line"/>
+      <point x="698" y="17" type="line" smooth="yes"/>
+      <point x="697" y="-69"/>
+      <point x="603" y="-263"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblbase</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>788</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblbase</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>788</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="1097"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="229" y="1310" type="line"/>
+      <point x="229" y="1029" type="line"/>
+      <point x="568" y="1029" type="line" smooth="yes"/>
+      <point x="753" y="1027"/>
+      <point x="968" y="827"/>
+      <point x="968" y="664" type="qcurve" smooth="yes"/>
+      <point x="968" y="502"/>
+      <point x="756" y="304"/>
+      <point x="575" y="301" type="qcurve" smooth="yes"/>
+      <point x="229" y="301" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="1310" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="980" type="line"/>
+      <point x="229" y="349" type="line"/>
+      <point x="563" y="349" type="line" smooth="yes"/>
+      <point x="725" y="349"/>
+      <point x="919" y="526"/>
+      <point x="919" y="662" type="qcurve" smooth="yes"/>
+      <point x="919" y="800"/>
+      <point x="733" y="977"/>
+      <point x="576" y="980" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>layer0</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1097</integer>
+        </dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Thorn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1097</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
