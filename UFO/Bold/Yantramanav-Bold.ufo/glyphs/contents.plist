@@ -1266,8 +1266,6 @@
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni00A0</key>
-	<string>uni00A0_.glif</string>
 	<key>uni00AD</key>
 	<string>uni00AD_.glif</string>
 	<key>uni00B5</key>
@@ -1296,8 +1294,6 @@
 	<string>uni200D_.glif</string>
 	<key>uni20B9</key>
 	<string>uni20B9_.glif</string>
-	<key>uni20B9.deva</key>
-	<string>uni20B9_.deva.glif</string>
 	<key>uni20BA</key>
 	<string>uni20BA_.glif</string>
 	<key>uni20BD</key>

@@ -7,15 +7,15 @@
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/otf/Yantramanav-Medium.otf</string>
+	<string>/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/ttf/unhinted/Yantramanav-Medium.ttf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -412,7 +412,6 @@
 				<string>haladeva</string>
 				<string>havadeva</string>
 				<string>dummymarkdeva</string>
-				<string>uni20B9.deva</string>
 				<string>uni20B9</string>
 				<string>uni200B</string>
 				<string>exclam</string>
@@ -509,7 +508,7 @@
 				<string>bar</string>
 				<string>braceright</string>
 				<string>asciitilde</string>
-				<string>uni00A0</string>
+				<string>nonbreakingspace</string>
 				<string>exclamdown</string>
 				<string>cent</string>
 				<string>sterling</string>
@@ -729,7 +728,6 @@
 				<string>lessequal</string>
 				<string>greaterequal</string>
 				<string>lozenge</string>
-				<string>nonbreakingspace</string>
 				<string>afii00208</string>
 			</array>
 			<key>type</key>
@@ -1111,7 +1109,6 @@
 		<string>haladeva</string>
 		<string>havadeva</string>
 		<string>dummymarkdeva</string>
-		<string>uni20B9.deva</string>
 		<string>uni20B9</string>
 		<string>uni200B</string>
 		<string>exclam</string>
@@ -1208,7 +1205,7 @@
 		<string>bar</string>
 		<string>braceright</string>
 		<string>asciitilde</string>
-		<string>uni00A0</string>
+		<string>nonbreakingspace</string>
 		<string>exclamdown</string>
 		<string>cent</string>
 		<string>sterling</string>
@@ -1428,7 +1425,6 @@
 		<string>lessequal</string>
 		<string>greaterequal</string>
 		<string>lozenge</string>
-		<string>nonbreakingspace</string>
 		<string>afii00208</string>
 	</array>
 </dict>
