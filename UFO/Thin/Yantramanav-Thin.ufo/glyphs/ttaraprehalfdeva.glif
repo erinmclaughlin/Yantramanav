@@ -2,11 +2,14 @@
 <glyph name="ttaraprehalfdeva" format="1">
   <advance width="976"/>
   <outline>
-    <component base="vattuviramadeva" xOffset="910"/>
-    <component base="ttadeva"/>
+    <component base="ttaradeva"/>
+    <component base="viramadeva" xOffset="809" yOffset="-100"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

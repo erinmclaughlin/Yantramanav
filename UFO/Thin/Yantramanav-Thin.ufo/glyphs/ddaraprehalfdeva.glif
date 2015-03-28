@@ -2,8 +2,8 @@
 <glyph name="ddaraprehalfdeva" format="1">
   <advance width="1020"/>
   <outline>
-    <component base="vattuviramadeva" xOffset="850"/>
-    <component base="ddadeva"/>
+    <component base="ddaradeva"/>
+    <component base="viramadeva" xOffset="750" yOffset="-139"/>
   </outline>
   <lib>
     <dict>

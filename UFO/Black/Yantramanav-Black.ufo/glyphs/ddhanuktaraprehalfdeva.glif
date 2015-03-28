@@ -3,6 +3,7 @@
   <advance width="1136"/>
   <outline>
     <component base="ddhanuktaradeva"/>
+    <component base="viramadeva" xOffset="1020" yOffset="-200"/>
   </outline>
   <lib>
     <dict>

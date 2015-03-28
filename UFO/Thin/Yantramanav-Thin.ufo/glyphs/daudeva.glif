@@ -2,7 +2,7 @@
 <glyph name="daudeva" format="1">
   <advance width="985"/>
   <outline>
-    <component base="uvowelsigndeva" xOffset="1010" yOffset="-38"/>
+    <component base="uvowelsigndeva" xOffset="1010" yOffset="-65"/>
     <component base="dadeva"/>
   </outline>
   <lib>

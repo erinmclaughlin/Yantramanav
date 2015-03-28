@@ -3,7 +3,7 @@
   <advance width="985"/>
   <outline>
     <component base="dadeva"/>
-    <component base="uuvowelsigndeva" xOffset="1031" yOffset="-42"/>
+    <component base="uuvowelsigndeva" xOffset="1031" yOffset="-70"/>
   </outline>
   <lib>
     <dict>

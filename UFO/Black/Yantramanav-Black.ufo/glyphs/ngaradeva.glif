@@ -2,10 +2,10 @@
 <glyph name="ngaradeva" format="1">
   <advance width="1337"/>
   <outline>
-    <component base="ngadeva" xOffset="-10"/>
-    <component base="vattudeva" xOffset="860"/>
+    <component base="ngadeva"/>
+    <component base="vattudeva" xOffset="870"/>
     <contour>
-      <point x="512" y="-261" type="move" name="btm"/>
+      <point x="522" y="-261" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>

@@ -3,6 +3,7 @@
   <advance width="1568"/>
   <outline>
     <component base="llaraprehalfdeva"/>
+    <component base="nuktadeva" xOffset="1010" yOffset="-60"/>
   </outline>
   <lib>
     <dict>
