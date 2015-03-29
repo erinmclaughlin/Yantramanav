@@ -20,12 +20,8 @@
 @blwb_SsaTta = [ssattadeva ssatthadeva];
 @blwb_Tta = [ttadeva tthadeva];
 @blwb_TtaTta = [ttattadeva ttavadeva ttatthadeva tthatthadeva ddaddhadeva ddaddadeva ddhaddhadeva];
-@blwm_btm = [uvowelsigndeva uuvowelsigndeva rvocalicvowelsigndeva rrvocalicvowelsigndeva viramadeva vattudeva lvocalicvowelsigndeva llvocalicvowelsigndeva anudattadeva uevowelsigndevaKSH uuevowelsigndevaKSH uvowelsignlowdeva uuvowelsignlowdeva rvocalicvowelsignlowdeva rrvocaliclowdeva lvocalicvowelsignlowdeva llvocalicvowelsignlowdeva viramalowdeva vattulowdeva];
-@blws_dflt_v = [uvowelsigndeva uuvowelsigndeva rvocalicvowelsigndeva rrvocalicvowelsigndeva viramadeva lvocalicvowelsigndeva llvocalicvowelsigndeva];
-@blws_low_c = [ttattadeva ttatthadeva ttavadeva tthatthadeva ddaddhadeva ddaddadeva ddhaddhadeva daghadeva dagadeva dabadeva dabhadeva davadeva dadhadeva dadhayadeva dadadeva ssattadeva ssatthadeva hannadeva hanadeva hamadeva hayadeva haladeva havadeva];
-@blws_low_v = [uvowelsignlowdeva uuvowelsignlowdeva rvocalicvowelsignlowdeva rrvocaliclowdeva viramalowdeva lvocalicvowelsignlowdeva llvocalicvowelsignlowdeva];
+@blwm_btm = [uvowelsigndeva uuvowelsigndeva rvocalicvowelsigndeva rrvocalicvowelsigndeva viramadeva vattudeva lvocalicvowelsigndeva llvocalicvowelsigndeva anudattadeva uevowelsigndevaKSH uuevowelsigndevaKSH];
 @blws_nuktvowels = [uvowelsigndeva uuvowelsigndeva rvocalicvowelsigndeva rrvocalicvowelsigndeva lvocalicvowelsigndeva llvocalicvowelsigndeva];
-@blws_vattu_c_1 = [ngaradeva charadeva ttaradeva ttharadeva ddaradeva ddharadeva raradeva llaradeva ddanuktaradeva ddhanuktaradeva ranuktaradeva llanuktaradeva laradevaMAR];
-@marks = [uvowelsigndeva uuvowelsigndeva rvocalicvowelsigndeva rrvocalicvowelsigndeva viramadeva vattudeva lvocalicvowelsigndeva llvocalicvowelsigndeva uevowelsigndevaKSH uuevowelsigndevaKSH nuktadeva anudattadeva uvowelsignlowdeva uuvowelsignlowdeva rvocalicvowelsignlowdeva rrvocaliclowdeva lvocalicvowelsignlowdeva llvocalicvowelsignlowdeva viramalowdeva vattulowdeva udattadeva anusvaradeva candrabindudeva candrabindusmalldeva candralongevowelsigndeva invertedcandrabindu ecandravowelsigndeva eshortvowelsigndeva evowelsigndeva aivowelsigndeva oevowelsigndevaKSH rephdeva rephanusvaradeva uni0953 uni0954 uni02BC uni0971 anusvaradeva2];
+@marks = [uvowelsigndeva uuvowelsigndeva rvocalicvowelsigndeva rrvocalicvowelsigndeva viramadeva vattudeva lvocalicvowelsigndeva llvocalicvowelsigndeva uevowelsigndevaKSH uuevowelsigndevaKSH nuktadeva anudattadeva udattadeva anusvaradeva candrabindudeva candrabindusmalldeva candralongevowelsigndeva invertedcandrabindu ecandravowelsigndeva eshortvowelsigndeva evowelsigndeva aivowelsigndeva oevowelsigndevaKSH rephdeva rephanusvaradeva uni0953 uni0954 uni02BC uni0971 anusvaradeva2];
 @nukt_0 = [nadeva radeva lladeva kadeva khadeva gadeva jadeva ddadeva ddhadeva phadeva yadeva];
 @nukt_1 = [nnnadeva rradeva llladeva qadeva khhadeva ghhadeva zadeva dddhadeva rhadeva fadeva yyadeva];

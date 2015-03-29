@@ -3,14 +3,14 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-248" y="35" type="line"/>
-      <point x="58" y="-176" type="line"/>
-      <point x="31" y="-212" type="line"/>
-      <point x="-275" y="-1" type="line"/>
-      <point x="-244" y="-1" type="line"/>
-      <point x="-552" y="-208" type="line"/>
-      <point x="-581" y="-173" type="line"/>
-      <point x="-272" y="35" type="line"/>
+      <point x="-248" y="115" type="line"/>
+      <point x="61" y="-112" type="line"/>
+      <point x="34" y="-147" type="line"/>
+      <point x="-275" y="81" type="line"/>
+      <point x="-243" y="81" type="line"/>
+      <point x="-543" y="-147" type="line"/>
+      <point x="-571" y="-113" type="line"/>
+      <point x="-272" y="115" type="line"/>
     </contour>
     <contour>
       <point x="-322.0" y="-18.0" type="move" name="_btm"/>

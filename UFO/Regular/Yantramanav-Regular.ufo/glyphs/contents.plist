@@ -826,8 +826,6 @@
 	<string>llvocalicdeva.glif</string>
 	<key>llvocalicvowelsigndeva</key>
 	<string>llvocalicvowelsigndeva.glif</string>
-	<key>llvocalicvowelsignlowdeva</key>
-	<string>llvocalicvowelsignlowdeva.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lozenge</key>
@@ -838,8 +836,6 @@
 	<string>lvocalicdeva.glif</string>
 	<key>lvocalicvowelsigndeva</key>
 	<string>lvocalicvowelsigndeva.glif</string>
-	<key>lvocalicvowelsignlowdeva</key>
-	<string>lvocalicvowelsignlowdeva.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
 	<key>macron</key>
@@ -1106,16 +1102,12 @@
 	<string>rradeva.glif</string>
 	<key>rrvocalicdeva</key>
 	<string>rrvocalicdeva.glif</string>
-	<key>rrvocaliclowdeva</key>
-	<string>rrvocaliclowdeva.glif</string>
 	<key>rrvocalicvowelsigndeva</key>
 	<string>rrvocalicvowelsigndeva.glif</string>
 	<key>rvocalicdeva</key>
 	<string>rvocalicdeva.glif</string>
 	<key>rvocalicvowelsigndeva</key>
 	<string>rvocalicvowelsigndeva.glif</string>
-	<key>rvocalicvowelsignlowdeva</key>
-	<string>rvocalicvowelsignlowdeva.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -1314,12 +1306,8 @@
 	<string>uuevowelsigndevaKSH_.glif</string>
 	<key>uuvowelsigndeva</key>
 	<string>uuvowelsigndeva.glif</string>
-	<key>uuvowelsignlowdeva</key>
-	<string>uuvowelsignlowdeva.glif</string>
 	<key>uvowelsigndeva</key>
 	<string>uvowelsigndeva.glif</string>
-	<key>uvowelsignlowdeva</key>
-	<string>uvowelsignlowdeva.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>vadeva</key>
@@ -1332,12 +1320,8 @@
 	<string>varaprehalfdeva.glif</string>
 	<key>vattudeva</key>
 	<string>vattudeva.glif</string>
-	<key>vattulowdeva</key>
-	<string>vattulowdeva.glif</string>
 	<key>viramadeva</key>
 	<string>viramadeva.glif</string>
-	<key>viramalowdeva</key>
-	<string>viramalowdeva.glif</string>
 	<key>visargadeva</key>
 	<string>visargadeva.glif</string>
 	<key>w</key>

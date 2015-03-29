@@ -4,7 +4,7 @@
   <outline>
     <component base="vattuviramadeva" xOffset="1010"/>
     <component base="charadeva"/>
-    <component base="viramadeva" xOffset="910" yOffset="-140"/>
+    <component base="viramadeva" xOffset="910" yOffset="-130"/>
   </outline>
   <lib>
     <dict>

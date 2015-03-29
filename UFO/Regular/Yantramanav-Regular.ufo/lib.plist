@@ -13,9 +13,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/ttf/unhinted/Yantramanav-Regular.ttf</string>
+	<string>/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/otf/Yantramanav-Regular1a.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>

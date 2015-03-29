@@ -856,14 +856,6 @@
 	</array>
 	<key>blwm_markslow</key>
 	<array>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
-		<string>viramalowdeva</string>
-		<string>vattulowdeva</string>
 	</array>
 	<key>blws_dflt_v</key>
 	<array>
@@ -902,13 +894,6 @@
 	</array>
 	<key>blws_low_v</key>
 	<array>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>viramalowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
 	</array>
 	<key>blws_low_vattu_0</key>
 	<array>
@@ -916,7 +901,6 @@
 	</array>
 	<key>blws_low_vattu_1</key>
 	<array>
-		<string>vattulowdeva</string>
 	</array>
 	<key>blws_nuktvowels</key>
 	<array>
@@ -971,13 +955,6 @@
 	</array>
 	<key>blws_vattu_1</key>
 	<array>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>viramalowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
 	</array>
 	<key>blws_vattu_c_0</key>
 	<array>
@@ -1681,14 +1658,6 @@
 		<string>uuevowelsigndevaKSH</string>
 		<string>nuktadeva</string>
 		<string>anudattadeva</string>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
-		<string>viramalowdeva</string>
-		<string>vattulowdeva</string>
 		<string>udattadeva</string>
 		<string>anusvaradeva</string>
 		<string>candrabindudeva</string>

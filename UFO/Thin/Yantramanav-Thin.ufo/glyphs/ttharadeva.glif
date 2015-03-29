@@ -3,7 +3,7 @@
   <advance width="1126"/>
   <outline>
     <component base="tthadeva"/>
-    <component base="vattudeva" xOffset="810"/>
+    <component base="vattudeva" xOffset="850"/>
     <contour>
       <point x="569" y="-253" type="move" name="btm"/>
     </contour>

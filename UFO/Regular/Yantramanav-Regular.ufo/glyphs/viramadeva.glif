@@ -6,8 +6,8 @@
     <contour>
       <point x="-394" y="-91" type="line"/>
       <point x="78" y="-342" type="line"/>
-      <point x="0" y="-469" type="line"/>
-      <point x="-469" y="-223" type="line"/>
+      <point x="6" y="-469" type="line"/>
+      <point x="-467" y="-221" type="line"/>
     </contour>
     <contour>
       <point x="-370" y="12" type="move" name="_btm"/>

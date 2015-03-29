@@ -16,6 +16,7 @@ feature abvs {
             lookup AbvsAnusvara2 {
                 
                 sub @abvb_anus2 anusvaradeva' by anusvaradeva2;
+                sub @abvb_anus2 candrabindudeva' by candrabindusmalldeva;
 
             } AbvsAnusvara2;
             
@@ -51,18 +52,6 @@ feature blws {
                 sub hadeva rrvocalicvowelsigndeva by harrvocalicdeva;
            
             } VowelLiga;
-
-            lookup VattuLowVowels { #testing new option 
-                # ttaradeva  uvowelsigndeva' by vattuudeva
-                sub @blws_vattu_c_1 @blws_dflt_v' by @blws_low_v;
-
-            } VattuLowVowels;
-            
-            lookup VowelsLow {    
-                #  ttattadeva  uvowelsigndeva' by uvowelsignlowdeva
-                sub @blws_low_c @blws_dflt_v' by @blws_low_v; 
-
-            } VowelsLow;
 
 } blws;
 
