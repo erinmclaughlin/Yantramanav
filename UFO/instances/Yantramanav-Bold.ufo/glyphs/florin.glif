@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="664"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="615" y="746" type="line"/>
+      <point x="426" y="746" type="line"/>
+      <point x="425" y="-92" type="line"/>
+      <point x="424" y="-256"/>
+      <point x="253" y="-437"/>
+      <point x="96" y="-437" type="qcurve" smooth="yes"/>
+      <point x="60" y="-437" name="inserted"/>
+      <point x="-5" y="-429"/>
+      <point x="-34" y="-422" type="qcurve"/>
+      <point x="-20" y="-224" type="line"/>
+      <point x="-5" y="-229" name="inserted"/>
+      <point x="36" y="-235"/>
+      <point x="61" y="-235" type="qcurve" smooth="yes"/>
+      <point x="115" y="-235"/>
+      <point x="165" y="-167"/>
+      <point x="165" y="-93" type="qcurve" smooth="yes"/>
+      <point x="165" y="746" type="line"/>
+      <point x="21" y="746" type="line"/>
+      <point x="21" y="930" type="line"/>
+      <point x="165" y="930" type="line"/>
+      <point x="165" y="1018" type="line"/>
+      <point x="166" y="1180"/>
+      <point x="352" y="1358"/>
+      <point x="525" y="1358" type="qcurve" smooth="yes"/>
+      <point x="554" y="1358" name="inserted"/>
+      <point x="626" y="1348"/>
+      <point x="668" y="1339" type="qcurve"/>
+      <point x="646" y="1145" type="line"/>
+      <point x="627" y="1149" name="inserted"/>
+      <point x="582" y="1154"/>
+      <point x="556" y="1154" type="qcurve" smooth="yes"/>
+      <point x="492" y="1154"/>
+      <point x="426" y="1085"/>
+      <point x="426" y="1016" type="qcurve" smooth="yes"/>
+      <point x="426" y="930" type="line"/>
+      <point x="615" y="930" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

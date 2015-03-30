@@ -2,57 +2,13 @@
 <glyph name="ddharaprehalfdeva" format="1">
   <advance width="1049"/>
   <outline>
-    <component base="vattuviramadeva" xOffset="910"/>
-    <component base="ddhadeva"/>
+    <component base="ddharadeva"/>
+    <component base="viramadeva" xOffset="875" yOffset="-95"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ddharaprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1084</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ddharaprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1084</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>

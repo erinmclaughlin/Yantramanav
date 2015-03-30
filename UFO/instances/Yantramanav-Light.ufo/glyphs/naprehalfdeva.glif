@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naprehalfdeva" format="1">
-  <advance width="653"/>
+  <advance width="642"/>
   <outline>
     <contour>
       <point x="-30" y="1188" type="line"/>
       <point x="-30" y="1276" type="line"/>
-      <point x="727" y="1276" type="line"/>
-      <point x="727" y="1188" type="line"/>
+      <point x="721" y="1276" type="line"/>
+      <point x="721" y="1188" type="line"/>
     </contour>
     <contour>
-      <point x="293" y="519" type="line"/>
-      <point x="293" y="466"/>
-      <point x="259" y="422"/>
-      <point x="227" y="422" type="qcurve" smooth="yes"/>
-      <point x="185" y="422"/>
-      <point x="107" y="559"/>
-      <point x="107" y="654" type="qcurve" smooth="yes"/>
-      <point x="107" y="700"/>
-      <point x="164" y="752"/>
-      <point x="229" y="752" type="qcurve" smooth="yes"/>
-      <point x="868" y="752" type="line"/>
-      <point x="868" y="662" type="line"/>
-      <point x="247" y="662" type="line"/>
-      <point x="293" y="703" type="line"/>
+      <point x="293" y="490" type="line"/>
+      <point x="293" y="438"/>
+      <point x="259" y="394"/>
+      <point x="227" y="394" type="qcurve" smooth="yes"/>
+      <point x="185" y="394"/>
+      <point x="107" y="531"/>
+      <point x="107" y="625" type="qcurve" smooth="yes"/>
+      <point x="107" y="672"/>
+      <point x="164" y="724"/>
+      <point x="229" y="724" type="qcurve" smooth="yes"/>
+      <point x="850" y="724" type="line"/>
+      <point x="850" y="633" type="line"/>
+      <point x="247" y="633" type="line"/>
+      <point x="293" y="674" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,50 +44,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>naprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>693</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>naprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>693</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

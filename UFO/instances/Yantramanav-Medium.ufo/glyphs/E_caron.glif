@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="1">
+  <advance width="1043"/>
+  <unicode hex="011A"/>
+  <outline>
+    <component base="E" xOffset="-14"/>
+    <component base="caron" xOffset="151" yOffset="319"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

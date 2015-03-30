@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="821"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="551" y="704" type="line"/>
+      <point x="547" y="718" name="inserted"/>
+      <point x="539" y="750"/>
+      <point x="536" y="767" type="qcurve"/>
+      <point x="501" y="729"/>
+      <point x="410" y="691"/>
+      <point x="352" y="691" type="qcurve" smooth="yes"/>
+      <point x="246" y="691"/>
+      <point x="128" y="803"/>
+      <point x="128" y="895" type="qcurve" smooth="yes"/>
+      <point x="128" y="995"/>
+      <point x="279" y="1103"/>
+      <point x="434" y="1103" type="qcurve" smooth="yes"/>
+      <point x="530" y="1103" type="line"/>
+      <point x="530" y="1150" type="line"/>
+      <point x="530" y="1210"/>
+      <point x="475" y="1270"/>
+      <point x="420" y="1270" type="qcurve" smooth="yes"/>
+      <point x="360" y="1270"/>
+      <point x="290" y="1222"/>
+      <point x="290" y="1176" type="qcurve"/>
+      <point x="142" y="1188" type="line"/>
+      <point x="142" y="1281"/>
+      <point x="298" y="1398"/>
+      <point x="420" y="1398" type="qcurve" smooth="yes"/>
+      <point x="541" y="1398"/>
+      <point x="680" y="1269"/>
+      <point x="680" y="1148" type="qcurve" smooth="yes"/>
+      <point x="680" y="864" type="line"/>
+      <point x="680" y="820" name="inserted"/>
+      <point x="692" y="740"/>
+      <point x="703" y="704" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="389" y="816" type="qcurve" smooth="yes"/>
+      <point x="427" y="816"/>
+      <point x="505" y="851"/>
+      <point x="530" y="875" type="qcurve"/>
+      <point x="530" y="1001" type="line"/>
+      <point x="431" y="1001" type="line"/>
+      <point x="358" y="1001" name="inserted"/>
+      <point x="278" y="945"/>
+      <point x="278" y="899" type="qcurve" smooth="yes"/>
+      <point x="278" y="858" name="inserted"/>
+      <point x="334" y="816"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

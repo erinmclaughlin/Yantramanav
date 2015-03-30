@@ -11,32 +11,32 @@
     <contour>
       <point x="150" y="1129" type="qcurve"/>
       <point x="459" y="1129" type="line"/>
-      <point x="513" y="1088"/>
-      <point x="581" y="958"/>
-      <point x="581" y="884" type="qcurve" smooth="yes"/>
-      <point x="581" y="757"/>
-      <point x="398" y="587"/>
-      <point x="264" y="587" type="qcurve"/>
-      <point x="302" y="690" type="line"/>
-      <point x="335" y="576"/>
-      <point x="490" y="456"/>
-      <point x="582" y="456" type="qcurve" smooth="yes"/>
-      <point x="681" y="456"/>
+      <point x="509" y="1092"/>
+      <point x="578" y="960"/>
+      <point x="578" y="886" type="qcurve" smooth="yes"/>
+      <point x="578" y="757"/>
+      <point x="395" y="589"/>
+      <point x="263" y="586" type="qcurve"/>
+      <point x="301" y="690" type="line"/>
+      <point x="336" y="573"/>
+      <point x="494" y="457"/>
+      <point x="586" y="457" type="qcurve" smooth="yes"/>
+      <point x="687" y="457"/>
       <point x="845" y="554"/>
       <point x="924" y="679" type="qcurve"/>
       <point x="1043" y="480" type="line"/>
       <point x="973" y="373"/>
-      <point x="755" y="244"/>
-      <point x="601" y="244" type="qcurve" smooth="yes"/>
-      <point x="416" y="244"/>
-      <point x="96" y="486"/>
+      <point x="758" y="244"/>
+      <point x="605" y="244" type="qcurve" smooth="yes"/>
+      <point x="420" y="244"/>
+      <point x="102" y="476"/>
       <point x="31" y="694" type="qcurve"/>
       <point x="36" y="727" type="line"/>
       <point x="177" y="740"/>
-      <point x="317" y="840"/>
-      <point x="317" y="918" type="qcurve" smooth="yes"/>
-      <point x="317" y="981"/>
-      <point x="246" y="1087"/>
+      <point x="318" y="839"/>
+      <point x="318" y="919" type="qcurve" smooth="yes"/>
+      <point x="318" y="982"/>
+      <point x="243" y="1090"/>
     </contour>
   </outline>
   <lib>
@@ -58,50 +58,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>yaprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>788</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>yaprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>788</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

@@ -5,9 +5,9 @@
     <contour>
       <point x="490" y="-131" type="line"/>
       <point x="254" y="169" type="line"/>
-      <point x="350" y="131" type="line"/>
-      <point x="283" y="131" type="line"/>
-      <point x="193" y="131"/>
+      <point x="350" y="132" type="line"/>
+      <point x="283" y="132" type="line"/>
+      <point x="193" y="132"/>
       <point x="65" y="190"/>
       <point x="65" y="236" type="qcurve" smooth="yes"/>
       <point x="65" y="282"/>
@@ -31,12 +31,12 @@
       <point x="388" y="768" type="line"/>
       <point x="389" y="816" type="line"/>
       <point x="506" y="800"/>
-      <point x="691" y="610"/>
-      <point x="691" y="477" type="qcurve" smooth="yes"/>
-      <point x="691" y="320"/>
-      <point x="497" y="135"/>
-      <point x="339" y="135" type="qcurve" smooth="yes"/>
-      <point x="292" y="135"/>
+      <point x="692" y="610"/>
+      <point x="692" y="477" type="qcurve" smooth="yes"/>
+      <point x="692" y="320"/>
+      <point x="492" y="136"/>
+      <point x="338" y="136" type="qcurve" smooth="yes"/>
+      <point x="291" y="136"/>
       <point x="192" y="163"/>
       <point x="122" y="197" type="qcurve"/>
       <point x="137" y="265" type="line"/>
@@ -81,50 +81,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>janyadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1468</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>janyadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1468</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>

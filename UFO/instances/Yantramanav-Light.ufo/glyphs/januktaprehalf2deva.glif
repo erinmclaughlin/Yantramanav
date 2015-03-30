@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="januktaprehalf2deva" format="1">
+  <advance width="884"/>
+  <outline>
+    <component base="nuktadeva" xOffset="983" yOffset="-79"/>
+    <component base="japrehalf2deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.974</real>
+        <real>0.577</real>
+        <real>1.0</real>
+      </array>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>1</integer>
+    </dict>
+  </lib>
+</glyph>

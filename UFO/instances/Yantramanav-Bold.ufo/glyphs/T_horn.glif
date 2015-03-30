@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="1123"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="380" y="1310" type="line"/>
+      <point x="380" y="1068" type="line"/>
+      <point x="586" y="1068" type="line"/>
+      <point x="732" y="1067"/>
+      <point x="949" y="968"/>
+      <point x="1007" y="876" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1036" y="830" name="inserted"/>
+      <point x="1064" y="724"/>
+      <point x="1064" y="664" type="qcurve" smooth="yes"/>
+      <point x="1064" y="481"/>
+      <point x="806" y="262"/>
+      <point x="584" y="260" type="qcurve" smooth="yes"/>
+      <point x="380" y="260" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="1310" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="865" type="line"/>
+      <point x="380" y="463" type="line"/>
+      <point x="581" y="463" type="line"/>
+      <point x="685" y="463"/>
+      <point x="804" y="570"/>
+      <point x="804" y="662" type="qcurve" smooth="yes"/>
+      <point x="804" y="756"/>
+      <point x="685" y="865"/>
+      <point x="584" y="865" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

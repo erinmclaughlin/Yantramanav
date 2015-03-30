@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="1">
+  <advance width="1012"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n" xOffset="-16"/>
+    <component base="tilde" xOffset="127" yOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

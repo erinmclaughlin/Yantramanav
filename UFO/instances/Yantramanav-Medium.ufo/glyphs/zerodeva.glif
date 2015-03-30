@@ -46,9 +46,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>530</integer>
+          <integer>58</integer>
           <key>y</key>
-          <integer>577</integer>
+          <integer>1116</integer>
         </dict>
         <dict>
           <key>angle</key>
@@ -60,57 +60,13 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>902</integer>
+          <integer>569</integer>
           <key>y</key>
-          <integer>845</integer>
+          <integer>1114</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>zerodeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1157</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>zerodeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1157</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>210</integer>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="457"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="301" y="-40" type="line"/>
+      <point x="207" y="-101"/>
+      <point x="140" y="-191"/>
+      <point x="140" y="-237" type="qcurve" smooth="yes"/>
+      <point x="140" y="-277" name="inserted"/>
+      <point x="178" y="-316"/>
+      <point x="217" y="-316" type="qcurve" smooth="yes"/>
+      <point x="240" y="-316" name="inserted"/>
+      <point x="285" y="-301"/>
+      <point x="308" y="-286" type="qcurve"/>
+      <point x="327" y="-352" type="line"/>
+      <point x="300" y="-372" name="inserted"/>
+      <point x="240" y="-392"/>
+      <point x="206" y="-392" type="qcurve" smooth="yes"/>
+      <point x="137" y="-392"/>
+      <point x="55" y="-318"/>
+      <point x="55" y="-245" type="qcurve" smooth="yes"/>
+      <point x="55" y="-187" name="inserted"/>
+      <point x="145" y="-71"/>
+      <point x="235" y="-14" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

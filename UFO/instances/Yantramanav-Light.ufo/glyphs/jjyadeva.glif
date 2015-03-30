@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="842" y="503" type="line"/>
-      <point x="782" y="455" type="line"/>
-      <point x="321" y="1175" type="line"/>
+      <point x="780" y="455" type="line"/>
+      <point x="320" y="1175" type="line"/>
       <point x="374" y="1228" type="line"/>
     </contour>
     <component base="yadeva"/>
@@ -33,50 +33,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>jjyadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1270</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>jjyadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1270</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>

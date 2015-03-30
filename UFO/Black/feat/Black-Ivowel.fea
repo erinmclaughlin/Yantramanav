@@ -9,14 +9,14 @@
 
             lookup IVowelHalfHalfHalfHalfCons { 
 
-                 sub ivowelsigndeva' [@ih_05_yaha @ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ic_09 @ic_10] by ivowelsign13deva;
+                 sub ivowelsigndeva' [@ih_05_yaha @ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ic_02 @ic_03 @ic_04 @ic_05 @ic_06 @ic_09 @ic_10] by ivowelsign13deva;
    
             } IVowelHalfHalfHalfHalfCons;   
             
 
             lookup IVowelHalfHalfHalfCons { 
 
-                 sub ivowelsigndeva' [@ih_05_yaha @ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ic_09 @ic_10] by ivowelsign13deva;
+                 sub ivowelsigndeva' [@ih_05_yaha @ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ih_06 @ih_07 @ih_08 @ih_09 @ih_10] [@ic_02 @ic_03 @ic_04 @ic_05 @ic_06 @ic_09 @ic_10] by ivowelsign13deva;
    
             } IVowelHalfHalfHalfCons; 
                     

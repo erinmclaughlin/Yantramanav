@@ -9,20 +9,20 @@
       <point x="751" y="1119" type="line"/>
     </contour>
     <contour>
-      <point x="377" y="449" type="line"/>
-      <point x="377" y="386"/>
-      <point x="322" y="320"/>
-      <point x="267" y="320" type="qcurve" smooth="yes"/>
-      <point x="189" y="320"/>
-      <point x="60" y="507"/>
-      <point x="60" y="623" type="qcurve" smooth="yes"/>
-      <point x="60" y="696"/>
-      <point x="149" y="781"/>
-      <point x="247" y="781" type="qcurve" smooth="yes"/>
-      <point x="916" y="781" type="line"/>
-      <point x="916" y="602" type="line"/>
-      <point x="295" y="602" type="line"/>
-      <point x="377" y="656" type="line"/>
+      <point x="377" y="437" type="line"/>
+      <point x="377" y="374"/>
+      <point x="322" y="308"/>
+      <point x="267" y="308" type="qcurve" smooth="yes"/>
+      <point x="189" y="308"/>
+      <point x="60" y="495"/>
+      <point x="60" y="611" type="qcurve" smooth="yes"/>
+      <point x="60" y="684"/>
+      <point x="149" y="769"/>
+      <point x="247" y="769" type="qcurve" smooth="yes"/>
+      <point x="916" y="769" type="line"/>
+      <point x="916" y="590" type="line"/>
+      <point x="295" y="590" type="line"/>
+      <point x="377" y="644" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,50 +44,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>naprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>693</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>naprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>693</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

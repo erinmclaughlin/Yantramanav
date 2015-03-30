@@ -9,20 +9,20 @@
       <point x="782" y="1076" type="line"/>
     </contour>
     <contour>
-      <point x="434" y="418" type="line" smooth="yes"/>
-      <point x="434" y="350"/>
-      <point x="367" y="265"/>
-      <point x="300" y="265" type="qcurve" smooth="yes"/>
-      <point x="194" y="265"/>
-      <point x="31" y="509"/>
-      <point x="31" y="638" type="qcurve" smooth="yes"/>
-      <point x="31" y="735"/>
-      <point x="141" y="844"/>
-      <point x="260" y="844" type="qcurve" smooth="yes"/>
-      <point x="940" y="844" type="line"/>
-      <point x="940" y="588" type="line"/>
-      <point x="329" y="588" type="line" smooth="yes"/>
-      <point x="434" y="638" type="line"/>
+      <point x="434" y="378" type="line" smooth="yes"/>
+      <point x="434" y="310"/>
+      <point x="367" y="225"/>
+      <point x="300" y="225" type="qcurve" smooth="yes"/>
+      <point x="194" y="225"/>
+      <point x="31" y="469"/>
+      <point x="31" y="598" type="qcurve" smooth="yes"/>
+      <point x="31" y="695"/>
+      <point x="141" y="804"/>
+      <point x="260" y="804" type="qcurve" smooth="yes"/>
+      <point x="940" y="804" type="line"/>
+      <point x="940" y="548" type="line"/>
+      <point x="329" y="548" type="line" smooth="yes"/>
+      <point x="434" y="598" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,28 +44,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>naprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>693</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

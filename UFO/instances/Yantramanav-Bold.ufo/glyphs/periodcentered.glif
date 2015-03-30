@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="555"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="240" y="787" type="qcurve" smooth="yes"/>
+      <point x="289" y="801"/>
+      <point x="370" y="762"/>
+      <point x="386" y="717" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="403" y="673"/>
+      <point x="357" y="596"/>
+      <point x="307" y="582" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="259" y="568"/>
+      <point x="177" y="608"/>
+      <point x="160" y="652" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="144" y="697"/>
+      <point x="191" y="773"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

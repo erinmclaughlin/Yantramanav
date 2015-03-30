@@ -8,8 +8,8 @@
     <data name="horizontalPreviewAxis" value="weight"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="/Users/erinmclaughlin/Desktop/_Google ROBOTO/Roboto/UFO/instances"/>
-    <data name="previewtext" value="/aadeva/nadeva Ho/kadeva"/>
+    <data name="generateFontsAtFolder" value="/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/UFO/instances"/>
+    <data name="previewtext" value="/aadeva/japrehalf2deva/nadeva Ho/kadeva"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="1">
+  <advance width="1261"/>
+  <unicode hex="011E"/>
+  <outline>
+    <component base="G" xOffset="-15"/>
+    <component base="breve" xOffset="247" yOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

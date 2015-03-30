@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="1225"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="581" type="line"/>
+      <point x="-8" y="581" type="line"/>
+      <point x="-8" y="740" type="line"/>
+      <point x="143" y="740" type="line"/>
+      <point x="143" y="1310" type="line"/>
+      <point x="548" y="1310" type="line"/>
+      <point x="721" y="1310"/>
+      <point x="994" y="1155"/>
+      <point x="1070" y="1013" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1108" y="942" name="inserted"/>
+      <point x="1146" y="781"/>
+      <point x="1147" y="692" type="qcurve" smooth="yes"/>
+      <point x="1147" y="623" type="line"/>
+      <point x="1147" y="441"/>
+      <point x="998" y="158"/>
+      <point x="860" y="80" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="792" y="40" name="inserted"/>
+      <point x="638" y="0"/>
+      <point x="552" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="622" y="581" type="line"/>
+      <point x="413" y="581" type="line"/>
+      <point x="413" y="210" type="line"/>
+      <point x="546" y="210" type="line"/>
+      <point x="703" y="210"/>
+      <point x="873" y="421"/>
+      <point x="873" y="622" type="qcurve" smooth="yes"/>
+      <point x="873" y="688" type="line"/>
+      <point x="873" y="889"/>
+      <point x="707" y="1099"/>
+      <point x="550" y="1100" type="qcurve" smooth="yes"/>
+      <point x="413" y="1100" type="line"/>
+      <point x="413" y="740" type="line"/>
+      <point x="622" y="740" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

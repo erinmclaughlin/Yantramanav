@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="1144"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <component base="A" xOffset="-3"/>
+    <component base="tilde" xOffset="202" yOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

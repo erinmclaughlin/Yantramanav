@@ -14,8 +14,8 @@
       <point x="434" y="-20" type="line"/>
       <point x="391" y="-25" type="line"/>
       <point x="729" y="247" type="line"/>
-      <point x="785" y="183" type="line"/>
-      <point x="442" y="-102" type="line"/>
+      <point x="785" y="184" type="line"/>
+      <point x="442" y="-101" type="line"/>
       <point x="466" y="-54" type="line"/>
       <point x="493" y="-89" type="line"/>
       <point x="505" y="-105"/>
@@ -72,50 +72,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dabhadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1169</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dabhadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1169</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>

@@ -3,32 +3,32 @@
   <advance width="1160"/>
   <outline>
     <contour>
-      <point x="533" y="771" type="line"/>
-      <point x="563" y="799"/>
-      <point x="685" y="848"/>
-      <point x="755" y="848" type="qcurve" smooth="yes"/>
-      <point x="876" y="848"/>
-      <point x="1030" y="700"/>
-      <point x="1030" y="583" type="qcurve" smooth="yes"/>
-      <point x="1030" y="506"/>
-      <point x="971" y="361"/>
-      <point x="932" y="313" type="qcurve"/>
-      <point x="837" y="329" type="line"/>
-      <point x="880" y="388"/>
-      <point x="932" y="521"/>
-      <point x="932" y="582" type="qcurve" smooth="yes"/>
-      <point x="932" y="665"/>
-      <point x="830" y="760"/>
-      <point x="752" y="760" type="qcurve" smooth="yes"/>
-      <point x="690" y="760"/>
-      <point x="572" y="698"/>
-      <point x="533" y="653" type="qcurve"/>
+      <point x="529" y="770" type="line"/>
+      <point x="559" y="798"/>
+      <point x="681" y="848"/>
+      <point x="751" y="848" type="qcurve" smooth="yes"/>
+      <point x="872" y="848"/>
+      <point x="1026" y="700"/>
+      <point x="1026" y="583" type="qcurve" smooth="yes"/>
+      <point x="1026" y="506"/>
+      <point x="967" y="361"/>
+      <point x="928" y="313" type="qcurve"/>
+      <point x="834" y="333" type="line"/>
+      <point x="878" y="392"/>
+      <point x="928" y="521"/>
+      <point x="928" y="582" type="qcurve" smooth="yes"/>
+      <point x="928" y="665"/>
+      <point x="826" y="760"/>
+      <point x="748" y="760" type="qcurve" smooth="yes"/>
+      <point x="685" y="760"/>
+      <point x="568" y="698"/>
+      <point x="529" y="653" type="qcurve"/>
     </contour>
     <contour>
-      <point x="513" y="1188" type="line"/>
-      <point x="513" y="1276" type="line"/>
-      <point x="1190" y="1276" type="line"/>
-      <point x="1190" y="1188" type="line"/>
+      <point x="509" y="1188" type="line"/>
+      <point x="509" y="1276" type="line"/>
+      <point x="1186" y="1276" type="line"/>
+      <point x="1186" y="1188" type="line"/>
     </contour>
     <component base="radeva"/>
     <contour>
@@ -39,50 +39,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>raudeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1278</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>raudeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1278</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>

@@ -9,11 +9,11 @@
       <point x="785" y="1119" type="line"/>
     </contour>
     <contour>
-      <point x="932" y="880" type="line"/>
-      <point x="932" y="706" type="line"/>
-      <point x="568" y="706" type="line"/>
-      <point x="436" y="706"/>
-      <point x="303" y="570"/>
+      <point x="932" y="873" type="line"/>
+      <point x="932" y="699" type="line"/>
+      <point x="568" y="699" type="line"/>
+      <point x="429" y="699"/>
+      <point x="303" y="571"/>
       <point x="303" y="466" type="qcurve" smooth="yes"/>
       <point x="303" y="372"/>
       <point x="382" y="176"/>
@@ -22,9 +22,9 @@
       <point x="197" y="111"/>
       <point x="88" y="376"/>
       <point x="89" y="503" type="qcurve" smooth="yes"/>
-      <point x="90" y="670"/>
-      <point x="310" y="880"/>
-      <point x="517" y="880" type="qcurve" smooth="yes"/>
+      <point x="90" y="668"/>
+      <point x="310" y="873"/>
+      <point x="517" y="873" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -46,50 +46,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>taprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>700</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>taprehalfdeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>700</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

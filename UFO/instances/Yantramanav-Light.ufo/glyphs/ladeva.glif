@@ -71,71 +71,29 @@
           <key>magnetic</key>
           <integer>5</integer>
           <key>x</key>
-          <integer>1054</integer>
+          <integer>1037</integer>
           <key>y</key>
-          <integer>594</integer>
+          <integer>1106</integer>
         </dict>
         <dict>
           <key>angle</key>
           <integer>0</integer>
           <key>isGlobal</key>
-          <false/>
+          <integer>0</integer>
           <key>magnetic</key>
           <integer>5</integer>
           <key>name</key>
           <string></string>
+          <key>showMeasurements</key>
+          <integer>1</integer>
           <key>x</key>
-          <integer>1264</integer>
+          <integer>821</integer>
           <key>y</key>
-          <integer>-65</integer>
+          <integer>581</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ladeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1629</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ladeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1629</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>210</integer>

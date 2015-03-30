@@ -5,8 +5,8 @@
     <contour>
       <point x="-424" y="-91" type="line"/>
       <point x="71" y="-339" type="line"/>
-      <point x="-14" y="-485" type="line"/>
-      <point x="-505" y="-241" type="line"/>
+      <point x="-9" y="-485" type="line"/>
+      <point x="-504" y="-240" type="line"/>
     </contour>
     <contour>
       <point x="-370" y="12" type="move" name="_btm"/>
@@ -16,50 +16,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>viramadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>0</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>viramadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>0</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>210</integer>

@@ -4,10 +4,10 @@
   <unicode hex="0937"/>
   <outline>
     <contour>
-      <point x="723" y="591" type="line"/>
+      <point x="726" y="591" type="line"/>
       <point x="628" y="512" type="line"/>
       <point x="276" y="1150" type="line"/>
-      <point x="370" y="1225" type="line"/>
+      <point x="373" y="1225" type="line"/>
     </contour>
     <component base="padeva"/>
     <contour>
@@ -33,50 +33,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ssadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1153</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ssadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1153</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>210</integer>

@@ -3,10 +3,10 @@
   <advance width="1170"/>
   <outline>
     <contour>
-      <point x="789" y="676" type="line"/>
+      <point x="792" y="676" type="line"/>
       <point x="729" y="631" type="line"/>
       <point x="268" y="1209" type="line"/>
-      <point x="327" y="1251" type="line"/>
+      <point x="330" y="1251" type="line"/>
     </contour>
     <contour>
       <point x="1200" y="1188" type="line"/>
@@ -84,50 +84,6 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>layer0</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ssattadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1263</integer>
-        </dict>
-        <key>layer1</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ssattadeva</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1263</integer>
-        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>
