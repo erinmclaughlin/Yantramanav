@@ -10,7 +10,7 @@ Yantramanav will be available for free via the Google Web Fonts project.
 Feel free to contact me at hello@erinmclaughlin.com with comments or questions.
 
 
-![Screenshot of a test]()</a>
+![Screenshot of a test](https://github.com/erinmclaughlin/Yantramanav/blob/master/Yantramanav_sm_preview.png)</a>
 
 ##Version 1.000
 * 6 weights: Black, Bold, Medium, Regular, Light, Thin
