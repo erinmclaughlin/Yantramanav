@@ -13,9 +13,9 @@
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/ttf/unhinted/Yantramanav-Black.ttf</string>
+	<string>/Users/erinmclaughlin/Desktop/_Google ROBOTO/Yantramanav/otf/Yantramanav-Blacknolow.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -30,8 +30,16 @@
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.layer1.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>layer1</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>qcurve</string>
@@ -168,14 +176,6 @@
 				<string>uuevowelsigndevaKSH</string>
 				<string>nuktadeva</string>
 				<string>anudattadeva</string>
-				<string>uvowelsignlowdeva</string>
-				<string>uuvowelsignlowdeva</string>
-				<string>rvocalicvowelsignlowdeva</string>
-				<string>rrvocaliclowdeva</string>
-				<string>lvocalicvowelsignlowdeva</string>
-				<string>llvocalicvowelsignlowdeva</string>
-				<string>viramalowdeva</string>
-				<string>vattulowdeva</string>
 				<string>udattadeva</string>
 				<string>anusvaradeva</string>
 				<string>anusvaradeva2</string>
@@ -267,6 +267,9 @@
 				<string>yanuktaprehalfdeva</string>
 				<string>ranuktaprehalfdeva</string>
 				<string>llanuktaprehalfdeva</string>
+				<string>japrehalf2deva</string>
+				<string>taprehalf2deva</string>
+				<string>januktaprehalf2deva</string>
 				<string>karadeva</string>
 				<string>kharadeva</string>
 				<string>garadeva</string>
@@ -406,7 +409,7 @@
 				<string>damadeva</string>
 				<string>dayadeva</string>
 				<string>dayaprehalfdeva</string>
-				<string>sharadeva.copy_1</string>
+				<string>sharvocalicvowelsigndeva</string>
 				<string>ssattadeva</string>
 				<string>ssatthadeva</string>
 				<string>hannadeva</string>
@@ -740,6 +743,62 @@
 	</array>
 	<key>com.typesupply.MetricsMachine4.groupColors</key>
 	<dict>
+		<key>@MMK_L_A</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_C</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_D</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_E</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_G</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_I</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_K</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_L</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_L_C</key>
 		<array>
 			<real>1.0</real>
@@ -831,20 +890,6 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_L_L_Ra</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_L_Rr</key>
-		<array>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
 		<key>@MMK_L_L_S</key>
 		<array>
 			<real>0.0</real>
@@ -881,6 +926,181 @@
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_L_quoteleft</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_O</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_R</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_S</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_T</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_U</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_Y</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_Z</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_a</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_c</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_e</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_g</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_i</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_k</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_l</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_n</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_o</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_r</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_s</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_t</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_u</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_y</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_z</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_A</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_I</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_O</key>
 		<array>
 			<real>1.0</real>
 			<real>0.0</real>
@@ -1090,6 +1310,132 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_S</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_T</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_U</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Y</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Z</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_a</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_c</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_d</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_e</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_g</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_i</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_l</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_o</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_s</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_t</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_u</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_y</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_z</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 	</dict>
 	<key>public.glyphOrder</key>
 	<array>
@@ -1219,14 +1565,6 @@
 		<string>uuevowelsigndevaKSH</string>
 		<string>nuktadeva</string>
 		<string>anudattadeva</string>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
-		<string>viramalowdeva</string>
-		<string>vattulowdeva</string>
 		<string>udattadeva</string>
 		<string>anusvaradeva</string>
 		<string>anusvaradeva2</string>
@@ -1318,6 +1656,9 @@
 		<string>yanuktaprehalfdeva</string>
 		<string>ranuktaprehalfdeva</string>
 		<string>llanuktaprehalfdeva</string>
+		<string>japrehalf2deva</string>
+		<string>taprehalf2deva</string>
+		<string>januktaprehalf2deva</string>
 		<string>karadeva</string>
 		<string>kharadeva</string>
 		<string>garadeva</string>
@@ -1457,7 +1798,7 @@
 		<string>damadeva</string>
 		<string>dayadeva</string>
 		<string>dayaprehalfdeva</string>
-		<string>sharadeva.copy_1</string>
+		<string>sharvocalicvowelsigndeva</string>
 		<string>ssattadeva</string>
 		<string>ssatthadeva</string>
 		<string>hannadeva</string>

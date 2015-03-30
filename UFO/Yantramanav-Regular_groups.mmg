@@ -1,6 +1,85 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <xml>
-  <group color="1.0 0.0 0.0 0.25" name="L_C" side="left" type="kerning">
+  <group color="1.0 0.0 0.5 0.25" name="A" side="left" type="kerning">
+    <glyphs>
+      A
+      Aacute
+      Abreve
+      Acircumflex
+      Adieresis
+      Agrave
+      Amacron
+      Aogonek
+      Aring
+      Atilde
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="C" side="left" type="kerning">
+    <glyphs>
+      C
+      Cacute
+      Ccaron
+      Ccedilla
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="D" side="left" type="kerning">
+    <glyphs>
+      D
+      Dcaron
+      Dcroat
+      Eth
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="E" side="left" type="kerning">
+    <glyphs>
+      AE
+      E
+      Eacute
+      Ecaron
+      Ecircumflex
+      Edieresis
+      Edotaccent
+      Egrave
+      Emacron
+      Eogonek
+      OE
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="G" side="left" type="kerning">
+    <glyphs>
+      G
+      Gbreve
+      Gcommaaccent
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="I" side="left" type="kerning">
+    <glyphs>
+      I
+      Iacute
+      Icircumflex
+      Idieresis
+      Idotaccent
+      Igrave
+      Imacron
+      Iogonek
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="K" side="left" type="kerning">
+    <glyphs>
+      K
+      Kcommaaccent
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="L" side="left" type="kerning">
+    <glyphs>
+      L
+      Lacute
+      Lcaron
+      Lcommaaccent
+      Lslash
+    </glyphs>
+  </group>
+  <group name="L_C" side="left" type="kerning">
     <glyphs>
       caprehalfdeva
       caraprehalfdeva
@@ -9,7 +88,7 @@
       taraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="L_Da" side="left" type="kerning">
+  <group name="L_Da" side="left" type="kerning">
     <glyphs>
       dabadeva
       dadadeva
@@ -24,7 +103,7 @@
       davadeva
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="L_Gh" side="left" type="kerning">
+  <group name="L_Gh" side="left" type="kerning">
     <glyphs>
       dhaprehalfdeva
       dharaprehalfdeva
@@ -32,13 +111,13 @@
       gharaprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="L_Jh" side="left" type="kerning">
+  <group name="L_Jh" side="left" type="kerning">
     <glyphs>
       jhaprehalfdeva
       jharaprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="L_Ka" side="left" type="kerning">
+  <group name="L_Ka" side="left" type="kerning">
     <glyphs>
       fadeva
       jhadevaNEP
@@ -54,13 +133,13 @@
       uudeva
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="L_KaSh" side="left" type="kerning">
+  <group name="L_KaSh" side="left" type="kerning">
     <glyphs>
       kassaprehalfdeva
       kassaraprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="L_Kh" side="left" type="kerning">
+  <group name="L_Kh" side="left" type="kerning">
     <glyphs>
       khanuktaprehalfdeva
       khanuktaraprehalfdeva
@@ -68,13 +147,13 @@
       kharaprehalfdeva
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="L_L" side="left" type="kerning">
+  <group name="L_L" side="left" type="kerning">
     <glyphs>
       laprehalfdeva
       laraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="L_M" side="left" type="kerning">
+  <group name="L_M" side="left" type="kerning">
     <glyphs>
       bhaprehalfdeva
       bharaprehalfdeva
@@ -82,7 +161,7 @@
       maraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="L_N" side="left" type="kerning">
+  <group name="L_N" side="left" type="kerning">
     <glyphs>
       nanuktaprehalfdeva
       nanuktaraprehalfdeva
@@ -90,7 +169,7 @@
       naraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="L_Ny" side="left" type="kerning">
+  <group name="L_Ny" side="left" type="kerning">
     <glyphs>
       nyaprehalfdeva
       nyaraprehalfdeva
@@ -100,7 +179,7 @@
       raraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="L_P" side="left" type="kerning">
+  <group name="L_P" side="left" type="kerning">
     <glyphs>
       paprehalfdeva
       paraprehalfdeva
@@ -108,7 +187,7 @@
       ssaraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="L_Ph" side="left" type="kerning">
+  <group name="L_Ph" side="left" type="kerning">
     <glyphs>
       jhaprehalfdevaNEP
       jharaprehalfdevaNEP
@@ -122,37 +201,28 @@
       pharaprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="L_Ra" side="left" type="kerning">
-    <glyphs>
-      radeva
-      ranuktaradeva
-      raradeva
-      rradeva
-    </glyphs>
-  </group>
-  <group color="0.0 1.0 1.0 0.25" name="L_Rr" side="left" type="kerning">
-    <glyphs>
-      rrvocalicdeva
-      rvocalicdeva
-    </glyphs>
-  </group>
-  <group color="0.0 0.5 1.0 0.25" name="L_S" side="left" type="kerning">
+  <group name="L_S" side="left" type="kerning">
     <glyphs>
       saprehalfdeva
       saraprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="L_T" side="left" type="kerning">
+  <group name="L_T" side="left" type="kerning">
     <glyphs>
       januktaprehalfdeva
       januktaraprehalfdeva
+      janyaprehalfdeva
+      janyaraprehalfdeva
+      japrehalf2deva
       japrehalfdeva
       jaraprehalfdeva
+      taprehalf2deva
       taprehalfdeva
       tataprehalfdeva
+      zaprehalf2deva
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="L_V" side="left" type="kerning">
+  <group name="L_V" side="left" type="kerning">
     <glyphs>
       baprehalfdeva
       baraprehalfdeva
@@ -160,7 +230,7 @@
       varaprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="L_Y" side="left" type="kerning">
+  <group name="L_Y" side="left" type="kerning">
     <glyphs>
       thaprehalfdeva
       tharaprehalfdeva
@@ -170,13 +240,13 @@
       yaraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="L_comma" side="left" type="kerning">
+  <group name="L_comma" side="left" type="kerning">
     <glyphs>
       comma
       period
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="L_quoteleft" side="left" type="kerning">
+  <group name="L_quoteleft" side="left" type="kerning">
     <glyphs>
       quotedbl
       quotedblleft
@@ -184,22 +254,279 @@
       quotesingle
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="R_A" side="right" type="kerning">
+  <group color="1.0 0.0 1.0 0.25" name="O" side="left" type="kerning">
+    <glyphs>
+      O
+      Oacute
+      Ocircumflex
+      Odieresis
+      Ograve
+      Ohungarumlaut
+      Omacron
+      Oslash
+      Otilde
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="R" side="left" type="kerning">
+    <glyphs>
+      R
+      Racute
+      Rcaron
+      Rcommaaccent
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="S" side="left" type="kerning">
+    <glyphs>
+      S
+      Sacute
+      Scaron
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="T" side="left" type="kerning">
+    <glyphs>
+      T
+      Tcaron
+      uni021A
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="U" side="left" type="kerning">
+    <glyphs>
+      U
+      Uacute
+      Ucircumflex
+      Udieresis
+      Ugrave
+      Uhungarumlaut
+      Umacron
+      Uogonek
+      Uring
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="Y" side="left" type="kerning">
+    <glyphs>
+      Y
+      Yacute
+      Ydieresis
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="Z" side="left" type="kerning">
+    <glyphs>
+      Z
+      Zacute
+      Zcaron
+      Zdotaccent
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="a" side="left" type="kerning">
+    <glyphs>
+      a
+      aacute
+      abreve
+      acircumflex
+      adieresis
+      agrave
+      amacron
+      aogonek
+      aring
+      atilde
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="c" side="left" type="kerning">
+    <glyphs>
+      c
+      cacute
+      ccaron
+      ccedilla
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="e" side="left" type="kerning">
+    <glyphs>
+      ae
+      e
+      eacute
+      ecaron
+      ecircumflex
+      edieresis
+      edotaccent
+      egrave
+      emacron
+      eogonek
+      oe
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="g" side="left" type="kerning">
+    <glyphs>
+      g
+      gbreve
+      gcommaaccent
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="i" side="left" type="kerning">
+    <glyphs>
+      dotlessi
+      i
+      iacute
+      icircumflex
+      idieresis
+      igrave
+      imacron
+      iogonek
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="k" side="left" type="kerning">
+    <glyphs>
+      k
+      kcommaaccent
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="l" side="left" type="kerning">
+    <glyphs>
+      l
+      lacute
+      lcaron
+      lcommaaccent
+      lslash
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="n" side="left" type="kerning">
+    <glyphs>
+      n
+      nacute
+      ncaron
+      ncommaaccent
+      ntilde
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="o" side="left" type="kerning">
+    <glyphs>
+      o
+      oacute
+      ocircumflex
+      odieresis
+      ograve
+      ohungarumlaut
+      omacron
+      oslash
+      otilde
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="r" side="left" type="kerning">
+    <glyphs>
+      r
+      racute
+      rcaron
+      rcommaaccent
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="s" side="left" type="kerning">
+    <glyphs>
+      s
+      sacute
+      scaron
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="t" side="left" type="kerning">
+    <glyphs>
+      t
+      tcaron
+      uni021B
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="u" side="left" type="kerning">
+    <glyphs>
+      u
+      uacute
+      ucircumflex
+      udieresis
+      ugrave
+      uhungarumlaut
+      umacron
+      uogonek
+      uring
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="y" side="left" type="kerning">
+    <glyphs>
+      y
+      yacute
+      ydieresis
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="z" side="left" type="kerning">
+    <glyphs>
+      z
+      zacute
+      zcaron
+      zdotaccent
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="A" side="right" type="kerning">
+    <glyphs>
+      A
+      Aacute
+      Abreve
+      Acircumflex
+      Adieresis
+      Agrave
+      Amacron
+      Aogonek
+      Aring
+      Atilde
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="I" side="right" type="kerning">
+    <glyphs>
+      I
+      Iacute
+      Icircumflex
+      Idieresis
+      Idotaccent
+      Igrave
+      Imacron
+      Iogonek
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="O" side="right" type="kerning">
+    <glyphs>
+      C
+      Cacute
+      Ccaron
+      Ccedilla
+      G
+      Gbreve
+      Gcommaaccent
+      O
+      OE
+      Oacute
+      Ocircumflex
+      Odieresis
+      Ograve
+      Ohungarumlaut
+      Omacron
+      Oslash
+      Otilde
+      Q
+    </glyphs>
+  </group>
+  <group name="R_A" side="right" type="kerning">
     <glyphs>
       aadeva
+      acandradeva
       adeva
       ashortdeva
       audeva
       awdevaKSH
+      ocandradeva
       odeva
       oedevaKSH
       omdeva
       ooedevaKSH
+      oshortdeva
       uedevaKSH
       uuedevaKSH
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="R_Ca" side="right" type="kerning">
+  <group name="R_Ca" side="right" type="kerning">
     <glyphs>
       cadeva
       caprehalfdeva
@@ -210,7 +537,7 @@
       tataprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="R_Cha" side="right" type="kerning">
+  <group name="R_Cha" side="right" type="kerning">
     <glyphs>
       chadeva
       chaprehalfdeva
@@ -219,7 +546,7 @@
       chayadeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="R_Da" side="right" type="kerning">
+  <group name="R_Da" side="right" type="kerning">
     <glyphs>
       dabadeva
       dabhadeva
@@ -254,14 +581,14 @@
       tthayadeva
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="R_DaBha" side="right" type="kerning">
+  <group name="R_DaBha" side="right" type="kerning">
     <glyphs>
       dadhadeva
       dadhayadeva
       daghadeva
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="R_Dda" side="right" type="kerning">
+  <group name="R_Dda" side="right" type="kerning">
     <glyphs>
       ddabardeva
       ddadeva
@@ -281,7 +608,7 @@
       ngayadeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="R_E" side="right" type="kerning">
+  <group name="R_E" side="right" type="kerning">
     <glyphs>
       aideva
       ecandraanusvaradeva
@@ -290,7 +617,7 @@
       eshortdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="R_Ga" side="right" type="kerning">
+  <group name="R_Ga" side="right" type="kerning">
     <glyphs>
       gabardeva
       gadeva
@@ -303,7 +630,7 @@
       ghhadeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="R_Gha" side="right" type="kerning">
+  <group name="R_Gha" side="right" type="kerning">
     <glyphs>
       dhadeva
       dhaprehalfdeva
@@ -315,7 +642,7 @@
       gharaprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="R_Ha" side="right" type="kerning">
+  <group name="R_Ha" side="right" type="kerning">
     <glyphs>
       dadadeva
       damadeva
@@ -339,7 +666,7 @@
       hayadeva
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="R_I" side="right" type="kerning">
+  <group name="R_I" side="right" type="kerning">
     <glyphs>
       ddaddadeva
       ddaddhadeva
@@ -359,7 +686,7 @@
       tthatthadeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="R_Ja" side="right" type="kerning">
+  <group name="R_Ja" side="right" type="kerning">
     <glyphs>
       jabardeva
       jadeva
@@ -370,14 +697,16 @@
       janyaprehalfdeva
       janyaradeva
       janyaraprehalfdeva
+      japrehalf2deva
       japrehalfdeva
       jaradeva
       jaraprehalfdeva
       zadeva
+      zaprehalf2deva
       zhadeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="R_Ka" side="right" type="kerning">
+  <group name="R_Ka" side="right" type="kerning">
     <glyphs>
       kadeva
       kanuktaprehalfdeva
@@ -389,7 +718,7 @@
       qadeva
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="R_KaSsa" side="right" type="kerning">
+  <group name="R_KaSsa" side="right" type="kerning">
     <glyphs>
       kassadeva
       kassaprehalfdeva
@@ -397,7 +726,7 @@
       kassaraprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="R_La" side="right" type="kerning">
+  <group name="R_La" side="right" type="kerning">
     <glyphs>
       ladeva
       ladevaMAR
@@ -417,7 +746,7 @@
       lvocalicdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="R_Ma" side="right" type="kerning">
+  <group name="R_Ma" side="right" type="kerning">
     <glyphs>
       bhadeva
       bhaprehalfdeva
@@ -434,7 +763,7 @@
       maraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="R_Na" side="right" type="kerning">
+  <group name="R_Na" side="right" type="kerning">
     <glyphs>
       nadeva
       nanuktaprehalfdeva
@@ -446,7 +775,7 @@
       nnnadeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.0 0.25" name="R_Nna" side="right" type="kerning">
+  <group name="R_Nna" side="right" type="kerning">
     <glyphs>
       nnadeva
       nnaprehalfdeva
@@ -454,7 +783,7 @@
       nnaraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="R_Nya" side="right" type="kerning">
+  <group name="R_Nya" side="right" type="kerning">
     <glyphs>
       nyadeva
       nyaprehalfdeva
@@ -462,7 +791,7 @@
       nyaraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="R_Pa" side="right" type="kerning">
+  <group name="R_Pa" side="right" type="kerning">
     <glyphs>
       fadeva
       padeva
@@ -482,7 +811,7 @@
       ssaraprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 1.0 0.25" name="R_RMAR" side="right" type="kerning">
+  <group name="R_RMAR" side="right" type="kerning">
     <glyphs>
       ranuktaprehalfdeva
       ranuktaraprehalfdeva
@@ -490,7 +819,7 @@
       raraprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 0.5 1.0 0.25" name="R_Ra" side="right" type="kerning">
+  <group name="R_Ra" side="right" type="kerning">
     <glyphs>
       khadeva
       khanuktaprehalfdeva
@@ -515,7 +844,7 @@
       saraprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 0.0 1.0 0.25" name="R_Sha" side="right" type="kerning">
+  <group name="R_Sha" side="right" type="kerning">
     <glyphs>
       shadeva
       shadevaMAR
@@ -523,19 +852,21 @@
       shaprehalfdevaMAR
     </glyphs>
   </group>
-  <group color="0.5 0.0 1.0 0.25" name="R_ShaRa" side="right" type="kerning">
+  <group name="R_ShaRa" side="right" type="kerning">
     <glyphs>
       sharadeva
       sharaprehalfdeva
+      sharvocalicvowelsigndeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 1.0 0.25" name="R_Ta" side="right" type="kerning">
+  <group name="R_Ta" side="right" type="kerning">
     <glyphs>
       tadeva
+      taprehalf2deva
       taprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.0 0.5 0.25" name="R_TaRa" side="right" type="kerning">
+  <group name="R_TaRa" side="right" type="kerning">
     <glyphs>
       rrvocalicdeva
       rvocalicdeva
@@ -543,13 +874,13 @@
       taraprehalfdeva
     </glyphs>
   </group>
-  <group color="1.0 0.5 0.0 0.25" name="R_U" side="right" type="kerning">
+  <group name="R_U" side="right" type="kerning">
     <glyphs>
       udeva
       uudeva
     </glyphs>
   </group>
-  <group color="1.0 1.0 0.0 0.25" name="R_Va" side="right" type="kerning">
+  <group name="R_Va" side="right" type="kerning">
     <glyphs>
       babardeva
       badeva
@@ -562,7 +893,7 @@
       varaprehalfdeva
     </glyphs>
   </group>
-  <group color="0.0 1.0 0.0 0.25" name="R_Ya" side="right" type="kerning">
+  <group name="R_Ya" side="right" type="kerning">
     <glyphs>
       jjyadeva
       thadeva
@@ -577,6 +908,176 @@
       yaradeva
       yaraprehalfdeva
       yyadeva
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="S" side="right" type="kerning">
+    <glyphs>
+      S
+      Sacute
+      Scaron
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="T" side="right" type="kerning">
+    <glyphs>
+      T
+      Tcaron
+      uni021A
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="U" side="right" type="kerning">
+    <glyphs>
+      U
+      Uacute
+      Ucircumflex
+      Udieresis
+      Ugrave
+      Uhungarumlaut
+      Umacron
+      Uogonek
+      Uring
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="Y" side="right" type="kerning">
+    <glyphs>
+      Y
+      Yacute
+      Ydieresis
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="Z" side="right" type="kerning">
+    <glyphs>
+      Z
+      Zacute
+      Zcaron
+      Zdotaccent
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="a" side="right" type="kerning">
+    <glyphs>
+      a
+      aacute
+      abreve
+      acircumflex
+      adieresis
+      ae
+      agrave
+      amacron
+      aogonek
+      aring
+      atilde
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="c" side="right" type="kerning">
+    <glyphs>
+      c
+      cacute
+      ccaron
+      ccedilla
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="d" side="right" type="kerning">
+    <glyphs>
+      d
+      dcaron
+      dcroat
+      eth
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="e" side="right" type="kerning">
+    <glyphs>
+      e
+      eacute
+      ecaron
+      ecircumflex
+      edieresis
+      edotaccent
+      egrave
+      emacron
+      eogonek
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="g" side="right" type="kerning">
+    <glyphs>
+      g
+      gbreve
+      gcommaaccent
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="i" side="right" type="kerning">
+    <glyphs>
+      dotlessi
+      i
+      iacute
+      icircumflex
+      idieresis
+      igrave
+      imacron
+      iogonek
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="l" side="right" type="kerning">
+    <glyphs>
+      l
+      lacute
+      lcaron
+      lcommaaccent
+      lslash
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="o" side="right" type="kerning">
+    <glyphs>
+      o
+      oacute
+      ocircumflex
+      odieresis
+      oe
+      ograve
+      ohungarumlaut
+      omacron
+      oslash
+      otilde
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="s" side="right" type="kerning">
+    <glyphs>
+      s
+      sacute
+      scaron
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="t" side="right" type="kerning">
+    <glyphs>
+      t
+      tcaron
+      uni021B
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="u" side="right" type="kerning">
+    <glyphs>
+      u
+      uacute
+      ucircumflex
+      udieresis
+      ugrave
+      uhungarumlaut
+      umacron
+      uogonek
+      uring
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="y" side="right" type="kerning">
+    <glyphs>
+      y
+      yacute
+      ydieresis
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="z" side="right" type="kerning">
+    <glyphs>
+      z
+      zacute
+      zcaron
+      zdotaccent
     </glyphs>
   </group>
 </xml>

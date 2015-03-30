@@ -3,10 +3,10 @@
   <advance width="984"/>
   <outline>
     <contour>
-      <point x="993" y="236" type="line"/>
+      <point x="993" y="231" type="line"/>
       <point x="249" y="-127" type="line"/>
       <point x="98" y="85" type="line"/>
-      <point x="858" y="446" type="line"/>
+      <point x="858" y="441" type="line"/>
     </contour>
     <component base="thaprehalfdeva"/>
   </outline>
@@ -17,6 +17,28 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tharaprehalfdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>984</integer>
+        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

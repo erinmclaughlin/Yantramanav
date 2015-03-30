@@ -462,4 +462,12 @@ feature pres {
                 sub haprehalfdeva vadeva by havadeva;                                    
                      
           
-            } PresConj;            
+            } PresConj;
+            
+            lookup PreHalfAlts {
+                
+                sub taprehalfdeva' @pres_halfalt by taprehalf2deva;
+                sub japrehalfdeva' @pres_halfalt by japrehalf2deva;
+                sub januktaprehalfdeva' @pres_halfalt by januktaprehalf2deva;
+                
+            } PreHalfAlts;            

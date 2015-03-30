@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="670" y="371" type="line"/>
-      <point x="581" y="292" type="line"/>
-      <point x="292" y="819" type="line"/>
+      <point x="577" y="292" type="line"/>
+      <point x="288" y="819" type="line"/>
       <point x="380" y="894" type="line"/>
     </contour>
     <component base="vaprehalfdeva"/>
@@ -14,6 +14,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>baprehalfdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>677</integer>
+        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>1</integer>

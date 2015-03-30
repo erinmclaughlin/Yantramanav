@@ -700,6 +700,8 @@
 	<string>jabardeva.glif</string>
 	<key>jadeva</key>
 	<string>jadeva.glif</string>
+	<key>januktaprehalf2deva</key>
+	<string>januktaprehalf2deva.glif</string>
 	<key>januktaprehalfdeva</key>
 	<string>januktaprehalfdeva.glif</string>
 	<key>januktaradeva</key>
@@ -714,6 +716,8 @@
 	<string>janyaradeva.glif</string>
 	<key>janyaraprehalfdeva</key>
 	<string>janyaraprehalfdeva.glif</string>
+	<key>japrehalf2deva</key>
+	<string>japrehalf2deva.glif</string>
 	<key>japrehalfdeva</key>
 	<string>japrehalfdeva.glif</string>
 	<key>jaradeva</key>
@@ -1172,6 +1176,8 @@
 	<string>t.glif</string>
 	<key>tadeva</key>
 	<string>tadeva.glif</string>
+	<key>taprehalf2deva</key>
+	<string>taprehalf2deva.glif</string>
 	<key>taprehalfdeva</key>
 	<string>taprehalfdeva.glif</string>
 	<key>taradeva</key>

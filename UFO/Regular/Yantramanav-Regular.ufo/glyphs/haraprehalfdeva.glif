@@ -3,12 +3,34 @@
   <advance width="1081"/>
   <outline>
     <component base="haradeva"/>
-    <component base="viramalowdeva" xOffset="813" yOffset="-203"/>
+    <component base="viramadeva" xOffset="761" yOffset="-180"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>haraprehalfdeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1081</integer>
+        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>

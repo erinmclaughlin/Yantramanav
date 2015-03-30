@@ -3,10 +3,10 @@
   <advance width="1461"/>
   <outline>
     <contour>
-      <point x="1208" y="400" type="line"/>
+      <point x="1198" y="400" type="line"/>
       <point x="590" y="-31" type="line"/>
       <point x="561" y="3" type="line"/>
-      <point x="1182" y="438" type="line"/>
+      <point x="1172" y="438" type="line"/>
     </contour>
     <component base="ladeva"/>
     <contour>
@@ -32,6 +32,28 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>layer1</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>laradeva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1461</integer>
+        </dict>
       </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>130</integer>
