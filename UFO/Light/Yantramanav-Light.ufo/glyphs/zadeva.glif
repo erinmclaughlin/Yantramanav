@@ -6,7 +6,7 @@
     <component base="jadeva"/>
     <component base="nuktadeva" xOffset="994" yOffset="-79"/>
     <contour>
-      <point x="1102" y="1279" type="move" name="top"/>
+      <point x="1102.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

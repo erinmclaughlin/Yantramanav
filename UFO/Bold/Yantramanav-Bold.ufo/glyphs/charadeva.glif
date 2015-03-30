@@ -3,9 +3,9 @@
   <advance width="1478"/>
   <outline>
     <component base="chadeva"/>
-    <component base="vattudeva" xOffset="1010"/>
+    <component base="vattudeva" xOffset="1051"/>
     <contour>
-      <point x="607" y="-253" type="move" name="btm"/>
+      <point x="607.0" y="-253.0" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>

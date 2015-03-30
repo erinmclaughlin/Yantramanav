@@ -4,10 +4,10 @@
   <unicode hex="097F"/>
   <outline>
     <contour>
-      <point x="837" y="-39" type="line"/>
+      <point x="838" y="-39" type="line"/>
       <point x="172" y="-39" type="line"/>
       <point x="172" y="46" type="line"/>
-      <point x="837" y="46" type="line"/>
+      <point x="838" y="46" type="line"/>
     </contour>
     <component base="badeva"/>
   </outline>

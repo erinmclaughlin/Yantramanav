@@ -5,10 +5,10 @@
     <component base="ladevaMAR"/>
     <component base="vattudeva" xOffset="1040"/>
     <contour>
-      <point x="692" y="-312" type="move" name="btm"/>
+      <point x="692.0" y="-312.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="965" y="1279" type="move" name="top"/>
+      <point x="965.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="698" y="371" type="line"/>
-      <point x="595" y="292" type="line"/>
-      <point x="306" y="819" type="line"/>
+      <point x="594" y="292" type="line"/>
+      <point x="305" y="819" type="line"/>
       <point x="408" y="894" type="line"/>
     </contour>
     <component base="vaprehalfdeva" xOffset="7"/>

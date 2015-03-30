@@ -72,10 +72,10 @@
       <point x="973" y="601"/>
     </contour>
     <contour>
-      <point x="1048" y="2" type="move" name="btm"/>
+      <point x="1048.0" y="2.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="1151" y="1288" type="move" name="top"/>
+      <point x="1151.0" y="1288.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

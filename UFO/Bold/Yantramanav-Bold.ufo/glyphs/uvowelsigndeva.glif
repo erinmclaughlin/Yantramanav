@@ -32,7 +32,7 @@
       <point x="-559" y="-193" type="qcurve"/>
     </contour>
     <contour>
-      <point x="-441" y="0" type="move" name="_btm"/>
+      <point x="-441.0" y="0.0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>

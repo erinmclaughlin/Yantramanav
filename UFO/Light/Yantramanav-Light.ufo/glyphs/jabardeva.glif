@@ -4,14 +4,14 @@
   <unicode hex="097C"/>
   <outline>
     <contour>
-      <point x="1066" y="-48" type="line"/>
+      <point x="1079" y="-48" type="line"/>
       <point x="62" y="-48" type="line"/>
       <point x="62" y="37" type="line"/>
-      <point x="1066" y="37" type="line"/>
+      <point x="1079" y="37" type="line"/>
     </contour>
     <component base="jadeva"/>
     <contour>
-      <point x="1102" y="-95" type="move" name="btm"/>
+      <point x="1102.0" y="-95.0" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>

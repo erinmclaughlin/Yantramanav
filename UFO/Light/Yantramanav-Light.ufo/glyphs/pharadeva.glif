@@ -10,10 +10,10 @@
     </contour>
     <component base="phadeva" xOffset="6"/>
     <contour>
-      <point x="718" y="12" type="move" name="btm"/>
+      <point x="718.0" y="12.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="718" y="1291" type="move" name="top"/>
+      <point x="718.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

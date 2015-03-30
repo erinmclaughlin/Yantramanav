@@ -3,14 +3,14 @@
   <advance width="1278"/>
   <outline>
     <contour>
-      <point x="1000" y="356" type="line"/>
+      <point x="995" y="356" type="line"/>
       <point x="222" y="-35" type="line"/>
       <point x="174" y="45" type="line"/>
-      <point x="958" y="430" type="line"/>
+      <point x="952" y="430" type="line"/>
     </contour>
     <component base="cadeva"/>
     <contour>
-      <point x="912" y="1291" type="move" name="top"/>
+      <point x="912.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

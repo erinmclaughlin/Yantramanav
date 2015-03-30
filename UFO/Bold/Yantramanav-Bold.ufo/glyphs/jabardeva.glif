@@ -11,7 +11,7 @@
     </contour>
     <component base="jadeva"/>
     <contour>
-      <point x="1108" y="-95" type="move" name="btm"/>
+      <point x="1108.0" y="-95.0" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>

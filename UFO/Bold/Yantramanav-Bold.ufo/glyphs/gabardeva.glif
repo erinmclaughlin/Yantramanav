@@ -11,7 +11,7 @@
     </contour>
     <component base="gadeva"/>
     <contour>
-      <point x="829" y="-102" type="move" name="btm"/>
+      <point x="829.0" y="-102.0" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>

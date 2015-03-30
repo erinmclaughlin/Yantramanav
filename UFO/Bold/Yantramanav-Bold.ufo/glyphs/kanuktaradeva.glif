@@ -5,10 +5,10 @@
     <component base="karadeva" xOffset="20" yOffset="-1"/>
     <component base="nuktadeva" xOffset="789" yOffset="210"/>
     <contour>
-      <point x="696" y="0" type="move" name="btm"/>
+      <point x="696.0" y="0.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="696" y="1279" type="move" name="top"/>
+      <point x="696.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

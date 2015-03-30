@@ -8,7 +8,7 @@
     <component base="nuktadeva" xOffset="1418" yOffset="-70"/>
     <component base="nuktadeva" xOffset="940" yOffset="-70"/>
     <contour>
-      <point x="1108" y="1279" type="move" name="top"/>
+      <point x="1108.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

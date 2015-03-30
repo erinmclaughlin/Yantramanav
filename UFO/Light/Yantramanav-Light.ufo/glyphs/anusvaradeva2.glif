@@ -4,7 +4,7 @@
   <outline>
     <component base="anusvaradeva" xOffset="142"/>
     <contour>
-      <point x="-371" y="1291" type="move" name="_top"/>
+      <point x="-371.0" y="1291.0" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

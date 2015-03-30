@@ -16,7 +16,7 @@
     </contour>
     <component base="tadeva" xOffset="125"/>
     <contour>
-      <point x="881" y="1291" type="move" name="top"/>
+      <point x="881.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

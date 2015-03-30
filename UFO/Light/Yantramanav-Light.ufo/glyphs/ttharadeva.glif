@@ -3,12 +3,12 @@
   <advance width="1154"/>
   <outline>
     <component base="tthadeva"/>
-    <component base="vattudeva" xOffset="840"/>
+    <component base="vattudeva" xOffset="871"/>
     <contour>
-      <point x="569" y="-253" type="move" name="btm"/>
+      <point x="569.0" y="-253.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="772" y="1279" type="move" name="top"/>
+      <point x="772.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

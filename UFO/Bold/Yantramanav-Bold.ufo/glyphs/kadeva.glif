@@ -66,10 +66,10 @@
       <point x="854" y="576" type="qcurve"/>
     </contour>
     <contour>
-      <point x="648" y="-4" type="move" name="btm"/>
+      <point x="648.0" y="-4.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="656" y="1288" type="move" name="top"/>
+      <point x="656.0" y="1288.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -126,9 +126,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>913</integer>
+          <integer>755</integer>
           <key>y</key>
-          <integer>1231</integer>
+          <integer>1268</integer>
         </dict>
         <dict>
           <key>angle</key>

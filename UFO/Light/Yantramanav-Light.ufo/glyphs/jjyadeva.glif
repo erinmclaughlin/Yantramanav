@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="842" y="503" type="line"/>
-      <point x="782" y="455" type="line"/>
-      <point x="321" y="1175" type="line"/>
+      <point x="780" y="455" type="line"/>
+      <point x="320" y="1175" type="line"/>
       <point x="374" y="1228" type="line"/>
     </contour>
     <component base="yadeva"/>
     <contour>
-      <point x="822" y="1291" type="move" name="top"/>
+      <point x="822.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

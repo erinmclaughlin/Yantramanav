@@ -11,7 +11,7 @@
     </contour>
     <component base="ddadeva"/>
     <contour>
-      <point x="491" y="-238" type="move" name="btm"/>
+      <point x="491.0" y="-238.0" type="move" name="btm"/>
     </contour>
   </outline>
   <lib>

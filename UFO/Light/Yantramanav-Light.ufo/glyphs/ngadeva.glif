@@ -17,10 +17,10 @@
     </contour>
     <component base="ddadeva"/>
     <contour>
-      <point x="463" y="65" type="move" name="btm"/>
+      <point x="463.0" y="65.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="676" y="1291" type="move" name="top"/>
+      <point x="676.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

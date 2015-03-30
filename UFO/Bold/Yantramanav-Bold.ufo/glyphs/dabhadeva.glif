@@ -47,10 +47,10 @@
     </contour>
     <component base="dadeva" xOffset="63"/>
     <contour>
-      <point x="702" y="-257" type="move" name="btm"/>
+      <point x="702.0" y="-257.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="721" y="1291" type="move" name="top"/>
+      <point x="721.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

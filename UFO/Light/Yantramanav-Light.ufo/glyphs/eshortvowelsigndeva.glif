@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="-332" y="1245" type="line"/>
-      <point x="-332" y="1335" type="line" smooth="yes"/>
+      <point x="-332" y="1335" type="line"/>
       <point x="-332" y="1422"/>
       <point x="-400" y="1492"/>
       <point x="-457" y="1492" type="qcurve" smooth="yes"/>
@@ -59,9 +59,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <integer>-325</integer>
+          <integer>-416</integer>
           <key>y</key>
-          <integer>1364</integer>
+          <integer>1623</integer>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>

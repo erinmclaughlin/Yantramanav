@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddharaprehalfdeva" format="1">
-  <advance width="1084"/>
+  <advance width="1119"/>
   <outline>
-    <component base="vattuviramadeva" xOffset="910"/>
-    <component base="ddhadeva"/>
+    <component base="ddharadeva"/>
+    <component base="viramadeva" xOffset="997" yOffset="-167"/>
   </outline>
   <lib>
     <dict>

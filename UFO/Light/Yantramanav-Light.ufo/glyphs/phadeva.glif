@@ -33,10 +33,10 @@
     </contour>
     <component base="padeva"/>
     <contour>
-      <point x="700" y="-5" type="move" name="btm"/>
+      <point x="700.0" y="-5.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="696" y="1271" type="move" name="top"/>
+      <point x="696.0" y="1271.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

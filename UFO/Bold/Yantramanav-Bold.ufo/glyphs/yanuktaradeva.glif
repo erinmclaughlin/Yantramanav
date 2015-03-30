@@ -5,7 +5,7 @@
     <component base="yaradeva"/>
     <component base="nuktadeva" xOffset="880" yOffset="260"/>
     <contour>
-      <point x="489" y="1279" type="move" name="top"/>
+      <point x="489.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

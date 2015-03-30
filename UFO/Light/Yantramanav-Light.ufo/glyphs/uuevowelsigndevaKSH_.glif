@@ -6,7 +6,7 @@
     <component base="uevowelsigndevaKSH" yScale="0.915369153023" yOffset="-9"/>
     <component base="uevowelsigndevaKSH" xScale="1.05154466629" yScale="0.889850735664" xOffset="17" yOffset="-213"/>
     <contour>
-      <point x="-370" y="0" type="move" name="_btm"/>
+      <point x="-370.0" y="0.0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>

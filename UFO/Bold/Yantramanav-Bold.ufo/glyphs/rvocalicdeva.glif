@@ -90,7 +90,7 @@
       <point x="664" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="780" y="1271" type="move" name="mark0"/>
+      <point x="780.0" y="1271.0" type="move" name="mark0"/>
     </contour>
   </outline>
   <lib>

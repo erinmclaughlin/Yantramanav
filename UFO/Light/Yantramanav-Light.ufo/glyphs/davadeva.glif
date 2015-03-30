@@ -26,10 +26,10 @@
     </contour>
     <component base="dadeva"/>
     <contour>
-      <point x="602" y="-257" type="move" name="btm"/>
+      <point x="602.0" y="-257.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="646" y="1291" type="move" name="top"/>
+      <point x="646.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

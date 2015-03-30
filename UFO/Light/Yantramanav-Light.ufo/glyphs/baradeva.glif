@@ -3,14 +3,14 @@
   <advance width="1078"/>
   <outline>
     <contour>
-      <point x="832" y="382" type="line"/>
+      <point x="826" y="382" type="line"/>
       <point x="134" y="-30" type="line"/>
       <point x="84" y="53" type="line"/>
-      <point x="783" y="457" type="line"/>
+      <point x="778" y="457" type="line"/>
     </contour>
     <component base="badeva"/>
     <contour>
-      <point x="741" y="1291" type="move" name="top"/>
+      <point x="741.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

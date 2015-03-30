@@ -6,10 +6,10 @@
     <component base="lladeva"/>
     <component base="nuktadeva" xOffset="1084" yOffset="-100"/>
     <contour>
-      <point x="981" y="25" type="move" name="btm"/>
+      <point x="981.0" y="25.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="1067" y="1279" type="move" name="top"/>
+      <point x="1067.0" y="1279.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

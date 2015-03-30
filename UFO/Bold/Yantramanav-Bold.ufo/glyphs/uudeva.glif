@@ -33,7 +33,7 @@
     </contour>
     <component base="udeva"/>
     <contour>
-      <point x="482" y="1288" type="move" name="top"/>
+      <point x="482.0" y="1288.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

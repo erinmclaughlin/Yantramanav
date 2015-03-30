@@ -2,6 +2,60 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>@MMK_L_A</key>
+	<array>
+		<string>A</string>
+		<string>Aring</string>
+		<string>Adieresis</string>
+		<string>Aacute</string>
+		<string>Amacron</string>
+		<string>Agrave</string>
+		<string>Atilde</string>
+		<string>Acircumflex</string>
+		<string>Aogonek</string>
+		<string>Abreve</string>
+	</array>
+	<key>@MMK_L_C</key>
+	<array>
+		<string>Ccedilla</string>
+		<string>C</string>
+		<string>Cacute</string>
+		<string>Ccaron</string>
+	</array>
+	<key>@MMK_L_D</key>
+	<array>
+		<string>Eth</string>
+		<string>Dcroat</string>
+		<string>D</string>
+		<string>Dcaron</string>
+	</array>
+	<key>@MMK_L_E</key>
+	<array>
+		<string>Ecaron</string>
+		<string>Egrave</string>
+		<string>Eogonek</string>
+		<string>E</string>
+		<string>Ecircumflex</string>
+		<string>OE</string>
+		<string>Edieresis</string>
+		<string>Emacron</string>
+		<string>Eacute</string>
+		<string>AE</string>
+		<string>Edotaccent</string>
+	</array>
+	<key>@MMK_L_K</key>
+	<array>
+		<string>K</string>
+		<string>Kcommaaccent</string>
+	</array>
+	<key>@MMK_L_L</key>
+	<array>
+		<string>Lslash</string>
+		<string>Lcommaaccent</string>
+		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
+	</array>
 	<key>@MMK_L_L_C</key>
 	<array>
 		<string>dayaprehalfdeva</string>
@@ -84,10 +138,10 @@
 	</array>
 	<key>@MMK_L_L_Ny</key>
 	<array>
-		<string>ranuktaraprehalfdeva</string>
 		<string>nyaprehalfdeva</string>
 		<string>ranuktaprehalfdeva</string>
 		<string>nyaraprehalfdeva</string>
+		<string>ranuktaraprehalfdeva</string>
 		<string>raprehalfdeva</string>
 		<string>raraprehalfdeva</string>
 	</array>
@@ -103,25 +157,13 @@
 		<string>pharaprehalfdeva</string>
 		<string>kanuktaprehalfdeva</string>
 		<string>phanuktaraprehalfdeva</string>
-		<string>phanuktaprehalfdeva</string>
 		<string>jhaprehalfdevaNEP</string>
+		<string>phanuktaprehalfdeva</string>
 		<string>kaprehalfdeva</string>
 		<string>jharaprehalfdevaNEP</string>
 		<string>kanuktaraprehalfdeva</string>
 		<string>phaprehalfdeva</string>
 		<string>karaprehalfdeva</string>
-	</array>
-	<key>@MMK_L_L_Ra</key>
-	<array>
-		<string>rradeva</string>
-		<string>ranuktaradeva</string>
-		<string>radeva</string>
-		<string>raradeva</string>
-	</array>
-	<key>@MMK_L_L_Rr</key>
-	<array>
-		<string>rrvocalicdeva</string>
-		<string>rvocalicdeva</string>
 	</array>
 	<key>@MMK_L_L_S</key>
 	<array>
@@ -130,12 +172,17 @@
 	</array>
 	<key>@MMK_L_L_T</key>
 	<array>
-		<string>januktaprehalfdeva</string>
+		<string>japrehalf2deva</string>
 		<string>japrehalfdeva</string>
+		<string>taprehalf2deva</string>
+		<string>janyaraprehalfdeva</string>
+		<string>janyaprehalfdeva</string>
+		<string>januktaraprehalfdeva</string>
+		<string>januktaprehalfdeva</string>
+		<string>jaraprehalfdeva</string>
 		<string>tataprehalfdeva</string>
 		<string>taprehalfdeva</string>
-		<string>januktaraprehalfdeva</string>
-		<string>jaraprehalfdeva</string>
+		<string>januktaprehalf2deva</string>
 	</array>
 	<key>@MMK_L_L_V</key>
 	<array>
@@ -149,8 +196,8 @@
 		<string>yanuktaraprehalfdeva</string>
 		<string>yaraprehalfdeva</string>
 		<string>yanuktaprehalfdeva</string>
-		<string>tharaprehalfdeva</string>
 		<string>yaprehalfdeva</string>
+		<string>tharaprehalfdeva</string>
 		<string>thaprehalfdeva</string>
 	</array>
 	<key>@MMK_L_L_comma</key>
@@ -164,6 +211,137 @@
 		<string>quotesingle</string>
 		<string>quotedblleft</string>
 		<string>quoteleft</string>
+	</array>
+	<key>@MMK_L_R</key>
+	<array>
+		<string>Racute</string>
+		<string>Rcommaaccent</string>
+		<string>R</string>
+		<string>Rcaron</string>
+	</array>
+	<key>@MMK_L_T</key>
+	<array>
+		<string>uni021A</string>
+		<string>T</string>
+		<string>Tcaron</string>
+	</array>
+	<key>@MMK_L_Y</key>
+	<array>
+		<string>Y</string>
+		<string>Ydieresis</string>
+		<string>Yacute</string>
+	</array>
+	<key>@MMK_L_Z</key>
+	<array>
+		<string>Zacute</string>
+		<string>Z</string>
+		<string>Zcaron</string>
+		<string>Zdotaccent</string>
+	</array>
+	<key>@MMK_L_a</key>
+	<array>
+		<string>a</string>
+		<string>aring</string>
+		<string>adieresis</string>
+		<string>aacute</string>
+		<string>amacron</string>
+		<string>agrave</string>
+		<string>atilde</string>
+		<string>acircumflex</string>
+		<string>aogonek</string>
+		<string>abreve</string>
+	</array>
+	<key>@MMK_L_c</key>
+	<array>
+		<string>ccedilla</string>
+		<string>c</string>
+		<string>cacute</string>
+		<string>ccaron</string>
+	</array>
+	<key>@MMK_L_e</key>
+	<array>
+		<string>ecaron</string>
+		<string>egrave</string>
+		<string>eogonek</string>
+		<string>e</string>
+		<string>oe</string>
+		<string>edieresis</string>
+		<string>emacron</string>
+		<string>eacute</string>
+		<string>ecircumflex</string>
+		<string>ae</string>
+		<string>edotaccent</string>
+	</array>
+	<key>@MMK_L_k</key>
+	<array>
+		<string>k</string>
+		<string>kcommaaccent</string>
+	</array>
+	<key>@MMK_L_o</key>
+	<array>
+		<string>oslash</string>
+		<string>omacron</string>
+		<string>odieresis</string>
+		<string>ohungarumlaut</string>
+		<string>ograve</string>
+		<string>ocircumflex</string>
+		<string>otilde</string>
+		<string>o</string>
+		<string>oacute</string>
+	</array>
+	<key>@MMK_L_r</key>
+	<array>
+		<string>racute</string>
+		<string>rcommaaccent</string>
+		<string>r</string>
+		<string>rcaron</string>
+	</array>
+	<key>@MMK_L_y</key>
+	<array>
+		<string>y</string>
+		<string>ydieresis</string>
+		<string>yacute</string>
+	</array>
+	<key>@MMK_L_z</key>
+	<array>
+		<string>zacute</string>
+		<string>z</string>
+		<string>zcaron</string>
+		<string>zdotaccent</string>
+	</array>
+	<key>@MMK_R_A</key>
+	<array>
+		<string>A</string>
+		<string>Aring</string>
+		<string>Adieresis</string>
+		<string>Aacute</string>
+		<string>Amacron</string>
+		<string>Agrave</string>
+		<string>Atilde</string>
+		<string>Acircumflex</string>
+		<string>Aogonek</string>
+		<string>Abreve</string>
+	</array>
+	<key>@MMK_R_O</key>
+	<array>
+		<string>Oslash</string>
+		<string>Gbreve</string>
+		<string>C</string>
+		<string>Odieresis</string>
+		<string>G</string>
+		<string>Ohungarumlaut</string>
+		<string>Ograve</string>
+		<string>OE</string>
+		<string>Cacute</string>
+		<string>Omacron</string>
+		<string>Ccaron</string>
+		<string>Otilde</string>
+		<string>Q</string>
+		<string>O</string>
+		<string>Ccedilla</string>
+		<string>Ocircumflex</string>
+		<string>Gcommaaccent</string>
+		<string>Oacute</string>
 	</array>
 	<key>@MMK_R_R_A</key>
 	<array>
@@ -187,10 +365,10 @@
 		<string>caraprehalfdeva</string>
 		<string>tatadeva</string>
 		<string>cadeva</string>
+		<string>katadeva</string>
 		<string>tataprehalfdeva</string>
 		<string>caprehalfdeva</string>
 		<string>caradeva</string>
-		<string>katadeva</string>
 	</array>
 	<key>@MMK_R_R_Cha</key>
 	<array>
@@ -202,36 +380,36 @@
 	</array>
 	<key>@MMK_R_R_Da</key>
 	<array>
-		<string>tthaprehalfdeva</string>
-		<string>ttaprehalfdeva</string>
-		<string>davadeva</string>
-		<string>daudeva</string>
-		<string>darvocalicdeva</string>
-		<string>daprehalfdeva</string>
-		<string>ddhadeva</string>
+		<string>tthadeva</string>
 		<string>ttadeva</string>
-		<string>ddhanuktaraprehalfdeva</string>
-		<string>ttaraprehalfdeva</string>
 		<string>ddhanuktaprehalfdeva</string>
 		<string>daraprehalfdeva</string>
+		<string>ttharaprehalfdeva</string>
+		<string>dagadeva</string>
+		<string>ttaprehalfdeva</string>
+		<string>ttaradeva</string>
+		<string>ttharadeva</string>
+		<string>rha2deva</string>
+		<string>tthaprehalfdeva</string>
+		<string>ddhadeva</string>
+		<string>davadeva</string>
+		<string>darvocalicdeva</string>
+		<string>daudeva</string>
+		<string>daprehalfdeva</string>
+		<string>ttaraprehalfdeva</string>
 		<string>ddharadeva</string>
 		<string>ddharaprehalfdeva</string>
 		<string>dabadeva</string>
-		<string>ttharaprehalfdeva</string>
-		<string>dagadeva</string>
+		<string>dauudeva</string>
 		<string>tthayadeva</string>
 		<string>ddhaprehalfdeva</string>
 		<string>ttayadeva</string>
 		<string>daradeva</string>
 		<string>ddhanuktaradeva</string>
-		<string>tthadeva</string>
-		<string>ttaradeva</string>
+		<string>ddhanuktaraprehalfdeva</string>
 		<string>rhadeva</string>
 		<string>dadeva</string>
-		<string>ttharadeva</string>
-		<string>rha2deva</string>
 		<string>dabhadeva</string>
-		<string>dauudeva</string>
 		<string>ddhayadeva</string>
 	</array>
 	<key>@MMK_R_R_DaBha</key>
@@ -242,22 +420,22 @@
 	</array>
 	<key>@MMK_R_R_Dda</key>
 	<array>
-		<string>ddayadeva</string>
-		<string>ddaprehalfdeva</string>
+		<string>ddaraprehalfdeva</string>
 		<string>ngaraprehalfdeva</string>
+		<string>ddayadeva</string>
+		<string>dddhadeva</string>
+		<string>ddaprehalfdeva</string>
+		<string>ddadeva</string>
 		<string>ddaradeva</string>
+		<string>dddha2deva</string>
 		<string>ddabardeva</string>
+		<string>ngayadeva</string>
+		<string>ddanuktaradeva</string>
 		<string>ddanuktaraprehalfdeva</string>
 		<string>ngaprehalfdeva</string>
-		<string>ngayadeva</string>
-		<string>ngaradeva</string>
-		<string>ddadeva</string>
 		<string>ngadeva</string>
-		<string>ddaraprehalfdeva</string>
-		<string>ddanuktaradeva</string>
-		<string>dddhadeva</string>
+		<string>ngaradeva</string>
 		<string>ddanuktaprehalfdeva</string>
-		<string>dddha2deva</string>
 	</array>
 	<key>@MMK_R_R_E</key>
 	<array>
@@ -293,42 +471,43 @@
 	<key>@MMK_R_R_Ha</key>
 	<array>
 		<string>dayadeva</string>
+		<string>hauudeva</string>
+		<string>hayadeva</string>
 		<string>dadadeva</string>
 		<string>haudeva</string>
+		<string>haprehalfdeva</string>
 		<string>hamadeva</string>
-		<string>hauudeva</string>
 		<string>harrvocalicdeva</string>
-		<string>dayaprehalfdeva</string>
-		<string>harvocalicdeva</string>
-		<string>harauudeva</string>
+		<string>haradeva</string>
 		<string>hadeva</string>
 		<string>haraprehalfdeva</string>
-		<string>damadeva</string>
-		<string>haraudeva</string>
-		<string>hayadeva</string>
-		<string>haprehalfdeva</string>
-		<string>haradeva</string>
-		<string>havadeva</string>
+		<string>dayaprehalfdeva</string>
+		<string>harauudeva</string>
 		<string>hannadeva</string>
+		<string>harvocalicdeva</string>
+		<string>havadeva</string>
 		<string>hanadeva</string>
 		<string>haladeva</string>
+		<string>haraudeva</string>
+		<string>damadeva</string>
 	</array>
 	<key>@MMK_R_R_I</key>
 	<array>
 		<string>ssattadeva</string>
+		<string>ddaddadeva</string>
 		<string>jharaprehalfdeva</string>
-		<string>ddaddhadeva</string>
 		<string>ddhaddhadeva</string>
 		<string>ttattadeva</string>
+		<string>ttavadeva</string>
 		<string>iianusvaradeva</string>
 		<string>tthatthadeva</string>
-		<string>ideva</string>
+		<string>ddaddhadeva</string>
 		<string>jhadeva</string>
 		<string>ttatthadeva</string>
 		<string>jhaprehalfdeva</string>
 		<string>ssatthadeva</string>
 		<string>iideva</string>
-		<string>ddaddadeva</string>
+		<string>ideva</string>
 		<string>jharadeva</string>
 	</array>
 	<key>@MMK_R_R_Ja</key>
@@ -336,17 +515,19 @@
 		<string>jabardeva</string>
 		<string>januktaradeva</string>
 		<string>zadeva</string>
+		<string>japrehalf2deva</string>
 		<string>japrehalfdeva</string>
-		<string>zhadeva</string>
 		<string>janyaradeva</string>
+		<string>zhadeva</string>
 		<string>janyaraprehalfdeva</string>
 		<string>janyaprehalfdeva</string>
-		<string>jaraprehalfdeva</string>
+		<string>januktaraprehalfdeva</string>
 		<string>januktaprehalfdeva</string>
 		<string>jadeva</string>
+		<string>jaraprehalfdeva</string>
 		<string>janyadeva</string>
 		<string>jaradeva</string>
-		<string>januktaraprehalfdeva</string>
+		<string>januktaprehalf2deva</string>
 	</array>
 	<key>@MMK_R_R_Ka</key>
 	<array>
@@ -368,22 +549,22 @@
 	</array>
 	<key>@MMK_R_R_La</key>
 	<array>
-		<string>lvocalicdeva</string>
+		<string>llaraprehalfdeva</string>
 		<string>llaprehalfdeva</string>
 		<string>laprehalfdeva</string>
+		<string>lvocalicdeva</string>
 		<string>ladeva</string>
-		<string>lladeva</string>
-		<string>laradeva</string>
-		<string>llanuktaradeva</string>
-		<string>llvocalicdeva</string>
-		<string>llanuktaprehalfdeva</string>
-		<string>llaraprehalfdeva</string>
 		<string>laraprehalfdeva</string>
+		<string>lladeva</string>
 		<string>llaradeva</string>
 		<string>llladeva</string>
+		<string>laradeva</string>
 		<string>laradevaMAR</string>
 		<string>llanuktaraprehalfdeva</string>
 		<string>ladevaMAR</string>
+		<string>llvocalicdeva</string>
+		<string>llanuktaprehalfdeva</string>
+		<string>llanuktaradeva</string>
 	</array>
 	<key>@MMK_R_R_Ma</key>
 	<array>
@@ -404,11 +585,11 @@
 	<key>@MMK_R_R_Na</key>
 	<array>
 		<string>naprehalfdeva</string>
-		<string>naradeva</string>
+		<string>nanuktaprehalfdeva</string>
 		<string>naraprehalfdeva</string>
 		<string>nanuktaradeva</string>
 		<string>nnnadeva</string>
-		<string>nanuktaprehalfdeva</string>
+		<string>naradeva</string>
 		<string>nanuktaraprehalfdeva</string>
 		<string>nadeva</string>
 	</array>
@@ -428,22 +609,22 @@
 	</array>
 	<key>@MMK_R_R_Pa</key>
 	<array>
+		<string>paprehalfdeva</string>
 		<string>pharaprehalfdeva</string>
 		<string>ssaraprehalfdeva</string>
-		<string>ssaradeva</string>
+		<string>phanuktaradeva</string>
 		<string>padeva</string>
 		<string>phanuktaraprehalfdeva</string>
+		<string>paraprehalfdeva</string>
 		<string>fadeva</string>
 		<string>phanuktaprehalfdeva</string>
+		<string>ssadeva</string>
+		<string>ssaradeva</string>
 		<string>paradeva</string>
 		<string>phaprehalfdeva</string>
 		<string>phadeva</string>
 		<string>pharadeva</string>
-		<string>paprehalfdeva</string>
-		<string>phanuktaradeva</string>
 		<string>ssaprehalfdeva</string>
-		<string>paraprehalfdeva</string>
-		<string>ssadeva</string>
 	</array>
 	<key>@MMK_R_R_RMAR</key>
 	<array>
@@ -454,27 +635,27 @@
 	</array>
 	<key>@MMK_R_R_Ra</key>
 	<array>
-		<string>khanuktaprehalfdeva</string>
-		<string>rahalantdeva</string>
-		<string>khanuktaradeva</string>
 		<string>saprehalfdeva</string>
-		<string>raudeva</string>
-		<string>khadeva</string>
-		<string>khhadeva</string>
-		<string>ranuktauudeva</string>
-		<string>khaprehalfdeva</string>
+		<string>khanuktaprehalfdeva</string>
 		<string>rauudeva</string>
 		<string>kharaprehalfdeva</string>
-		<string>raradeva</string>
+		<string>khanuktaradeva</string>
 		<string>radeva</string>
 		<string>saradeva</string>
+		<string>khhadeva</string>
 		<string>rradeva</string>
+		<string>raudeva</string>
+		<string>khadeva</string>
 		<string>saraprehalfdeva</string>
 		<string>khanuktaraprehalfdeva</string>
+		<string>kharadeva</string>
+		<string>rahalantdeva</string>
 		<string>sadeva</string>
 		<string>ranuktaradeva</string>
-		<string>kharadeva</string>
+		<string>ranuktauudeva</string>
 		<string>ranuktaudeva</string>
+		<string>khaprehalfdeva</string>
+		<string>raradeva</string>
 	</array>
 	<key>@MMK_R_R_Sha</key>
 	<array>
@@ -486,12 +667,14 @@
 	<key>@MMK_R_R_ShaRa</key>
 	<array>
 		<string>sharaprehalfdeva</string>
+		<string>sharvocalicvowelsigndeva</string>
 		<string>sharadeva</string>
 	</array>
 	<key>@MMK_R_R_Ta</key>
 	<array>
 		<string>tadeva</string>
 		<string>taprehalfdeva</string>
+		<string>taprehalf2deva</string>
 	</array>
 	<key>@MMK_R_R_TaRa</key>
 	<array>
@@ -532,6 +715,139 @@
 		<string>tharadeva</string>
 		<string>tharaprehalfdeva</string>
 		<string>thaprehalfdeva</string>
+	</array>
+	<key>@MMK_R_S</key>
+	<array>
+		<string>S</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+	</array>
+	<key>@MMK_R_T</key>
+	<array>
+		<string>uni021A</string>
+		<string>T</string>
+		<string>Tcaron</string>
+	</array>
+	<key>@MMK_R_U</key>
+	<array>
+		<string>Udieresis</string>
+		<string>Uhungarumlaut</string>
+		<string>Umacron</string>
+		<string>Uacute</string>
+		<string>Uring</string>
+		<string>Ugrave</string>
+		<string>Uogonek</string>
+		<string>Ucircumflex</string>
+		<string>U</string>
+	</array>
+	<key>@MMK_R_Y</key>
+	<array>
+		<string>Y</string>
+		<string>Ydieresis</string>
+		<string>Yacute</string>
+	</array>
+	<key>@MMK_R_Z</key>
+	<array>
+		<string>Zacute</string>
+		<string>Z</string>
+		<string>Zcaron</string>
+		<string>Zdotaccent</string>
+	</array>
+	<key>@MMK_R_a</key>
+	<array>
+		<string>a</string>
+		<string>aring</string>
+		<string>ae</string>
+		<string>aacute</string>
+		<string>amacron</string>
+		<string>agrave</string>
+		<string>atilde</string>
+		<string>acircumflex</string>
+		<string>adieresis</string>
+		<string>aogonek</string>
+		<string>abreve</string>
+	</array>
+	<key>@MMK_R_c</key>
+	<array>
+		<string>ccedilla</string>
+		<string>c</string>
+		<string>cacute</string>
+		<string>ccaron</string>
+	</array>
+	<key>@MMK_R_d</key>
+	<array>
+		<string>eth</string>
+		<string>dcroat</string>
+		<string>d</string>
+		<string>dcaron</string>
+	</array>
+	<key>@MMK_R_e</key>
+	<array>
+		<string>ecaron</string>
+		<string>egrave</string>
+		<string>eogonek</string>
+		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>emacron</string>
+		<string>eacute</string>
+		<string>e</string>
+		<string>edotaccent</string>
+	</array>
+	<key>@MMK_R_g</key>
+	<array>
+		<string>gbreve</string>
+		<string>gcommaaccent</string>
+		<string>g</string>
+	</array>
+	<key>@MMK_R_o</key>
+	<array>
+		<string>oslash</string>
+		<string>omacron</string>
+		<string>odieresis</string>
+		<string>ohungarumlaut</string>
+		<string>ograve</string>
+		<string>oe</string>
+		<string>otilde</string>
+		<string>o</string>
+		<string>ocircumflex</string>
+		<string>oacute</string>
+	</array>
+	<key>@MMK_R_s</key>
+	<array>
+		<string>s</string>
+		<string>sacute</string>
+		<string>scaron</string>
+	</array>
+	<key>@MMK_R_t</key>
+	<array>
+		<string>t</string>
+		<string>uni021B</string>
+		<string>tcaron</string>
+	</array>
+	<key>@MMK_R_u</key>
+	<array>
+		<string>udieresis</string>
+		<string>uhungarumlaut</string>
+		<string>umacron</string>
+		<string>uacute</string>
+		<string>uring</string>
+		<string>ugrave</string>
+		<string>uogonek</string>
+		<string>ucircumflex</string>
+		<string>u</string>
+	</array>
+	<key>@MMK_R_y</key>
+	<array>
+		<string>y</string>
+		<string>ydieresis</string>
+		<string>yacute</string>
+	</array>
+	<key>@MMK_R_z</key>
+	<array>
+		<string>zacute</string>
+		<string>z</string>
+		<string>zcaron</string>
+		<string>zdotaccent</string>
 	</array>
 	<key>abvb_JhaNEP</key>
 	<array>
@@ -856,14 +1172,6 @@
 	</array>
 	<key>blwm_markslow</key>
 	<array>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
-		<string>viramalowdeva</string>
-		<string>vattulowdeva</string>
 	</array>
 	<key>blws_dflt_v</key>
 	<array>
@@ -902,13 +1210,6 @@
 	</array>
 	<key>blws_low_v</key>
 	<array>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>viramalowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
 	</array>
 	<key>blws_low_vattu_0</key>
 	<array>
@@ -916,7 +1217,6 @@
 	</array>
 	<key>blws_low_vattu_1</key>
 	<array>
-		<string>vattulowdeva</string>
 	</array>
 	<key>blws_nuktvowels</key>
 	<array>
@@ -971,13 +1271,6 @@
 	</array>
 	<key>blws_vattu_1</key>
 	<array>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>viramalowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
 	</array>
 	<key>blws_vattu_c_0</key>
 	<array>
@@ -1681,14 +1974,6 @@
 		<string>uuevowelsigndevaKSH</string>
 		<string>nuktadeva</string>
 		<string>anudattadeva</string>
-		<string>uvowelsignlowdeva</string>
-		<string>uuvowelsignlowdeva</string>
-		<string>rvocalicvowelsignlowdeva</string>
-		<string>rrvocaliclowdeva</string>
-		<string>lvocalicvowelsignlowdeva</string>
-		<string>llvocalicvowelsignlowdeva</string>
-		<string>viramalowdeva</string>
-		<string>vattulowdeva</string>
 		<string>udattadeva</string>
 		<string>anusvaradeva</string>
 		<string>candrabindudeva</string>

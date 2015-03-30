@@ -28,7 +28,7 @@
       <point x="-144" y="-341" type="qcurve"/>
     </contour>
     <contour>
-      <point x="-370" y="12" type="move" name="_btm"/>
+      <point x="-370.0" y="12.0" type="move" name="_btm"/>
     </contour>
   </outline>
   <lib>

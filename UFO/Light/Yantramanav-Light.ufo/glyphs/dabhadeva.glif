@@ -14,8 +14,8 @@
       <point x="434" y="-20" type="line"/>
       <point x="391" y="-25" type="line"/>
       <point x="729" y="247" type="line"/>
-      <point x="785" y="183" type="line"/>
-      <point x="442" y="-102" type="line"/>
+      <point x="785" y="184" type="line"/>
+      <point x="442" y="-101" type="line"/>
       <point x="466" y="-54" type="line"/>
       <point x="493" y="-89" type="line"/>
       <point x="505" y="-105"/>
@@ -47,10 +47,10 @@
     </contour>
     <component base="dadeva" xOffset="56"/>
     <contour>
-      <point x="695" y="-257" type="move" name="btm"/>
+      <point x="695.0" y="-257.0" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="714" y="1291" type="move" name="top"/>
+      <point x="714.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

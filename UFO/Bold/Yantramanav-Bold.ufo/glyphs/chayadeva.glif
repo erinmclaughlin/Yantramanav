@@ -48,7 +48,7 @@
     </contour>
     <component base="chaprehalfdeva"/>
     <contour>
-      <point x="2120" y="1291" type="move" name="top"/>
+      <point x="2120.0" y="1291.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
