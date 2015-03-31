@@ -32,6 +32,7 @@ feature blws {
                 sub dddhadeva' @blws_nuktvowels by dddha2deva;
           
             } NuktAlt;
+            
 
             lookup VowelLiga { 
           
@@ -50,6 +51,8 @@ feature blws {
                 sub dadeva rvocalicvowelsigndeva by darvocalicdeva; 
                 sub hadeva rvocalicvowelsigndeva by harvocalicdeva;
                 sub hadeva rrvocalicvowelsigndeva by harrvocalicdeva;
+                
+                sub shadeva rvocalicvowelsigndeva by sharvocalicvowelsigndeva;
            
             } VowelLiga;
 
