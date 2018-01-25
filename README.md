@@ -3,7 +3,7 @@ Yantramanav यंत्रमानव
 
 Yantramanav is a Devanagari typeface family designed by [Erin McLaughlin](http://www.erinmclaughlin.com). 
 
-The style and weights of Yantramanav Devanagari were designed as a compliment to the Latin glyphs of [Roboto](http://www.google.com/fonts/specimen/Roboto), a family designed by Christian Robertson.
+The style and weights of Yantramanav Devanagari were designed as a complement to the Latin glyphs of [Roboto](http://www.google.com/fonts/specimen/Roboto), a family designed by Christian Robertson.
 
 Yantramanav will be available for free via the Google Web Fonts project.
 
